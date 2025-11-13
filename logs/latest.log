@@ -1,6 +1,6 @@
-[21:43:31] [main/INFO]: Loading Minecraft 1.21.10 with Fabric Loader 0.17.3
-[21:43:31] [ForkJoinPool-1-worker-17/WARN]: Mod moredelight uses the version 25.07.28a-1.21.7-fabric which isn't compatible with Loader's extended semantic version format (Could not parse version number component '28a'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[21:43:31] [main/INFO]: Loading 146 mods:
+[16:13:53] [main/INFO]: Loading Minecraft 1.21.10 with Fabric Loader 0.17.3
+[16:13:53] [ForkJoinPool-1-worker-3/WARN]: Mod moredelight uses the version 25.07.28a-1.21.7-fabric which isn't compatible with Loader's extended semantic version format (Could not parse version number component '28a'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[16:13:53] [main/INFO]: Loading 147 mods:
 	- appleskin 3.0.7+mc1.21.9
 	- architectury 18.0.6
 	- balm 21.10.8
@@ -113,10 +113,12 @@
 	- framework 0.13.2
 	   |-- org_javassist_javassist 3.29.2-GA
 	   \-- org_reflections_reflections 0.10.2
-	- java 22
+	- java 21
 	- jei 26.1.0.16
 	- kleeslabs 21.10.1
 	- lithium 0.20.0+mc1.21.10
+	- luckperms 5.5.20
+	   \-- fabric-permissions-api-v0 0.5.0
 	- minecraft 1.21.10
 	- moredelight 25.07.28a-1.21.7-fabric
 	- mr_neoenchant 5.12.2
@@ -163,106 +165,37 @@
 	   |-- com_twelvemonkeys_imageio_imageio-webp 3.12.0
 	   |-- org_quiltmc_parsers_gson 0.2.1
 	   \-- org_quiltmc_parsers_json 0.2.1
-[21:43:31] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/Bradley/Desktop/btrfcccobmc_server/libraries/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[21:43:31] [main/INFO]: Compatibility level set to JAVA_21
-[21:43:32] [main/WARN]: Reference map 'comforts.refmap.json' for comforts.mixins.json could not be read. If this is a development environment you can ignore this message
-[21:43:32] [main/WARN]: Reference map 'kleeslabs.refmap.json' for kleeslabs.mixins.json could not be read. If this is a development environment you can ignore this message
-[21:43:32] [main/WARN]: Reference map 'kleeslabs.refmap.json' for kleeslabs.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[21:43:32] [main/INFO]: Loaded configuration file for Lithium: 163 options available, 0 override(s) found.
-[21:43:32] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl.mixins.json could not be read. If this is a development environment you can ignore this message
-[21:43:32] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[21:43:32] [main/WARN]: Error loading class: net/minecraft/class_9934 (java.lang.ClassNotFoundException: net/minecraft/class_9934)
-[21:43:32] [main/WARN]: @Mixin target net.minecraft.class_9934 was not found farmersdelight.mixins.json:refabricated.GhostSlotsInvoker from mod farmersdelight
-[21:43:32] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
-[21:43:37] [main/INFO]: Registering conditions for : BetterEnchanting
-[21:43:37] [main/INFO]: Registering mod iems for : BetterEnchanting
-[21:43:37] [main/INFO]: Registering mod screen handlers for : BetterEnchanting
-[21:43:37] [main/INFO]: Registering mod enchantment tags for : BetterEnchanting
-[21:43:37] [main/INFO]: Creating enchantement ingredient map for mod : BetterEnchanting
-[21:43:37] [main/INFO]: Generating item tags for mod : BetterEnchanting
-[21:43:37] [main/INFO]: Registering loot tables for BetterEnchanting
-[21:43:37] [main/INFO]: Modifying loot tables for : BetterEnchanting
-[21:43:37] [main/INFO]: Loaded config farmersdelight-common.json
-[21:43:38] [main/INFO]: [STDOUT]: [FLD] Config loaded: delay 4–12 ticks
-[21:43:38] [main/INFO]: Reflections took 91 ms to scan 2 urls, producing 12 keys and 157 values
-[21:43:38] [main/INFO]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
-[21:43:38] [main/INFO]: Definitely not up to no good
-[21:43:38] [main/INFO]: [voicechat] Compatibility version 20
-[21:43:38] [main/INFO]: [voicechat] Loading plugins
-[21:43:38] [main/INFO]: [voicechat] Loaded 0 plugin(s)
-[21:43:38] [main/INFO]: [voicechat] Initializing plugins
-[21:43:38] [main/INFO]: [voicechat] Initialized 0 plugin(s)
-[21:43:39] [main/INFO]: Deserializing Config from '.\config\xaeromaps_waystones.json5'
-[21:43:39] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[21:43:39] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
-[21:43:39] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[21:43:39] [main/INFO]: Found new data pack balm, loading it automatically
-[21:43:39] [main/INFO]: Found new data pack betterenchanting, loading it automatically
-[21:43:39] [main/INFO]: Found new data pack chisel, loading it automatically
-[21:43:39] [main/INFO]: Found new data pack comforts, loading it automatically
-[21:43:39] [main/INFO]: Found new data pack cookingforblockheads, loading it automatically
-[21:43:39] [main/INFO]: Found new data pack explorerscompass, loading it automatically
-[21:43:39] [main/INFO]: Found new data pack fabric, loading it automatically
-[21:43:39] [main/INFO]: Found new data pack fabric-convention-tags-v2, loading it automatically
-[21:43:39] [main/INFO]: Found new data pack farmersdelight, loading it automatically
-[21:43:39] [main/INFO]: Found new data pack file/multiplayer sleep v2.6.14 (MC 1.21-1.21.10).zip, loading it automatically
-[21:43:39] [main/INFO]: Found new data pack file/name colors v1.0.12 (MC 1.21-1.21.10).zip, loading it automatically
-[21:43:39] [main/INFO]: Found new data pack kleeslabs, loading it automatically
-[21:43:39] [main/INFO]: Found new data pack moredelight, loading it automatically
-[21:43:39] [main/INFO]: Found new data pack mr_neoenchant, loading it automatically
-[21:43:39] [main/INFO]: Found new data pack naturescompass, loading it automatically
-[21:43:39] [main/INFO]: Found new data pack refurbished_furniture, loading it automatically
-[21:43:39] [main/INFO]: Found new data pack server_translations_api, loading it automatically
-[21:43:39] [main/INFO]: Found new data pack universal_shops, loading it automatically
-[21:43:39] [main/INFO]: Found new data pack waystones, loading it automatically
-[21:43:40] [main/INFO]: No existing world data, creating new world
-[21:43:40] [main/INFO]: Loaded 2922 recipes
-[21:43:40] [main/INFO]: Loaded 3003 advancements
-[21:43:40] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 63 translation keys
-[21:43:41] [main/INFO]: Applied 147 biome modifications to 64 of 65 new biomes in 7.482 ms
-[21:43:41] [Server thread/INFO]: Loading server configs...
-[21:43:41] [Server thread/INFO]: Starting minecraft server version 1.21.10
-[21:43:41] [Server thread/INFO]: Loading properties
-[21:43:41] [Server thread/INFO]: Default game type: SURVIVAL
-[21:43:41] [Server thread/INFO]: Generating keypair
-[21:43:41] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:43:41] [Server thread/INFO]: Using default channel type
-[21:43:41] [Server thread/INFO]: Preparing level "world"
-[21:43:41] [Server thread/INFO]: Selecting global world spawn...
-[21:43:42] [Server thread/INFO]: Loading 0 persistent chunks...
-[21:43:42] [Server thread/INFO]: Preparing spawn area: 100%
-[21:43:42] [Server thread/INFO]: Time elapsed: 1250 ms
-[21:43:42] [Server thread/INFO]: Done (1.518s)! For help, type "help"
-[21:43:43] [Server thread/INFO]: bending-hikari - Starting...
-[21:43:43] [Server thread/INFO]: bending-hikari - Added connection conn0: url=jdbc:h2:C:\Users\Bradley\Desktop\btrfcccobmc_server\.\config\bending\data\h2\bending user=BENDING
-[21:43:43] [Server thread/INFO]: bending-hikari - Start completed.
-[21:43:43] [Server thread/INFO]: Database: jdbc:h2:C:\Users\Bradley\Desktop\btrfcccobmc_server\.\config\bending\data\h2\bending (H2 2.4)
-[21:43:43] [Server thread/WARN]: Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
-[21:43:43] [Server thread/INFO]: Successfully validated 4 migrations (execution time 00:00.019s)
-[21:43:43] [Server thread/INFO]: Current version of schema "PUBLIC": 4
-[21:43:43] [Server thread/INFO]: Schema "PUBLIC" is up to date. No migration necessary.
-[21:43:43] [Server thread/INFO]: Found 68 registered abilities (9 Sequences)
-[21:43:43] [Server thread/INFO]: Found 228 registered collisions
-[21:43:43] [Server thread/INFO]: Registered protection plugins: []
-[21:43:43] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
-[21:43:43] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[21:43:43] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
-[21:43:45] [/INFO]: Registered translations: [en]
-[21:44:09] [User Authenticator #1/INFO]: UUID of player Bruggles is 5802cc54-f189-4fa4-bca3-022dc4c53176
-[21:44:42] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[21:44:44] [Server thread/INFO]: Stopping the server
-[21:44:44] [Server thread/INFO]: bending-hikari - Shutdown initiated...
-[21:44:44] [Server thread/INFO]: bending-hikari - Shutdown completed.
-[21:44:44] [Server thread/INFO]: Stopping server
-[21:44:44] [Server thread/INFO]: Saving players
-[21:44:44] [Server thread/INFO]: Saving worlds
-[21:44:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[21:44:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[21:44:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[21:44:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:44:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:44:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:44:44] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[21:44:44] [Server thread/INFO]: Unloading server configs...
-[21:44:44] [Server thread/INFO]: Sending config unload event for refurbished_furniture.server.toml
-[21:44:44] [Server thread/INFO]: Finished unloading server configs
+[16:13:53] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/home/bruggles/btrfcccobmc_server/libraries/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[16:13:53] [main/INFO]: Compatibility level set to JAVA_21
+[16:13:54] [main/WARN]: Reference map 'comforts.refmap.json' for comforts.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:13:54] [main/WARN]: Reference map 'kleeslabs.refmap.json' for kleeslabs.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:13:54] [main/WARN]: Reference map 'kleeslabs.refmap.json' for kleeslabs.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:13:54] [main/INFO]: Loaded configuration file for Lithium: 163 options available, 0 override(s) found.
+[16:13:54] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:13:54] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:13:54] [main/WARN]: Error loading class: net/minecraft/class_9934 (java.lang.ClassNotFoundException: net/minecraft/class_9934)
+[16:13:54] [main/WARN]: @Mixin target net.minecraft.class_9934 was not found farmersdelight.mixins.json:refabricated.GhostSlotsInvoker from mod farmersdelight
+[16:13:55] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[16:14:05] [main/INFO]: Registering conditions for : BetterEnchanting
+[16:14:05] [main/INFO]: Registering mod iems for : BetterEnchanting
+[16:14:05] [main/INFO]: Registering mod screen handlers for : BetterEnchanting
+[16:14:05] [main/INFO]: Registering mod enchantment tags for : BetterEnchanting
+[16:14:05] [main/INFO]: Creating enchantement ingredient map for mod : BetterEnchanting
+[16:14:05] [main/INFO]: Generating item tags for mod : BetterEnchanting
+[16:14:05] [main/INFO]: Registering loot tables for BetterEnchanting
+[16:14:05] [main/INFO]: Modifying loot tables for : BetterEnchanting
+[16:14:06] [main/INFO]: Loaded config farmersdelight-common.json
+[16:14:06] [main/INFO]: [STDOUT]: [FLD] Config loaded: delay 4–12 ticks
+[16:14:06] [main/INFO]: Reflections took 253 ms to scan 2 urls, producing 12 keys and 157 values
+[16:14:07] [main/INFO]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[16:14:07] [main/INFO]: Definitely not up to no good
+[16:14:07] [main/INFO]: [voicechat] Compatibility version 20
+[16:14:07] [main/INFO]: [voicechat] Loading plugins
+[16:14:07] [main/INFO]: [voicechat] Loaded 0 plugin(s)
+[16:14:07] [main/INFO]: [voicechat] Initializing plugins
+[16:14:07] [main/INFO]: [voicechat] Initialized 0 plugin(s)
+[16:14:08] [main/INFO]: Deserializing Config from './config/xaeromaps_waystones.json5'
+[16:14:12] [main/INFO]: Loading configuration...
+[16:14:12] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[16:14:12] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
+[16:14:13] [main/INFO]: You need to agree to the EULA in order to run the server. Go to eula.txt for more info.
