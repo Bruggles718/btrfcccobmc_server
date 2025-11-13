@@ -1,0 +1,268 @@
+[21:43:31] [main/INFO]: Loading Minecraft 1.21.10 with Fabric Loader 0.17.3
+[21:43:31] [ForkJoinPool-1-worker-17/WARN]: Mod moredelight uses the version 25.07.28a-1.21.7-fabric which isn't compatible with Loader's extended semantic version format (Could not parse version number component '28a'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[21:43:31] [main/INFO]: Loading 146 mods:
+	- appleskin 3.0.7+mc1.21.9
+	- architectury 18.0.6
+	- balm 21.10.8
+	   \-- kuma_api 21.10.5
+	- bending 3.14.0
+	   |-- adventure-platform-fabric 6.7.0
+	   |    |-- net_kyori_adventure-api 4.25.0
+	   |    |-- net_kyori_adventure-key 4.25.0
+	   |    |-- net_kyori_adventure-platform-api 4.4.1
+	   |    |-- net_kyori_adventure-platform-mod-shared-fabric-repack 6.7.0
+	   |    |-- net_kyori_adventure-text-logger-slf4j 4.25.0
+	   |    |-- net_kyori_adventure-text-minimessage 4.25.0
+	   |    |-- net_kyori_adventure-text-serializer-ansi 4.25.0
+	   |    |-- net_kyori_adventure-text-serializer-gson 4.25.0
+	   |    |-- net_kyori_adventure-text-serializer-json 4.25.0
+	   |    |-- net_kyori_adventure-text-serializer-plain 4.25.0
+	   |    |-- net_kyori_ansi 1.1.1
+	   |    |-- net_kyori_examination-api 1.3.0
+	   |    |-- net_kyori_examination-string 1.3.0
+	   |    \-- net_kyori_option 1.1.0
+	   |-- cloud 2.0.0-beta.13
+	   |    |-- io_leangen_geantyref_geantyref 1.3.15
+	   |    |-- org_incendo_cloud-brigadier 2.0.0-beta.11
+	   |    |-- org_incendo_cloud-core 2.0.0
+	   |    |-- org_incendo_cloud-minecraft-modded-common-fabric-repack 2.0.0-beta.13
+	   |    \-- org_incendo_cloud-services 2.0.0
+	   |-- fabric-permissions-api-v0 0.5.0
+	   |-- org_incendo_cloud-minecraft-extras 2.0.0-beta.12
+	   |-- org_spongepowered_configurate-core 4.2.0
+	   |-- org_spongepowered_configurate-gson 4.2.0
+	   |-- org_spongepowered_configurate-hocon 4.2.0
+	   \-- sgui 1.11.0+1.21.9
+	- betterenchanting 1.21.10-1.5.0
+	   \-- midnightlib 1.8.3
+	- chisel 2.2.0+mc1.21.10
+	- cloth-config 20.0.149
+	   \-- cloth-basic-math 0.6.1
+	- comforts 13.0.1+1.21.10
+	   |-- cardinal-components-base 7.2.0
+	   |-- cardinal-components-entity 7.2.0
+	   \-- spectrelib 0.19.1+1.21.10
+	        |-- com_electronwill_night-config_core 3.8.3
+	        \-- com_electronwill_night-config_toml 3.8.3
+	- cookingforblockheads 21.10.2
+	- cryonicconfig 1.0.0+mc1.21.10
+	- explorerscompass 1.21.10-2.2.7-fabric
+	- fabric-api 0.138.3+1.21.10
+	   |-- fabric-api-base 1.0.0+14b92d896f
+	   |-- fabric-api-lookup-api-v1 1.6.106+d17682156f
+	   |-- fabric-biome-api-v1 16.1.0+c2417d4f6f
+	   |-- fabric-block-api-v1 1.1.5+d17682156f
+	   |-- fabric-block-view-api-v2 1.0.34+e4fd1b926f
+	   |-- fabric-command-api-v2 2.4.0+c0ab2d5d6f
+	   |-- fabric-content-registries-v0 10.2.6+b6a242646f
+	   |-- fabric-convention-tags-v1 2.1.49+7f945d5b6f
+	   |-- fabric-convention-tags-v2 2.17.0+ff7bc77d6f
+	   |-- fabric-crash-report-info-v1 0.3.18+33df5e6e6f
+	   |-- fabric-data-attachment-api-v1 1.8.33+cd3b9e596f
+	   |-- fabric-data-generation-api-v1 23.2.27+d8b85ef16f
+	   |-- fabric-dimensions-v1 4.0.22+38b9cc196f
+	   |-- fabric-entity-events-v1 2.1.13+fde3702c6f
+	   |-- fabric-events-interaction-v0 4.0.36+5ba217126f
+	   |-- fabric-game-rule-api-v1 1.1.1+e47eaae56f
+	   |-- fabric-item-api-v1 11.5.11+9bce411b6f
+	   |-- fabric-item-group-api-v1 4.2.27+86b3ae576f
+	   |-- fabric-key-binding-api-v1 1.1.1+b3ba9c486f
+	   |-- fabric-lifecycle-events-v1 2.6.9+33df5e6e6f
+	   |-- fabric-loot-api-v2 3.0.67+3f89f5a56f
+	   |-- fabric-loot-api-v3 2.0.14+d17682156f
+	   |-- fabric-message-api-v1 6.1.7+3154c1c86f
+	   |-- fabric-model-loading-api-v1 6.0.4+3ffd6ef06f
+	   |-- fabric-networking-api-v1 5.1.0+b095d8db6f
+	   |-- fabric-object-builder-api-v1 21.1.28+9bce411b6f
+	   |-- fabric-particles-v1 4.2.3+a0ee59a46f
+	   |-- fabric-recipe-api-v1 8.2.0+39709ef06f
+	   |-- fabric-registry-sync-v0 6.1.42+679c8c5c6f
+	   |-- fabric-renderer-api-v1 7.2.2+3706cdf36f
+	   |-- fabric-renderer-indigo 4.1.3+d7df91576f
+	   |-- fabric-rendering-fluids-v1 3.1.38+86b3ae576f
+	   |-- fabric-rendering-v1 16.2.0+bee81f016f
+	   |-- fabric-resource-conditions-api-v1 5.0.28+33df5e6e6f
+	   |-- fabric-resource-loader-v0 3.3.1+d4d4122a6f
+	   |-- fabric-resource-loader-v1 1.0.4+14959b836f
+	   |-- fabric-screen-api-v1 3.1.0+9c82a7986f
+	   |-- fabric-screen-handler-api-v1 1.3.151+d17682156f
+	   |-- fabric-serialization-api-v1 1.0.0+d857c9766f
+	   |-- fabric-sound-api-v1 1.0.45+328a75ba6f
+	   |-- fabric-tag-api-v1 1.2.13+2fa446b26f
+	   |-- fabric-transfer-api-v1 6.0.15+79ec2c126f
+	   \-- fabric-transitive-access-wideners-v1 6.5.3+41eb43436f
+	- fabric-language-kotlin 1.13.7+kotlin.2.2.21
+	   |-- org_jetbrains_kotlin_kotlin-reflect 2.2.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib 2.2.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 2.2.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 2.2.21
+	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.29.0
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.10.2
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.10.2
+	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.7.1
+	   |-- org_jetbrains_kotlinx_kotlinx-io-bytestring-jvm 0.8.0
+	   |-- org_jetbrains_kotlinx_kotlinx-io-core-jvm 0.8.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.9.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.9.0
+	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.9.0
+	- fabricloader 0.17.3
+	   \-- mixinextras 0.5.0
+	- farmersdelight 1.21.10-3.4.1+refabricated
+	   \-- mm 2.3
+	- fastleafdecay 36
+	- framework 0.13.2
+	   |-- org_javassist_javassist 3.29.2-GA
+	   \-- org_reflections_reflections 0.10.2
+	- java 22
+	- jei 26.1.0.16
+	- kleeslabs 21.10.1
+	- lithium 0.20.0+mc1.21.10
+	- minecraft 1.21.10
+	- moredelight 25.07.28a-1.21.7-fabric
+	- mr_neoenchant 5.12.2
+	- naturescompass 1.21.10-2.2.9-fabric
+	- polymer-bundled 0.14.3+1.21.10
+	   |-- polymer-autohost 0.14.3+1.21.10
+	   |-- polymer-blocks 0.14.3+1.21.10
+	   |-- polymer-common 0.14.3+1.21.10
+	   |    \-- packet_tweaker 0.6.0+1.21.10
+	   |-- polymer-core 0.14.3+1.21.10
+	   |    |-- polymer-networking 0.14.3+1.21.10
+	   |    |    \-- polymer-common 0.14.3+1.21.10
+	   |    |         \-- packet_tweaker 0.6.0+1.21.10
+	   |    \-- polymer-registry-sync-manipulator 0.14.3+1.21.10
+	   |-- polymer-resource-pack 0.14.3+1.21.10
+	   |    \-- polymer-common 0.14.3+1.21.10
+	   |         \-- packet_tweaker 0.6.0+1.21.10
+	   |-- polymer-resource-pack-extras 0.14.3+1.21.10
+	   |-- polymer-sound-patcher 0.14.3+1.21.10
+	   \-- polymer-virtual-entity 0.14.3+1.21.10
+	        \-- polymer-common 0.14.3+1.21.10
+	             \-- packet_tweaker 0.6.0+1.21.10
+	- refurbished_furniture 1.0.20
+	- universal_shops 1.12.0+1.21.9
+	   |-- common-economy-api 1.1.1
+	   |-- common-protection-api 1.0.0
+	   |-- placeholder-api 2.8.0+1.21.9
+	   |-- server_translations_api 2.5.2+1.21.9-pre3
+	   \-- sgui 1.11.0+1.21.9
+	- voicechat 1.21.10-2.6.6
+	   |-- fabric-key-binding-api-v1 1.1.1+b3ba9c4868
+	   |-- fabric-rendering-v1 16.0.1+328a75ba68
+	   \-- voicechat_api 2.6.0
+	- waystones 21.10.3
+	- xaeromaps_waystones 1.0.6
+	- xaerominimap 25.2.15
+	- xaeroworldmap 1.39.17
+	- yet_another_config_lib_v3 3.8.0+1.21.9-fabric
+	   |-- com_twelvemonkeys_common_common-image 3.12.0
+	   |-- com_twelvemonkeys_common_common-io 3.12.0
+	   |-- com_twelvemonkeys_common_common-lang 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-core 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-metadata 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-webp 3.12.0
+	   |-- org_quiltmc_parsers_gson 0.2.1
+	   \-- org_quiltmc_parsers_json 0.2.1
+[21:43:31] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/Bradley/Desktop/btrfcccobmc_server/libraries/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[21:43:31] [main/INFO]: Compatibility level set to JAVA_21
+[21:43:32] [main/WARN]: Reference map 'comforts.refmap.json' for comforts.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:43:32] [main/WARN]: Reference map 'kleeslabs.refmap.json' for kleeslabs.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:43:32] [main/WARN]: Reference map 'kleeslabs.refmap.json' for kleeslabs.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:43:32] [main/INFO]: Loaded configuration file for Lithium: 163 options available, 0 override(s) found.
+[21:43:32] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:43:32] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:43:32] [main/WARN]: Error loading class: net/minecraft/class_9934 (java.lang.ClassNotFoundException: net/minecraft/class_9934)
+[21:43:32] [main/WARN]: @Mixin target net.minecraft.class_9934 was not found farmersdelight.mixins.json:refabricated.GhostSlotsInvoker from mod farmersdelight
+[21:43:32] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[21:43:37] [main/INFO]: Registering conditions for : BetterEnchanting
+[21:43:37] [main/INFO]: Registering mod iems for : BetterEnchanting
+[21:43:37] [main/INFO]: Registering mod screen handlers for : BetterEnchanting
+[21:43:37] [main/INFO]: Registering mod enchantment tags for : BetterEnchanting
+[21:43:37] [main/INFO]: Creating enchantement ingredient map for mod : BetterEnchanting
+[21:43:37] [main/INFO]: Generating item tags for mod : BetterEnchanting
+[21:43:37] [main/INFO]: Registering loot tables for BetterEnchanting
+[21:43:37] [main/INFO]: Modifying loot tables for : BetterEnchanting
+[21:43:37] [main/INFO]: Loaded config farmersdelight-common.json
+[21:43:38] [main/INFO]: [STDOUT]: [FLD] Config loaded: delay 4–12 ticks
+[21:43:38] [main/INFO]: Reflections took 91 ms to scan 2 urls, producing 12 keys and 157 values
+[21:43:38] [main/INFO]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[21:43:38] [main/INFO]: Definitely not up to no good
+[21:43:38] [main/INFO]: [voicechat] Compatibility version 20
+[21:43:38] [main/INFO]: [voicechat] Loading plugins
+[21:43:38] [main/INFO]: [voicechat] Loaded 0 plugin(s)
+[21:43:38] [main/INFO]: [voicechat] Initializing plugins
+[21:43:38] [main/INFO]: [voicechat] Initialized 0 plugin(s)
+[21:43:39] [main/INFO]: Deserializing Config from '.\config\xaeromaps_waystones.json5'
+[21:43:39] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[21:43:39] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
+[21:43:39] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[21:43:39] [main/INFO]: Found new data pack balm, loading it automatically
+[21:43:39] [main/INFO]: Found new data pack betterenchanting, loading it automatically
+[21:43:39] [main/INFO]: Found new data pack chisel, loading it automatically
+[21:43:39] [main/INFO]: Found new data pack comforts, loading it automatically
+[21:43:39] [main/INFO]: Found new data pack cookingforblockheads, loading it automatically
+[21:43:39] [main/INFO]: Found new data pack explorerscompass, loading it automatically
+[21:43:39] [main/INFO]: Found new data pack fabric, loading it automatically
+[21:43:39] [main/INFO]: Found new data pack fabric-convention-tags-v2, loading it automatically
+[21:43:39] [main/INFO]: Found new data pack farmersdelight, loading it automatically
+[21:43:39] [main/INFO]: Found new data pack file/multiplayer sleep v2.6.14 (MC 1.21-1.21.10).zip, loading it automatically
+[21:43:39] [main/INFO]: Found new data pack file/name colors v1.0.12 (MC 1.21-1.21.10).zip, loading it automatically
+[21:43:39] [main/INFO]: Found new data pack kleeslabs, loading it automatically
+[21:43:39] [main/INFO]: Found new data pack moredelight, loading it automatically
+[21:43:39] [main/INFO]: Found new data pack mr_neoenchant, loading it automatically
+[21:43:39] [main/INFO]: Found new data pack naturescompass, loading it automatically
+[21:43:39] [main/INFO]: Found new data pack refurbished_furniture, loading it automatically
+[21:43:39] [main/INFO]: Found new data pack server_translations_api, loading it automatically
+[21:43:39] [main/INFO]: Found new data pack universal_shops, loading it automatically
+[21:43:39] [main/INFO]: Found new data pack waystones, loading it automatically
+[21:43:40] [main/INFO]: No existing world data, creating new world
+[21:43:40] [main/INFO]: Loaded 2922 recipes
+[21:43:40] [main/INFO]: Loaded 3003 advancements
+[21:43:40] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 63 translation keys
+[21:43:41] [main/INFO]: Applied 147 biome modifications to 64 of 65 new biomes in 7.482 ms
+[21:43:41] [Server thread/INFO]: Loading server configs...
+[21:43:41] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[21:43:41] [Server thread/INFO]: Loading properties
+[21:43:41] [Server thread/INFO]: Default game type: SURVIVAL
+[21:43:41] [Server thread/INFO]: Generating keypair
+[21:43:41] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:43:41] [Server thread/INFO]: Using default channel type
+[21:43:41] [Server thread/INFO]: Preparing level "world"
+[21:43:41] [Server thread/INFO]: Selecting global world spawn...
+[21:43:42] [Server thread/INFO]: Loading 0 persistent chunks...
+[21:43:42] [Server thread/INFO]: Preparing spawn area: 100%
+[21:43:42] [Server thread/INFO]: Time elapsed: 1250 ms
+[21:43:42] [Server thread/INFO]: Done (1.518s)! For help, type "help"
+[21:43:43] [Server thread/INFO]: bending-hikari - Starting...
+[21:43:43] [Server thread/INFO]: bending-hikari - Added connection conn0: url=jdbc:h2:C:\Users\Bradley\Desktop\btrfcccobmc_server\.\config\bending\data\h2\bending user=BENDING
+[21:43:43] [Server thread/INFO]: bending-hikari - Start completed.
+[21:43:43] [Server thread/INFO]: Database: jdbc:h2:C:\Users\Bradley\Desktop\btrfcccobmc_server\.\config\bending\data\h2\bending (H2 2.4)
+[21:43:43] [Server thread/WARN]: Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+[21:43:43] [Server thread/INFO]: Successfully validated 4 migrations (execution time 00:00.019s)
+[21:43:43] [Server thread/INFO]: Current version of schema "PUBLIC": 4
+[21:43:43] [Server thread/INFO]: Schema "PUBLIC" is up to date. No migration necessary.
+[21:43:43] [Server thread/INFO]: Found 68 registered abilities (9 Sequences)
+[21:43:43] [Server thread/INFO]: Found 228 registered collisions
+[21:43:43] [Server thread/INFO]: Registered protection plugins: []
+[21:43:43] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
+[21:43:43] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[21:43:43] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
+[21:43:45] [/INFO]: Registered translations: [en]
+[21:44:09] [User Authenticator #1/INFO]: UUID of player Bruggles is 5802cc54-f189-4fa4-bca3-022dc4c53176
+[21:44:42] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[21:44:44] [Server thread/INFO]: Stopping the server
+[21:44:44] [Server thread/INFO]: bending-hikari - Shutdown initiated...
+[21:44:44] [Server thread/INFO]: bending-hikari - Shutdown completed.
+[21:44:44] [Server thread/INFO]: Stopping server
+[21:44:44] [Server thread/INFO]: Saving players
+[21:44:44] [Server thread/INFO]: Saving worlds
+[21:44:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:44:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:44:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:44:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:44:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:44:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:44:44] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:44:44] [Server thread/INFO]: Unloading server configs...
+[21:44:44] [Server thread/INFO]: Sending config unload event for refurbished_furniture.server.toml
+[21:44:44] [Server thread/INFO]: Finished unloading server configs
