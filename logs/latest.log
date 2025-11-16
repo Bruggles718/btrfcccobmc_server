@@ -1,6 +1,6 @@
-[16:13:53] [main/INFO]: Loading Minecraft 1.21.10 with Fabric Loader 0.17.3
-[16:13:53] [ForkJoinPool-1-worker-3/WARN]: Mod moredelight uses the version 25.07.28a-1.21.7-fabric which isn't compatible with Loader's extended semantic version format (Could not parse version number component '28a'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[16:13:53] [main/INFO]: Loading 147 mods:
+[00:15:26] [main/INFO]: Loading Minecraft 1.21.10 with Fabric Loader 0.17.3
+[00:15:26] [ForkJoinPool-1-worker-2/WARN]: Mod moredelight uses the version 25.07.28a-1.21.7-fabric which isn't compatible with Loader's extended semantic version format (Could not parse version number component '28a'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[00:15:26] [main/INFO]: Loading 147 mods:
 	- appleskin 3.0.7+mc1.21.9
 	- architectury 18.0.6
 	- balm 21.10.8
@@ -165,37 +165,558 @@
 	   |-- com_twelvemonkeys_imageio_imageio-webp 3.12.0
 	   |-- org_quiltmc_parsers_gson 0.2.1
 	   \-- org_quiltmc_parsers_json 0.2.1
-[16:13:53] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/home/bruggles/btrfcccobmc_server/libraries/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[16:13:53] [main/INFO]: Compatibility level set to JAVA_21
-[16:13:54] [main/WARN]: Reference map 'comforts.refmap.json' for comforts.mixins.json could not be read. If this is a development environment you can ignore this message
-[16:13:54] [main/WARN]: Reference map 'kleeslabs.refmap.json' for kleeslabs.mixins.json could not be read. If this is a development environment you can ignore this message
-[16:13:54] [main/WARN]: Reference map 'kleeslabs.refmap.json' for kleeslabs.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[16:13:54] [main/INFO]: Loaded configuration file for Lithium: 163 options available, 0 override(s) found.
-[16:13:54] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl.mixins.json could not be read. If this is a development environment you can ignore this message
-[16:13:54] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[16:13:54] [main/WARN]: Error loading class: net/minecraft/class_9934 (java.lang.ClassNotFoundException: net/minecraft/class_9934)
-[16:13:54] [main/WARN]: @Mixin target net.minecraft.class_9934 was not found farmersdelight.mixins.json:refabricated.GhostSlotsInvoker from mod farmersdelight
-[16:13:55] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
-[16:14:05] [main/INFO]: Registering conditions for : BetterEnchanting
-[16:14:05] [main/INFO]: Registering mod iems for : BetterEnchanting
-[16:14:05] [main/INFO]: Registering mod screen handlers for : BetterEnchanting
-[16:14:05] [main/INFO]: Registering mod enchantment tags for : BetterEnchanting
-[16:14:05] [main/INFO]: Creating enchantement ingredient map for mod : BetterEnchanting
-[16:14:05] [main/INFO]: Generating item tags for mod : BetterEnchanting
-[16:14:05] [main/INFO]: Registering loot tables for BetterEnchanting
-[16:14:05] [main/INFO]: Modifying loot tables for : BetterEnchanting
-[16:14:06] [main/INFO]: Loaded config farmersdelight-common.json
-[16:14:06] [main/INFO]: [STDOUT]: [FLD] Config loaded: delay 4–12 ticks
-[16:14:06] [main/INFO]: Reflections took 253 ms to scan 2 urls, producing 12 keys and 157 values
-[16:14:07] [main/INFO]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
-[16:14:07] [main/INFO]: Definitely not up to no good
-[16:14:07] [main/INFO]: [voicechat] Compatibility version 20
-[16:14:07] [main/INFO]: [voicechat] Loading plugins
-[16:14:07] [main/INFO]: [voicechat] Loaded 0 plugin(s)
-[16:14:07] [main/INFO]: [voicechat] Initializing plugins
-[16:14:07] [main/INFO]: [voicechat] Initialized 0 plugin(s)
-[16:14:08] [main/INFO]: Deserializing Config from './config/xaeromaps_waystones.json5'
-[16:14:12] [main/INFO]: Loading configuration...
-[16:14:12] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[16:14:12] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
-[16:14:13] [main/INFO]: You need to agree to the EULA in order to run the server. Go to eula.txt for more info.
+[00:15:26] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/home/bruggles/btrfcccobmc_server/libraries/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[00:15:26] [main/INFO]: Compatibility level set to JAVA_21
+[00:15:27] [main/WARN]: Reference map 'comforts.refmap.json' for comforts.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:15:27] [main/WARN]: Reference map 'kleeslabs.refmap.json' for kleeslabs.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:15:27] [main/WARN]: Reference map 'kleeslabs.refmap.json' for kleeslabs.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:15:27] [main/INFO]: Loaded configuration file for Lithium: 163 options available, 0 override(s) found.
+[00:15:27] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:15:27] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:15:27] [main/WARN]: Error loading class: net/minecraft/class_9934 (java.lang.ClassNotFoundException: net/minecraft/class_9934)
+[00:15:27] [main/WARN]: @Mixin target net.minecraft.class_9934 was not found farmersdelight.mixins.json:refabricated.GhostSlotsInvoker from mod farmersdelight
+[00:15:28] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[00:15:37] [main/INFO]: Registering conditions for : BetterEnchanting
+[00:15:37] [main/INFO]: Registering mod iems for : BetterEnchanting
+[00:15:37] [main/INFO]: Registering mod screen handlers for : BetterEnchanting
+[00:15:37] [main/INFO]: Registering mod enchantment tags for : BetterEnchanting
+[00:15:37] [main/INFO]: Creating enchantement ingredient map for mod : BetterEnchanting
+[00:15:38] [main/INFO]: Generating item tags for mod : BetterEnchanting
+[00:15:38] [main/INFO]: Registering loot tables for BetterEnchanting
+[00:15:38] [main/INFO]: Modifying loot tables for : BetterEnchanting
+[00:15:38] [main/INFO]: Loaded config farmersdelight-common.json
+[00:15:38] [main/INFO]: [STDOUT]: [FLD] Config loaded: delay 4–12 ticks
+[00:15:38] [main/INFO]: Reflections took 251 ms to scan 2 urls, producing 12 keys and 157 values
+[00:15:39] [main/INFO]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[00:15:39] [main/INFO]: Definitely not up to no good
+[00:15:40] [main/INFO]: [voicechat] Compatibility version 20
+[00:15:40] [main/INFO]: [voicechat] Loading plugins
+[00:15:40] [main/INFO]: [voicechat] Loaded 0 plugin(s)
+[00:15:40] [main/INFO]: [voicechat] Initializing plugins
+[00:15:40] [main/INFO]: [voicechat] Initialized 0 plugin(s)
+[00:15:40] [main/INFO]: Deserializing Config from './config/xaeromaps_waystones.json5'
+[00:15:40] [main/INFO]: Loading configuration...
+[00:15:41] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[00:15:41] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
+[00:15:41] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[00:15:41] [main/INFO]: Found new data pack balm, loading it automatically
+[00:15:41] [main/INFO]: Found new data pack betterenchanting, loading it automatically
+[00:15:41] [main/INFO]: Found new data pack chisel, loading it automatically
+[00:15:41] [main/INFO]: Found new data pack comforts, loading it automatically
+[00:15:41] [main/INFO]: Found new data pack cookingforblockheads, loading it automatically
+[00:15:41] [main/INFO]: Found new data pack explorerscompass, loading it automatically
+[00:15:41] [main/INFO]: Found new data pack fabric, loading it automatically
+[00:15:41] [main/INFO]: Found new data pack fabric-convention-tags-v2, loading it automatically
+[00:15:41] [main/INFO]: Found new data pack farmersdelight, loading it automatically
+[00:15:41] [main/INFO]: Found new data pack file/multiplayer sleep v2.6.14 (MC 1.21-1.21.10).zip, loading it automatically
+[00:15:41] [main/INFO]: Found new data pack file/name colors v1.0.12 (MC 1.21-1.21.10).zip, loading it automatically
+[00:15:41] [main/INFO]: Found new data pack kleeslabs, loading it automatically
+[00:15:41] [main/INFO]: Found new data pack moredelight, loading it automatically
+[00:15:41] [main/INFO]: Found new data pack mr_neoenchant, loading it automatically
+[00:15:41] [main/INFO]: Found new data pack naturescompass, loading it automatically
+[00:15:41] [main/INFO]: Found new data pack refurbished_furniture, loading it automatically
+[00:15:41] [main/INFO]: Found new data pack server_translations_api, loading it automatically
+[00:15:41] [main/INFO]: Found new data pack universal_shops, loading it automatically
+[00:15:41] [main/INFO]: Found new data pack waystones, loading it automatically
+[00:15:42] [main/INFO]: No existing world data, creating new world
+[00:15:43] [main/INFO]: Loaded 2922 recipes
+[00:15:43] [main/INFO]: Loaded 3003 advancements
+[00:15:43] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 63 translation keys
+[00:15:44] [main/INFO]: Applied 147 biome modifications to 64 of 65 new biomes in 11.22 ms
+[00:15:44] [Server thread/INFO]: Loading server configs...
+[00:15:44] [Server thread/INFO]:         __    
+[00:15:44] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.20
+[00:15:44] [Server thread/INFO]:   |___ |      Running on Fabric - fabric@0.138.3+1.21.10
+[00:15:44] [Server thread/INFO]: 
+[00:15:44] [Server thread/INFO]: Loading storage provider... [H2]
+[00:15:44] [Server thread/INFO]: Loading internal permission managers...
+[00:15:44] [Server thread/INFO]: Performing initial data load...
+[00:15:44] [Server thread/INFO]: Successfully enabled. (took 790ms)
+[00:15:44] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[00:15:44] [Server thread/INFO]: Loading properties
+[00:15:44] [Server thread/INFO]: Default game type: SURVIVAL
+[00:15:44] [Server thread/INFO]: Generating keypair
+[00:15:45] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:15:45] [Server thread/INFO]: Using epoll channel type
+[00:15:45] [Server thread/INFO]: Preparing level "world"
+[00:15:45] [Server thread/INFO]: Selecting global world spawn...
+[00:15:52] [Server thread/INFO]: Loading 0 persistent chunks...
+[00:15:52] [Server thread/INFO]: Preparing spawn area: 100%
+[00:15:52] [Server thread/INFO]: Time elapsed: 7152 ms
+[00:15:52] [Server thread/INFO]: Done (7.676s)! For help, type "help"
+[00:15:53] [Server thread/INFO]: bending-hikari - Starting...
+[00:15:53] [Server thread/INFO]: bending-hikari - Added connection conn0: url=jdbc:h2:/home/bruggles/btrfcccobmc_server/./config/bending/data/h2/bending user=BENDING
+[00:15:53] [Server thread/INFO]: bending-hikari - Start completed.
+[00:15:53] [Server thread/INFO]: Database: jdbc:h2:/home/bruggles/btrfcccobmc_server/./config/bending/data/h2/bending (H2 2.4)
+[00:15:53] [Server thread/WARN]: Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+[00:15:53] [Server thread/INFO]: Successfully validated 4 migrations (execution time 00:00.026s)
+[00:15:53] [Server thread/INFO]: Current version of schema "PUBLIC": 4
+[00:15:53] [Server thread/INFO]: Schema "PUBLIC" is up to date. No migration necessary.
+[00:15:53] [Server thread/INFO]: Found 68 registered abilities (9 Sequences)
+[00:15:53] [Server thread/INFO]: Found 228 registered collisions
+[00:15:53] [Server thread/INFO]: Registered protection plugins: []
+[00:15:54] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[00:15:54] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
+[00:15:54] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
+[00:15:55] [/INFO]: Registered translations: [en]
+[00:15:58] [User Authenticator #1/INFO]: UUID of player UniqueAndClever is 07e37ea1-a741-4700-980b-631d86b9966a
+[00:16:01] [User Authenticator #2/INFO]: UUID of player Bruggles is 5802cc54-f189-4fa4-bca3-022dc4c53176
+[00:16:04] [User Authenticator #3/INFO]: UUID of player DarnerFleye is 6acfd536-c261-429a-b684-44aafa77d054
+[00:16:05] [Server thread/INFO]: Bruggles[/10.0.0.245:52320] logged in with entity id 33 at (-648.5, 64.0, 379.5)
+[00:16:05] [Server thread/INFO]: [voicechat] Using Fabric Permissions API
+[00:16:05] [Server thread/INFO]: Bruggles joined the game
+[00:16:06] [Server thread/INFO]: UniqueAndClever[/99.33.195.107:53735] logged in with entity id 34 at (-646.5, 68.0, 393.5)
+[00:16:06] [Server thread/INFO]: UniqueAndClever joined the game
+[00:16:06] [Server thread/INFO]: [voicechat] Received secret request of Bruggles (20)
+[00:16:06] [Server thread/INFO]: [voicechat] Sent secret to Bruggles
+[00:16:07] [Server thread/INFO]: DarnerFleye[/68.63.97.218:53456] logged in with entity id 73 at (-665.5, 63.0, 382.5)
+[00:16:07] [Server thread/INFO]: DarnerFleye joined the game
+[00:16:07] [Server thread/INFO]: [voicechat] Received secret request of UniqueAndClever (20)
+[00:16:07] [Server thread/INFO]: [voicechat] Sent secret to UniqueAndClever
+[00:16:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5802cc54-f189-4fa4-bca3-022dc4c53176
+[00:16:07] [Server thread/INFO]: [voicechat] Received secret request of DarnerFleye (20)
+[00:16:07] [Server thread/INFO]: [voicechat] Sent secret to DarnerFleye
+[00:16:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5802cc54-f189-4fa4-bca3-022dc4c53176
+[00:16:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Bruggles (5802cc54-f189-4fa4-bca3-022dc4c53176) successfully connected to voice chat
+[00:22:26] [Server thread/INFO]: UniqueAndClever has made the advancement [Stone Age]
+[00:22:32] [Server thread/INFO]: UniqueAndClever has made the advancement [Getting an Upgrade]
+[00:22:54] [Server thread/INFO]: Bruggles has made the advancement [Stone Age]
+[00:23:02] [Server thread/INFO]: Bruggles has made the advancement [Getting an Upgrade]
+[00:25:37] [Server thread/INFO]: DarnerFleye has made the advancement [Stone Age]
+[00:25:50] [Server thread/INFO]: UniqueAndClever has made the advancement [Acquire Hardware]
+[00:29:12] [Server thread/INFO]: UniqueAndClever has made the advancement [Diamonds!]
+[00:29:42] [Server thread/INFO]: [Bruggles: Gamerule keepInventory is now set to: true]
+[00:30:40] [Server thread/INFO]: Bruggles has made the advancement [Acquire Hardware]
+[00:32:37] [Server thread/INFO]: Bruggles has made the advancement [Suit Up]
+[00:33:02] [Server thread/INFO]: Bruggles has made the advancement [Not Today, Thank You]
+[00:33:15] [Server thread/INFO]: DarnerFleye lost connection: Disconnected
+[00:33:15] [Server thread/INFO]: DarnerFleye left the game
+[00:33:16] [Server thread/INFO]: [voicechat] Disconnecting client DarnerFleye
+[00:33:20] [Server thread/INFO]: Bruggles has made the advancement [Monster Hunter]
+[00:34:11] [Server thread/INFO]: Bruggles has made the advancement [Isn't It Iron Pick]
+[00:34:14] [Server thread/INFO]: Bruggles was shot by Skeleton
+[00:34:28] [Server thread/INFO]: UniqueAndClever has made the advancement [Monster Hunter]
+[00:37:37] [Server thread/INFO]: Bruggles has made the advancement [Diamonds!]
+[00:39:07] [Server thread/INFO]: UniqueAndClever lost connection: Disconnected
+[00:39:07] [Server thread/INFO]: UniqueAndClever left the game
+[00:39:07] [Server thread/INFO]: [voicechat] Disconnecting client UniqueAndClever
+[00:40:17] [Server thread/INFO]: Bruggles has made the advancement [Ice Bucket Challenge]
+[00:49:07] [Server thread/INFO]: Bruggles has made the advancement [Cover Me with Diamonds]
+[01:00:01] [Server thread/INFO]: Bruggles has made the advancement [Crops of the Wild]
+[01:09:59] [Server thread/INFO]: Villager class_1646['Villager'/13484, l='ServerLevel[world]', x=-1308.30, y=63.00, z=256.51] died, message: 'Villager was slain by Zombie'
+[01:20:52] [Server thread/INFO]: Bruggles has made the advancement [NeoEnchant+]
+[01:25:17] [Server thread/INFO]: Bruggles has made the advancement [Fishy Business]
+[01:26:34] [Server thread/INFO]: Bruggles has made the advancement [Sweet Dreams]
+[01:36:53] [Server thread/INFO]: Bruggles has made the advancement [Best Friends Forever]
+[01:49:21] [Server thread/INFO]: Bruggles has made the advancement [The Parrots and the Bats]
+[01:52:57] [Netty Epoll Server IO #11/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at knot/net.minecraft.class_9136.method_56426(class_9136.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_9136.encode(class_9136.java:14) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2545.method_10838(class_2545.java:26) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2545.encode(class_2545.java:12) ~[server-intermediary.jar:?]
+	at knot/io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/net.minecraft.class_2535$2.write(class_2535.java:524) ~[server-intermediary.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/net.minecraft.class_2535.method_36942(class_2535.java:350) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2535.method_10764(class_2535.java:342) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2535.method_52906(class_2535.java:324) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2535.method_10752(class_2535.java:318) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2535.exceptionCaught(class_2535.java:169) ~[server-intermediary.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1324) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:856) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:727) ~[netty-transport-classes-epoll-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:825) ~[netty-transport-classes-epoll-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:501) ~[netty-transport-classes-epoll-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:399) ~[netty-transport-classes-epoll-4.1.118.Final.jar:?]
+	at knot/io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998) ~[netty-common-4.1.118.Final.jar:?]
+	at knot/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.118.Final.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[01:57:42] [Server thread/INFO]: Bruggles has made the advancement [Enchanter]
+[02:01:36] [Server thread/INFO]: [Bruggles: Triggered [Color]]
+[02:01:40] [Server thread/INFO]: [Bruggles: Triggered [Color] (set value to -11)]
+[02:12:16] [Server thread/INFO]: Bruggles has made the advancement [A Seedy Place]
+[02:15:52] [Server thread/WARN]: [net.minecraft.class_5565] Serialization errors:
+chunk@[-95, 23]class_1667['Arrow'/27640, l='ServerLevel[world]', x=-1512.95, y=67.36, z=371.43]: Failed to encode value '0 minecraft:air' to field 'item': Value must be within range [1;99]: 0; Item must not be minecraft:air
+[02:27:34] [Server thread/INFO]: Bruggles has made the advancement [Take Aim]
+[02:33:28] [User Authenticator #4/INFO]: UUID of player SydneyFromPluto is 4fa2b89c-21c0-4f75-b47c-33ebc7c38ed1
+[02:33:31] [Server thread/INFO]: SydneyFromPluto[/31.150.252.151:61028] logged in with entity id 31555 at (-656.5, 72.0, 387.5)
+[02:33:31] [Server thread/INFO]: SydneyFromPluto joined the game
+[02:33:32] [Server thread/INFO]: [voicechat] Received secret request of SydneyFromPluto (20)
+[02:33:32] [Server thread/INFO]: [voicechat] Sent secret to SydneyFromPluto
+[02:33:39] [Server thread/INFO]: <Bruggles> o/
+[02:33:39] [Server thread/INFO]: <SydneyFromPluto> henlo
+[02:33:42] [Server thread/INFO]: <Bruggles> how it doin
+[02:34:02] [Server thread/INFO]: <SydneyFromPluto> woke up like an hour ago lol
+[02:34:50] [Netty Epoll Server IO #1/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at knot/net.minecraft.class_9136.method_56426(class_9136.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_9136.encode(class_9136.java:14) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2545.method_10838(class_2545.java:26) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2545.encode(class_2545.java:12) ~[server-intermediary.jar:?]
+	at knot/io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/net.minecraft.class_2535$2.write(class_2535.java:524) ~[server-intermediary.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/net.minecraft.class_2535.method_36942(class_2535.java:350) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2535.method_10764(class_2535.java:342) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2535.method_52906(class_2535.java:324) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2535.method_10752(class_2535.java:318) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2535.exceptionCaught(class_2535.java:169) ~[server-intermediary.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1324) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:856) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:727) ~[netty-transport-classes-epoll-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:825) ~[netty-transport-classes-epoll-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:501) ~[netty-transport-classes-epoll-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:399) ~[netty-transport-classes-epoll-4.1.118.Final.jar:?]
+	at knot/io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998) ~[netty-common-4.1.118.Final.jar:?]
+	at knot/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.118.Final.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[02:36:10] [Server thread/INFO]: SydneyFromPluto has made the advancement [Stone Age]
+[02:42:00] [Server thread/INFO]: SydneyFromPluto has made the advancement [Getting an Upgrade]
+[02:44:23] [Server thread/INFO]: SydneyFromPluto has made the advancement [A Seedy Place]
+[03:01:14] [Server thread/INFO]: SydneyFromPluto lost connection: Disconnected
+[03:01:14] [Server thread/INFO]: SydneyFromPluto left the game
+[03:01:14] [Server thread/INFO]: [voicechat] Disconnecting client SydneyFromPluto
+[03:01:43] [Server thread/INFO]: Villager class_1646['Villager'/39133, l='ServerLevel[world]', x=-1296.67, y=72.00, z=327.70] died, message: 'Villager was slain by Zombie'
+[03:01:47] [Server thread/INFO]: Villager class_1646['Nitwit'/39134, l='ServerLevel[world]', x=-1296.70, y=72.00, z=327.30] died, message: 'Nitwit was slain by Zombie Villager'
+[03:01:58] [Server thread/INFO]: Bruggles lost connection: Disconnected
+[03:01:58] [Server thread/INFO]: Bruggles left the game
+[03:01:58] [Server thread/INFO]: [voicechat] Disconnecting client Bruggles
+[03:02:58] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[04:23:09] [User Authenticator #5/INFO]: UUID of player Laxidaze3 is 718fd999-d407-428c-bd79-690386a1caad
+[04:23:13] [Server thread/INFO]: Laxidaze3[/70.173.193.208:49928] logged in with entity id 42352 at (-648.5, 69.0, 394.5)
+[04:23:13] [Server thread/INFO]: Laxidaze3 joined the game
+[04:23:14] [Server thread/INFO]: [voicechat] Received secret request of Laxidaze3 (20)
+[04:23:14] [Server thread/INFO]: [voicechat] Sent secret to Laxidaze3
+[04:30:21] [Server thread/INFO]: Laxidaze3 has made the advancement [Stone Age]
+[04:36:23] [Server thread/INFO]: Laxidaze3 has made the advancement [Sweet Dreams]
+[04:37:27] [Server thread/INFO]: Laxidaze3 has made the advancement [Getting an Upgrade]
+[04:41:49] [Server thread/INFO]: Laxidaze3 has made the advancement [Crops of the Wild]
+[04:42:05] [Server thread/INFO]: Laxidaze3 has made the advancement [A Seedy Place]
+[04:47:32] [Server thread/INFO]: Laxidaze3 has reached the goal [Plant Food]
+[04:48:20] [Server thread/INFO]: Laxidaze3 has made the advancement [Monster Hunter]
+[04:55:28] [Server thread/INFO]: Laxidaze3 has made the advancement [Acquire Hardware]
+[04:55:53] [Server thread/INFO]: Laxidaze3 has made the advancement [Isn't It Iron Pick]
+[04:58:46] [Server thread/INFO]: Laxidaze3 has made the advancement [Suit Up]
+[05:10:06] [Server thread/INFO]: Laxidaze3 was shot by Skeleton
+[05:17:13] [Server thread/INFO]: Laxidaze3 was blown up by Creeper
+[05:20:59] [Server thread/INFO]: Laxidaze3 has made the advancement [Diamonds!]
+[05:23:22] [Server thread/INFO]: Laxidaze3 was slain by Spider
+[05:28:06] [Server thread/INFO]: Villager class_1646['Villager'/57462, l='ServerLevel[world]', x=-932.54, y=70.42, z=1099.32] died, message: 'Villager was slain by Zombie'
+[05:34:47] [Server thread/INFO]: Laxidaze3 has made the advancement [Ice Bucket Challenge]
+[05:43:56] [Server thread/INFO]: Laxidaze3 was shot by Skeleton
+[05:46:56] [Server thread/INFO]: Laxidaze3 lost connection: Disconnected
+[05:46:56] [Server thread/INFO]: Laxidaze3 left the game
+[05:46:56] [Server thread/INFO]: [voicechat] Disconnecting client Laxidaze3
+[05:47:56] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[06:04:10] [User Authenticator #6/INFO]: UUID of player geckonavajo is f4f5b600-52de-4748-9b3f-5d22ffa896e4
+[06:04:12] [Server thread/INFO]: geckonavajo[/68.234.155.248:51413] logged in with entity id 63679 at (-661.5, 64.0, 386.5)
+[06:04:12] [Server thread/INFO]: geckonavajo joined the game
+[06:04:12] [Server thread/INFO]: [voicechat] Received secret request of geckonavajo (20)
+[06:04:12] [Server thread/INFO]: [voicechat] Sent secret to geckonavajo
+[06:09:08] [User Authenticator #7/INFO]: UUID of player UniqueAndClever is 07e37ea1-a741-4700-980b-631d86b9966a
+[06:09:11] [Server thread/INFO]: UniqueAndClever[/99.33.195.107:56847] logged in with entity id 64713 at (187.45488757125574, -59.0, -196.30000001192093)
+[06:09:11] [Server thread/INFO]: UniqueAndClever joined the game
+[06:09:12] [Server thread/INFO]: [voicechat] Received secret request of UniqueAndClever (20)
+[06:09:12] [Server thread/INFO]: [voicechat] Sent secret to UniqueAndClever
+[06:09:26] [Server thread/INFO]: <UniqueAndClever> yo
+[06:11:32] [Server thread/INFO]: <UniqueAndClever> yo?
+[06:11:40] [Server thread/INFO]: <geckonavajo> hi
+[06:12:17] [Server thread/INFO]: <UniqueAndClever> call?
+[06:12:23] [Server thread/INFO]: <geckonavajo> i'm down
+[06:14:26] [Server thread/INFO]: geckonavajo has made the advancement [Stone Age]
+[06:14:29] [Server thread/INFO]: UniqueAndClever tried to swim in lava
+[06:14:51] [Server thread/INFO]: geckonavajo has made the advancement [Monster Hunter]
+[06:15:26] [Server thread/INFO]: UniqueAndClever has made the advancement [Cover Me with Diamonds]
+[06:16:15] [Server thread/INFO]: UniqueAndClever has made the advancement [Hunt and Gather]
+[06:20:23] [Server thread/INFO]: UniqueAndClever was blown up by Creeper
+[06:24:07] [Server thread/INFO]: geckonavajo was slain by Zombie
+[06:28:43] [Server thread/INFO]: geckonavajo has made the advancement [Diamonds!]
+[06:29:21] [Server thread/INFO]: UniqueAndClever has made the advancement [Ice Bucket Challenge]
+[06:33:50] [Server thread/INFO]: UniqueAndClever tried to swim in lava
+[06:35:21] [Server thread/INFO]: UniqueAndClever has made the advancement [Crops of the Wild]
+[06:39:38] [Server thread/INFO]: geckonavajo tried to swim in lava
+[06:40:03] [Server thread/INFO]: geckonavajo has made the advancement [Cover Me with Diamonds]
+[06:44:35] [Server thread/INFO]: geckonavajo has made the advancement [Hunt and Gather]
+[06:49:55] [Server thread/INFO]: geckonavajo has made the advancement [Acquire Hardware]
+[06:53:18] [Server thread/INFO]: UniqueAndClever was blown up by Creeper
+[06:53:45] [Server thread/INFO]: UniqueAndClever has made the advancement [Sweet Dreams]
+[06:57:21] [Server thread/INFO]: geckonavajo has made the advancement [Ice Bucket Challenge]
+[06:58:04] [Server thread/INFO]: geckonavajo tried to swim in lava
+[06:58:47] [User Authenticator #8/INFO]: UUID of player Laxidaze3 is 718fd999-d407-428c-bd79-690386a1caad
+[06:58:50] [Server thread/INFO]: Laxidaze3[/70.173.193.208:64480] logged in with entity id 91455 at (-827.2159372910212, 65.5625, 821.9251303789644)
+[06:58:50] [Server thread/INFO]: Laxidaze3 joined the game
+[06:58:51] [Server thread/INFO]: [voicechat] Received secret request of Laxidaze3 (20)
+[06:58:51] [Server thread/INFO]: [voicechat] Sent secret to Laxidaze3
+[06:59:02] [Server thread/INFO]: <Laxidaze3> yo
+[06:59:09] [Server thread/INFO]: <UniqueAndClever> vc
+[07:02:31] [Server thread/INFO]: UniqueAndClever drowned
+[07:02:52] [Server thread/INFO]: geckonavajo discovered the floor was lava
+[07:06:16] [Server thread/INFO]: geckonavajo drowned
+[07:07:34] [Server thread/INFO]: UniqueAndClever has made the advancement [A Seedy Place]
+[07:08:36] [Server thread/INFO]: Laxidaze3 has made the advancement [Cover Me with Diamonds]
+[07:10:49] [User Authenticator #9/INFO]: UUID of player Omnilax is bcbba3ce-966c-4a95-ad81-6f39c9638494
+[07:10:51] [Server thread/INFO]: Omnilax[/73.124.223.163:50818] logged in with entity id 100736 at (-654.5, 64.0, 389.5)
+[07:10:51] [Server thread/INFO]: Omnilax joined the game
+[07:10:52] [Server thread/INFO]: [voicechat] Received secret request of Omnilax (20)
+[07:10:52] [Server thread/INFO]: [voicechat] Sent secret to Omnilax
+[07:11:53] [Server thread/INFO]: geckonavajo has made the advancement [NeoEnchant+]
+[07:12:05] [Server thread/INFO]: <Omnilax> hii
+[07:12:09] [Server thread/INFO]: <UniqueAndClever> hey
+[07:12:16] [Server thread/INFO]: <UniqueAndClever> who are you on the server?
+[07:12:28] [Server thread/INFO]: <Omnilax> im ozy tbh
+[07:13:57] [Server thread/INFO]: UniqueAndClever has made the advancement [NeoEnchant+]
+[07:15:09] [Server thread/INFO]: <Omnilax> who is everyone else here ?
+[07:15:17] [Server thread/INFO]: <UniqueAndClever> im victoria
+[07:15:22] [Server thread/INFO]: UniqueAndClever went up in flames
+[07:16:46] [Server thread/INFO]: <Omnilax> can i take ur apples
+[07:16:55] [Server thread/INFO]: <UniqueAndClever> heck yeah
+[07:17:03] [Server thread/INFO]: <Omnilax> thank u
+[07:17:06] [Server thread/INFO]: geckonavajo drowned
+[07:18:10] [Server thread/INFO]: Omnilax has made the advancement [Monster Hunter]
+[07:21:28] [Server thread/INFO]: <Omnilax> WOAH a real nether portal
+[07:21:37] [Server thread/INFO]: UniqueAndClever has made the advancement [We Need to Go Deeper]
+[07:21:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2577ms or 51 ticks behind
+[07:22:24] [Server thread/INFO]: <Omnilax> how does the bending work ?
+[07:22:35] [Server thread/INFO]: Laxidaze3 has made the advancement [We Need to Go Deeper]
+[07:22:41] [Server thread/INFO]: <UniqueAndClever> do /b choose [element]
+[07:22:43] [Server thread/INFO]: geckonavajo has made the advancement [We Need to Go Deeper]
+[07:22:51] [Server thread/INFO]: <UniqueAndClever> then /b bind to see abilities
+[07:22:57] [Server thread/INFO]: geckonavajo fell from a high place
+[07:22:59] [Server thread/INFO]: <UniqueAndClever> do /b help to see all commands
+[07:23:24] [Server thread/INFO]: geckonavajo fell from a high place
+[07:23:29] [Server thread/INFO]: <Omnilax> omg i chose earth
+[07:23:46] [Server thread/INFO]: UniqueAndClever has made the advancement [A Terrible Fortress]
+[07:24:07] [Server thread/INFO]: UniqueAndClever has made the advancement [Not Today, Thank You]
+[07:24:15] [Server thread/INFO]: Omnilax has made the advancement [Crops of the Wild]
+[07:24:56] [Server thread/INFO]: UniqueAndClever withered away
+[07:26:08] [Server thread/INFO]: Omnilax has made the advancement [Stone Age]
+[07:26:16] [Server thread/INFO]: Laxidaze3 has made the advancement [Take Aim]
+[07:26:21] [Server thread/INFO]: Omnilax has made the advancement [Getting an Upgrade]
+[07:26:46] [Server thread/INFO]: geckonavajo has made the advancement [A Terrible Fortress]
+[07:26:55] [Server thread/INFO]: geckonavajo was slain by Wither Skeleton
+[07:27:16] [Server thread/INFO]: Laxidaze3 has made the advancement [A Terrible Fortress]
+[07:27:28] [Server thread/INFO]: Laxidaze3 was slain by Wither Skeleton
+[07:28:57] [Server thread/INFO]: UniqueAndClever has made the advancement [Enchanter]
+[07:35:07] [Server thread/INFO]: Laxidaze3 has made the advancement [Enchanter]
+[07:35:55] [Server thread/INFO]: <Omnilax> is everyone basing near spawn?
+[07:39:46] [Server thread/INFO]: <Omnilax> a hord of zombies
+[07:40:25] [Server thread/INFO]: <Omnilax> nice work team :3
+[07:41:57] [Server thread/INFO]: <Omnilax> i have enough for a fishing rod
+[07:42:03] [Server thread/INFO]: <UniqueAndClever> nice
+[07:42:45] [Server thread/INFO]: Omnilax has made the advancement [Fishy Business]
+[07:44:18] [Server thread/INFO]: <Omnilax> does anyone have 1 lapiz i can borrow
+[07:45:39] [Server thread/INFO]: <Omnilax> brb
+[07:53:46] [Server thread/INFO]: UniqueAndClever went up in flames
+[07:56:14] [Server thread/INFO]: UniqueAndClever tried to swim in lava
+[07:57:11] [Server thread/INFO]: UniqueAndClever fell from a high place
+[07:59:04] [Server thread/INFO]: UniqueAndClever has made the advancement [Into Fire]
+[07:59:11] [Server thread/INFO]: <Omnilax> im back !
+[07:59:35] [Server thread/INFO]: UniqueAndClever burned to death
+[08:00:26] [Server thread/INFO]: <UniqueAndClever> hi
+[08:00:29] [Server thread/INFO]: <Omnilax> hiya
+[08:00:31] [Server thread/INFO]: <UniqueAndClever> you could join the vc
+[08:00:43] [Server thread/INFO]: <Omnilax> omg true, i was a little shy but ill join
+[08:03:23] [Server thread/INFO]: UniqueAndClever has made the advancement [Spooky Scary Skeleton]
+[08:06:27] [Server thread/INFO]: UniqueAndClever was slain by Wither Skeleton
+[08:07:25] [Server thread/INFO]: geckonavajo was shot by Skeleton
+[08:14:55] [Server thread/INFO]: UniqueAndClever has made the advancement [Hidden in the Depths]
+[08:15:35] [Server thread/INFO]: Laxidaze3 tried to swim in lava
+[08:16:34] [Server thread/INFO]: geckonavajo has made the advancement [A Seedy Place]
+[08:16:53] [Server thread/INFO]: geckonavajo has made the advancement [Sweet Dreams]
+[08:17:50] [Server thread/INFO]: Laxidaze3 has made the advancement [Into Fire]
+[08:18:36] [Server thread/INFO]: geckonavajo drowned
+[08:20:25] [Server thread/INFO]: Omnilax was slain by Spider
+[08:21:11] [Server thread/INFO]: Laxidaze3 tried to swim in lava to escape Blaze
+[08:22:29] [Server thread/INFO]: Omnilax has made the advancement [Acquire Hardware]
+[08:22:45] [Server thread/INFO]: Omnilax has made the advancement [Isn't It Iron Pick]
+[08:25:54] [Server thread/INFO]: UniqueAndClever has completed the challenge [Hot Tourist Destinations]
+[08:26:22] [Server thread/INFO]: UniqueAndClever tried to swim in lava
+[08:26:37] [Server thread/INFO]: UniqueAndClever has made the advancement [Stay Hydrated!]
+[08:28:07] [Server thread/INFO]: geckonavajo has made the advancement [Hidden in the Depths]
+[08:33:10] [Server thread/INFO]: Laxidaze3 tried to swim in lava
+[08:33:48] [Server thread/INFO]: geckonavajo tried to swim in lava
+[08:39:24] [Server thread/INFO]: UniqueAndClever has made the advancement [Oh Shiny]
+[08:41:00] [Server thread/INFO]: UniqueAndClever has made the advancement [Who is Cutting Onions?]
+[08:42:37] [Server thread/INFO]: Laxidaze3 was doomed to fall by Skeleton
+[08:44:09] [Server thread/INFO]: geckonavajo was slain by Wither Skeleton
+[08:46:04] [Server thread/INFO]: UniqueAndClever lost connection: Disconnected
+[08:46:04] [Server thread/INFO]: UniqueAndClever left the game
+[08:46:04] [Server thread/INFO]: [voicechat] Disconnecting client UniqueAndClever
+[08:46:08] [Server thread/INFO]: Omnilax was shot by Skeleton
+[08:47:01] [Server thread/INFO]: Omnilax was shot by Skeleton
+[08:48:19] [User Authenticator #10/INFO]: UUID of player UniqueAndClever is 07e37ea1-a741-4700-980b-631d86b9966a
+[08:48:21] [Server thread/INFO]: UniqueAndClever[/99.33.195.107:63210] logged in with entity id 166270 at (-630.2716876515228, 59.0, -5.543648333254953)
+[08:48:21] [Server thread/INFO]: UniqueAndClever joined the game
+[08:48:21] [Server thread/INFO]: [voicechat] Received secret request of UniqueAndClever (20)
+[08:48:21] [Server thread/INFO]: [voicechat] Sent secret to UniqueAndClever
+[08:48:24] [Server thread/INFO]: Omnilax was blown up by Creeper
+[08:49:07] [Server thread/INFO]: Laxidaze3 tried to swim in lava
+[08:50:48] [Server thread/INFO]: Laxidaze3 withered away while fighting Wither Skeleton
+[08:52:08] [Server thread/INFO]: Laxidaze3 tried to swim in lava
+[08:53:03] [Server thread/INFO]: Laxidaze3 fell from a high place
+[08:53:43] [Server thread/INFO]: geckonavajo has made the advancement [Voluntary Exile]
+[08:55:57] [Server thread/INFO]: UniqueAndClever tried to swim in lava
+[08:56:42] [Server thread/INFO]: Laxidaze3 lost connection: Disconnected
+[08:56:42] [Server thread/INFO]: Laxidaze3 left the game
+[08:56:42] [Server thread/INFO]: [voicechat] Disconnecting client Laxidaze3
+[09:04:02] [Server thread/INFO]: geckonavajo was shot by Skeleton
+[09:10:27] [Server thread/INFO]: geckonavajo tried to swim in lava
+[09:13:05] [Server thread/INFO]: UniqueAndClever withered away
+[09:14:58] [Server thread/INFO]: UniqueAndClever has completed the challenge [Return to Sender]
+[09:15:07] [Server thread/INFO]: UniqueAndClever was slain by Wither Skeleton
+[09:22:56] [User Authenticator #11/INFO]: UUID of player KomischesEliwas is 8e116a47-90b4-4104-806a-d21e4b63a6cc
+[09:22:59] [Server thread/INFO]: KomischesEliwas[/93.199.93.190:54203] logged in with entity id 184401 at (-651.5, 64.0, 381.5)
+[09:22:59] [Server thread/INFO]: KomischesEliwas joined the game
+[09:23:00] [Server thread/INFO]: [voicechat] Received secret request of KomischesEliwas (20)
+[09:23:00] [Server thread/INFO]: [voicechat] Sent secret to KomischesEliwas
+[09:24:37] [Server thread/WARN]: Oak Boat (vehicle of Omnilax) moved wrongly! 0.28740667049066815
+[09:24:37] [Server thread/WARN]: Oak Boat (vehicle of Omnilax) moved wrongly! 0.5915094007111747
+[09:24:37] [Server thread/WARN]: Oak Boat (vehicle of Omnilax) moved wrongly! 0.9010707268788565
+[09:26:17] [Server thread/INFO]: [KomischesEliwas: Triggered [Color]]
+[09:26:38] [Server thread/INFO]: [KomischesEliwas: Triggered [Color] (set value to -5)]
+[09:26:45] [Server thread/INFO]: UniqueAndClever was slain by Wither Skeleton
+[09:27:08] [Server thread/INFO]: geckonavajo has made the advancement [The Parrots and the Bats]
+[09:28:17] [Server thread/INFO]: UniqueAndClever fell from a high place
+[09:32:17] [Server thread/INFO]: UniqueAndClever tried to swim in lava
+[09:33:16] [Server thread/INFO]: UniqueAndClever was slain by Iron Golem
+[09:33:27] [Server thread/INFO]: KomischesEliwas has made the advancement [Stone Age]
+[09:33:40] [Server thread/INFO]: geckonavajo was blown up by Creeper
+[09:34:22] [Server thread/INFO]: KomischesEliwas has made the advancement [Getting an Upgrade]
+[09:35:44] [Server thread/INFO]: KomischesEliwas was shot by Skeleton
+[09:36:20] [Server thread/INFO]: KomischesEliwas was burned to a crisp while fighting Zombie
+[09:36:30] [Server thread/INFO]: KomischesEliwas has made the advancement [Suit Up]
+[09:36:57] [Server thread/WARN]: UniqueAndClever moved too quickly! 2.1388364401182116,10.355141915149389,3.63860225287857
+[09:37:36] [Server thread/INFO]: Omnilax was blown up by Creeper
+[09:39:11] [Server thread/INFO]: UniqueAndClever lost connection: Disconnected
+[09:39:11] [Server thread/INFO]: UniqueAndClever left the game
+[09:39:11] [Server thread/INFO]: [voicechat] Disconnecting client UniqueAndClever
+[09:39:19] [User Authenticator #12/INFO]: UUID of player UniqueAndClever is 07e37ea1-a741-4700-980b-631d86b9966a
+[09:39:21] [Server thread/INFO]: UniqueAndClever[/99.33.195.107:64161] logged in with entity id 202093 at (-636.9475950071638, 68.97355716597734, 378.05038468991205)
+[09:39:21] [Server thread/INFO]: UniqueAndClever joined the game
+[09:39:22] [Server thread/INFO]: [voicechat] Received secret request of UniqueAndClever (20)
+[09:39:22] [Server thread/INFO]: [voicechat] Sent secret to UniqueAndClever
+[09:39:35] [Server thread/INFO]: UniqueAndClever lost connection: Disconnected
+[09:39:35] [Server thread/INFO]: UniqueAndClever left the game
+[09:39:35] [Server thread/INFO]: [voicechat] Disconnecting client UniqueAndClever
+[09:44:09] [Server thread/INFO]: KomischesEliwas has made the advancement [A Seedy Place]
+[09:46:43] [Server thread/INFO]: KomischesEliwas has made the advancement [Sweet Dreams]
+[09:54:25] [Server thread/INFO]: Omnilax was blown up by Creeper
+[10:02:07] [Server thread/WARN]: geckonavajo moved too quickly! 9.464163123064282,-0.5117020489683171,3.9088128680696173
+[10:02:19] [Server thread/WARN]: geckonavajo moved too quickly! 5.992946259073506,0.056297519460912326,8.048667668506141
+[10:03:03] [Server thread/WARN]: KomischesEliwas moved too quickly! -8.957686802597209,-0.8596322217284325,-5.029806048149112
+[10:03:23] [Server thread/WARN]: KomischesEliwas moved too quickly! -5.025815436269113,-0.5927668193279274,-9.015029411198839
+[10:04:30] [Server thread/WARN]: KomischesEliwas moved too quickly! -6.804486617563725,0.06505630976439392,-7.654622128696246
+[10:06:48] [Server thread/WARN]: KomischesEliwas moved too quickly! 8.47267780098764,0.016302890991788388,-5.392060476680626
+[10:08:28] [Server thread/INFO]: <Omnilax> byeee
+[10:08:30] [Server thread/INFO]: Omnilax lost connection: Disconnected
+[10:08:30] [Server thread/INFO]: Omnilax left the game
+[10:08:30] [Server thread/INFO]: [voicechat] Disconnecting client Omnilax
+[10:09:45] [Server thread/WARN]: geckonavajo moved too quickly! -0.4396978722515996,-10.327823954313075,2.659088147846262
+[10:11:05] [Server thread/INFO]: KomischesEliwas was shot by Skeleton
+[10:23:54] [Server thread/INFO]: KomischesEliwas was blown up by Creeper
+[10:24:53] [Server thread/INFO]: KomischesEliwas was slain by Zombie
+[10:25:10] [Server thread/INFO]: KomischesEliwas has made the advancement [Monster Hunter]
+[10:34:59] [Server thread/WARN]: geckonavajo moved too quickly! 10.239282603752144,0.19571277763263595,0.009816793148502256
+[10:35:52] [Server thread/INFO]: KomischesEliwas has made the advancement [Acquire Hardware]
+[10:36:29] [Server thread/INFO]: KomischesEliwas has made the advancement [Crops of the Wild]
+[10:37:42] [Server thread/INFO]: geckonavajo was shot by Skeleton
+[10:39:54] [Server thread/INFO]: geckonavajo lost connection: Disconnected
+[10:39:54] [Server thread/INFO]: geckonavajo left the game
+[10:39:54] [Server thread/INFO]: [voicechat] Disconnecting client geckonavajo
+[10:50:42] [Server thread/INFO]: KomischesEliwas drowned
+[10:54:36] [Worker-Main-16/ERROR]: Detected setBlock in a far chunk [-94, 56], pos: class_2338{x=-1501, y=-54, z=896}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[10:54:36] [Worker-Main-16/ERROR]: Detected setBlock in a far chunk [-94, 56], pos: class_2338{x=-1501, y=-53, z=896}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[10:54:36] [Worker-Main-16/ERROR]: Detected setBlock in a far chunk [-94, 56], pos: class_2338{x=-1501, y=-52, z=896}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[10:54:36] [Worker-Main-16/ERROR]: Detected setBlock in a far chunk [-94, 56], pos: class_2338{x=-1501, y=-53, z=897}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[10:54:36] [Worker-Main-16/ERROR]: Detected setBlock in a far chunk [-94, 56], pos: class_2338{x=-1500, y=-54, z=897}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[10:54:36] [Worker-Main-16/ERROR]: Detected setBlock in a far chunk [-94, 56], pos: class_2338{x=-1500, y=-53, z=897}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[10:54:36] [Worker-Main-16/ERROR]: Detected setBlock in a far chunk [-94, 56], pos: class_2338{x=-1500, y=-52, z=897}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[10:54:36] [Worker-Main-16/ERROR]: Detected setBlock in a far chunk [-94, 56], pos: class_2338{x=-1499, y=-54, z=896}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[10:54:36] [Worker-Main-16/ERROR]: Detected setBlock in a far chunk [-94, 56], pos: class_2338{x=-1499, y=-53, z=896}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[10:54:36] [Worker-Main-16/ERROR]: Detected setBlock in a far chunk [-94, 56], pos: class_2338{x=-1499, y=-52, z=896}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[10:54:36] [Worker-Main-16/ERROR]: Detected setBlock in a far chunk [-94, 56], pos: class_2338{x=-1499, y=-54, z=897}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[10:54:36] [Worker-Main-16/ERROR]: Detected setBlock in a far chunk [-94, 56], pos: class_2338{x=-1499, y=-53, z=897}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[10:54:36] [Worker-Main-16/ERROR]: Detected setBlock in a far chunk [-94, 56], pos: class_2338{x=-1499, y=-52, z=897}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[10:54:36] [Worker-Main-16/ERROR]: Detected setBlock in a far chunk [-94, 56], pos: class_2338{x=-1498, y=-54, z=896}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[10:54:36] [Worker-Main-16/ERROR]: Detected setBlock in a far chunk [-94, 56], pos: class_2338{x=-1498, y=-53, z=896}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[10:54:36] [Worker-Main-16/ERROR]: Detected setBlock in a far chunk [-94, 56], pos: class_2338{x=-1498, y=-52, z=896}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[10:54:36] [Worker-Main-16/ERROR]: Detected setBlock in a far chunk [-94, 56], pos: class_2338{x=-1498, y=-54, z=897}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[10:54:36] [Worker-Main-16/ERROR]: Detected setBlock in a far chunk [-94, 56], pos: class_2338{x=-1498, y=-53, z=897}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[10:54:36] [Worker-Main-16/ERROR]: Detected setBlock in a far chunk [-94, 56], pos: class_2338{x=-1498, y=-52, z=897}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[10:54:36] [Worker-Main-16/ERROR]: Detected setBlock in a far chunk [-94, 56], pos: class_2338{x=-1498, y=-51, z=896}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[10:54:36] [Worker-Main-16/ERROR]: Detected setBlock in a far chunk [-94, 56], pos: class_2338{x=-1498, y=-54, z=898}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[10:54:36] [Worker-Main-16/ERROR]: Detected setBlock in a far chunk [-94, 56], pos: class_2338{x=-1498, y=-53, z=898}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[10:54:36] [Worker-Main-16/ERROR]: Detected setBlock in a far chunk [-94, 56], pos: class_2338{x=-1497, y=-54, z=896}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[10:54:36] [Worker-Main-16/ERROR]: Detected setBlock in a far chunk [-94, 56], pos: class_2338{x=-1497, y=-53, z=896}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[10:54:36] [Worker-Main-16/ERROR]: Detected setBlock in a far chunk [-94, 56], pos: class_2338{x=-1497, y=-52, z=896}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[10:54:36] [Worker-Main-16/ERROR]: Detected setBlock in a far chunk [-94, 56], pos: class_2338{x=-1497, y=-54, z=897}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[10:54:36] [Worker-Main-16/ERROR]: Detected setBlock in a far chunk [-94, 56], pos: class_2338{x=-1497, y=-53, z=897}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[10:54:36] [Worker-Main-16/ERROR]: Detected setBlock in a far chunk [-94, 56], pos: class_2338{x=-1497, y=-52, z=897}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[10:54:36] [Worker-Main-16/ERROR]: Detected setBlock in a far chunk [-94, 56], pos: class_2338{x=-1497, y=-51, z=896}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[10:54:36] [Worker-Main-16/ERROR]: Detected setBlock in a far chunk [-94, 56], pos: class_2338{x=-1497, y=-54, z=898}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[10:54:36] [Worker-Main-16/ERROR]: Detected setBlock in a far chunk [-94, 56], pos: class_2338{x=-1497, y=-53, z=898}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[10:54:36] [Worker-Main-16/ERROR]: Detected setBlock in a far chunk [-94, 56], pos: class_2338{x=-1496, y=-54, z=896}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[10:54:36] [Worker-Main-16/ERROR]: Detected setBlock in a far chunk [-94, 56], pos: class_2338{x=-1496, y=-53, z=896}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[10:54:36] [Worker-Main-16/ERROR]: Detected setBlock in a far chunk [-94, 56], pos: class_2338{x=-1496, y=-52, z=896}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[10:54:36] [Worker-Main-16/ERROR]: Detected setBlock in a far chunk [-94, 56], pos: class_2338{x=-1496, y=-54, z=897}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[10:54:36] [Worker-Main-16/ERROR]: Detected setBlock in a far chunk [-94, 56], pos: class_2338{x=-1496, y=-53, z=897}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[10:54:36] [Worker-Main-16/ERROR]: Detected setBlock in a far chunk [-94, 56], pos: class_2338{x=-1496, y=-52, z=897}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[10:54:36] [Worker-Main-16/ERROR]: Detected setBlock in a far chunk [-94, 56], pos: class_2338{x=-1496, y=-51, z=896}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[10:54:36] [Worker-Main-16/ERROR]: Detected setBlock in a far chunk [-94, 56], pos: class_2338{x=-1496, y=-50, z=896}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[10:54:36] [Worker-Main-16/ERROR]: Detected setBlock in a far chunk [-94, 56], pos: class_2338{x=-1496, y=-54, z=898}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[10:54:36] [Worker-Main-16/ERROR]: Detected setBlock in a far chunk [-94, 56], pos: class_2338{x=-1496, y=-53, z=898}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[10:54:36] [Worker-Main-16/ERROR]: Detected setBlock in a far chunk [-94, 56], pos: class_2338{x=-1496, y=-52, z=898}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[10:54:36] [Worker-Main-16/ERROR]: Detected setBlock in a far chunk [-94, 56], pos: class_2338{x=-1495, y=-52, z=896}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[10:54:36] [Worker-Main-16/ERROR]: Detected setBlock in a far chunk [-94, 56], pos: class_2338{x=-1495, y=-53, z=897}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[10:54:36] [Worker-Main-16/ERROR]: Detected setBlock in a far chunk [-94, 56], pos: class_2338{x=-1495, y=-52, z=897}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[10:54:36] [Worker-Main-16/ERROR]: Detected setBlock in a far chunk [-94, 56], pos: class_2338{x=-1495, y=-51, z=896}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[10:54:36] [Worker-Main-16/ERROR]: Detected setBlock in a far chunk [-94, 56], pos: class_2338{x=-1495, y=-52, z=898}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[10:54:36] [Worker-Main-16/ERROR]: Detected setBlock in a far chunk [-94, 56], pos: class_2338{x=-1494, y=-50, z=896}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[10:54:36] [Worker-Main-16/ERROR]: Detected setBlock in a far chunk [-94, 56], pos: class_2338{x=-1494, y=-52, z=898}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[10:54:36] [Worker-Main-16/ERROR]: Detected setBlock in a far chunk [-93, 56], pos: class_2338{x=-1488, y=-53, z=896}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[11:02:35] [Server thread/INFO]: KomischesEliwas fell from a high place
+[11:03:35] [Server thread/INFO]: KomischesEliwas fell from a high place
+[11:35:48] [Server thread/INFO]: KomischesEliwas has made the advancement [Diamonds!]
+[11:49:24] [Server thread/INFO]: KomischesEliwas was slain by Spider
+[11:54:17] [Server thread/INFO]: KomischesEliwas has made the advancement [Isn't It Iron Pick]
+[11:57:09] [Server thread/INFO]: KomischesEliwas lost connection: Disconnected
+[11:57:09] [Server thread/INFO]: KomischesEliwas left the game
+[11:57:09] [Server thread/INFO]: [voicechat] Disconnecting client KomischesEliwas
+[11:58:09] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[15:06:54] [Server thread/INFO]: /176.65.134.6:64592 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet login/serverbound/minecraft:hello (class_2915) was larger than I expected, found 1 bytes extra whilst reading packet serverbound/minecraft:hello
+[15:06:55] [Server thread/INFO]: /176.65.134.12:62093 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet login/serverbound/minecraft:hello (class_2915) was larger than I expected, found 1 bytes extra whilst reading packet serverbound/minecraft:hello
+[15:12:20] [Server thread/INFO]: /176.65.134.6:64592 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet login/serverbound/minecraft:hello (class_2915) was larger than I expected, found 1 bytes extra whilst reading packet serverbound/minecraft:hello
+[15:12:22] [Server thread/INFO]: /176.65.134.12:62093 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet login/serverbound/minecraft:hello (class_2915) was larger than I expected, found 1 bytes extra whilst reading packet serverbound/minecraft:hello
