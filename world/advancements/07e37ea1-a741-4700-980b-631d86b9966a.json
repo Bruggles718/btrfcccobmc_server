@@ -42,11 +42,13 @@
       "minecraft:snowy_taiga": "2025-11-16 06:52:20 +0000",
       "minecraft:frozen_peaks": "2025-11-17 06:46:02 +0000",
       "minecraft:old_growth_birch_forest": "2025-11-16 07:12:07 +0000",
+      "minecraft:deep_dark": "2025-11-18 03:49:49 +0000",
       "minecraft:swamp": "2025-11-17 00:52:11 +0000",
       "minecraft:grove": "2025-11-17 06:45:36 +0000",
       "minecraft:meadow": "2025-11-16 20:32:33 +0000",
       "minecraft:savanna": "2025-11-16 07:43:52 +0000",
-      "minecraft:plains": "2025-11-16 06:45:16 +0000"
+      "minecraft:plains": "2025-11-16 06:45:16 +0000",
+      "minecraft:pale_garden": "2025-11-18 01:52:00 +0000"
     },
     "done": false
   },
@@ -2183,7 +2185,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-11-16 07:58:43 +0000",
+      "minecraft:pillager": "2025-11-17 17:33:40 +0000",
       "minecraft:skeleton": "2025-11-16 06:19:29 +0000",
+      "minecraft:phantom": "2025-11-17 17:44:20 +0000",
       "minecraft:zombified_piglin": "2025-11-17 01:52:43 +0000",
       "minecraft:wither_skeleton": "2025-11-16 07:23:45 +0000",
       "minecraft:ghast": "2025-11-16 08:08:02 +0000",
@@ -2810,6 +2814,7 @@
     "criteria": {
       "sugar_cane": "2025-11-16 06:56:05 +0000",
       "wheat": "2025-11-16 07:07:34 +0000",
+      "tomato": "2025-11-18 02:53:27 +0000",
       "brown_mushroom": "2025-11-17 05:35:24 +0000",
       "carrot": "2025-11-16 09:05:52 +0000"
     },
@@ -6647,6 +6652,678 @@
   "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-11-17 08:09:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-11-17 17:35:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-11-17 17:50:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-11-17 17:50:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-11-17 19:59:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-11-17 19:59:32 +0000"
+    },
+    "done": true
+  },
+  "comforts:recipes/building_blocks/dye_hammock_pink": {
+    "criteria": {
+      "has_needed_dye": "2025-11-17 19:59:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_toilet": {
+    "criteria": {
+      "has_minecraft:pink_dye": "2025-11-17 19:59:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_bath": {
+    "criteria": {
+      "has_minecraft:pink_dye": "2025-11-17 19:59:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_pink_harness": {
+    "criteria": {
+      "has_needed_dye": "2025-11-17 19:59:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-11-17 19:59:49 +0000"
+    },
+    "done": true
+  },
+  "comforts:recipes/building_blocks/dye_sleeping_bag_pink": {
+    "criteria": {
+      "has_needed_dye": "2025-11-17 19:59:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_pink_dye": "2025-11-17 19:59:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_candle": {
+    "criteria": {
+      "has_pink_dye": "2025-11-17 19:59:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_basin": {
+    "criteria": {
+      "has_minecraft:pink_dye": "2025-11-17 19:59:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-11-17 19:59:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_pink_dye": "2025-11-17 19:59:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_sink": {
+    "criteria": {
+      "has_minecraft:pink_dye": "2025-11-17 19:59:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/pink_bundle": {
+    "criteria": {
+      "has_pink_dye": "2025-11-17 19:59:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_pink_dye": "2025-11-17 19:59:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-11-17 19:59:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-11-17 19:59:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_cabinetry": {
+    "criteria": {
+      "has_minecraft:pink_dye": "2025-11-17 19:59:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-11-17 19:59:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-11-17 19:59:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-11-17 19:59:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_pink_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-11-17 19:59:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_pink_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-11-17 19:59:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_toilet": {
+    "criteria": {
+      "has_dye": "2025-11-17 19:59:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_minecraft:pink_dye": "2025-11-17 19:59:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-11-17 19:59:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-11-17 19:59:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-11-17 19:59:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_drawer": {
+    "criteria": {
+      "has_minecraft:pink_dye": "2025-11-17 19:59:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-11-17 19:59:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_nugget_from_smelting": {
+    "criteria": {
+      "has_copper_horse_armor": "2025-11-17 20:14:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_nugget_from_blasting": {
+    "criteria": {
+      "has_copper_horse_armor": "2025-11-17 20:14:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2025-11-17 20:21:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2025-11-17 20:21:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2025-11-17 20:21:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-11-17 20:21:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-11-17 20:21:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-11-17 20:21:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2025-11-18 00:49:20 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/combat/diamond_iron_boots_smithing": {
+    "criteria": {
+      "has_diamond_upgrade_smithing_template": "2025-11-18 00:52:54 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/tools/diamond_iron_shovel_smithing": {
+    "criteria": {
+      "has_diamond_upgrade_smithing_template": "2025-11-18 00:52:54 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/combat/diamond_iron_leggings_smithing": {
+    "criteria": {
+      "has_diamond_upgrade_smithing_template": "2025-11-18 00:52:54 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/combat/diamond_iron_chestplate_smithing": {
+    "criteria": {
+      "has_diamond_upgrade_smithing_template": "2025-11-18 00:52:54 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/tools/diamond_gold_hoe_smithing": {
+    "criteria": {
+      "has_diamond_upgrade_smithing_template": "2025-11-18 00:52:54 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/combat/diamond_gold_helmet_smithing": {
+    "criteria": {
+      "has_diamond_upgrade_smithing_template": "2025-11-18 00:52:54 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/combat/diamond_iron_helmet_smithing": {
+    "criteria": {
+      "has_diamond_upgrade_smithing_template": "2025-11-18 00:52:54 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/combat/diamond_iron_sword_smithing": {
+    "criteria": {
+      "has_diamond_upgrade_smithing_template": "2025-11-18 00:52:54 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/tools/diamond_gold_shovel_smithing": {
+    "criteria": {
+      "has_diamond_upgrade_smithing_template": "2025-11-18 00:52:54 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/tools/diamond_iron_axe_smithing": {
+    "criteria": {
+      "has_diamond_upgrade_smithing_template": "2025-11-18 00:52:54 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/tools/diamond_iron_hoe_smithing": {
+    "criteria": {
+      "has_diamond_upgrade_smithing_template": "2025-11-18 00:52:54 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/tools/diamond_gold_axe_smithing": {
+    "criteria": {
+      "has_diamond_upgrade_smithing_template": "2025-11-18 00:52:54 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/tools/diamond_iron_pickaxe_smithing": {
+    "criteria": {
+      "has_diamond_upgrade_smithing_template": "2025-11-18 00:52:54 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/tools/diamond_gold_pickaxe_smithing": {
+    "criteria": {
+      "has_diamond_upgrade_smithing_template": "2025-11-18 00:52:54 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/combat/diamond_gold_chestplate_smithing": {
+    "criteria": {
+      "has_diamond_upgrade_smithing_template": "2025-11-18 00:52:54 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/combat/diamond_gold_sword_smithing": {
+    "criteria": {
+      "has_diamond_upgrade_smithing_template": "2025-11-18 00:52:54 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/combat/diamond_gold_boots_smithing": {
+    "criteria": {
+      "has_diamond_upgrade_smithing_template": "2025-11-18 00:52:54 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/combat/diamond_gold_leggings_smithing": {
+    "criteria": {
+      "has_diamond_upgrade_smithing_template": "2025-11-18 00:52:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2025-11-18 01:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-11-18 02:04:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-11-18 02:04:45 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/soul_essence_2": {
+    "criteria": {
+      "has_soul_essence_3": "2025-11-18 02:13:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-11-18 02:26:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-11-18 02:26:58 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "tropical_fish_bucket": "2025-11-18 02:28:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_sniffer_egg": {
+    "criteria": {
+      "obtain_sniffer_egg": "2025-11-18 02:31:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-11-18 02:38:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-11-18 02:38:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_cherry_wood": {
+    "criteria": {
+      "has_log": "2025-11-18 03:00:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_shelf": {
+    "criteria": {
+      "has_stripped_cherry_log": "2025-11-18 03:00:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-11-18 03:00:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-11-18 03:08:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-11-18 03:08:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-11-18 03:09:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-11-18 03:11:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-11-18 03:11:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-11-18 04:21:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-11-18 04:21:09 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/deepslate_stepping_stones": {
+    "criteria": {
+      "has_minecraft:deepslate": "2025-11-18 03:59:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-11-18 03:58:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye_from_pitcher_plant": {
+    "criteria": {
+      "has_pitcher_plant": "2025-11-18 04:58:39 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/cyan_dye_from_pitcher_plant": {
+    "criteria": {
+      "has_pitcher_plant": "2025-11-18 04:58:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2025-11-18 04:54:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-11-18 04:21:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-11-18 03:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2025-11-18 03:59:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-11-18 04:21:09 +0000"
+    },
+    "done": true
+  },
+  "enchantplus:armor/leggings/leaping": {
+    "criteria": {
+      "requirement": "2025-11-18 04:00:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-11-18 04:21:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-11-18 04:21:09 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_sneak_2": {
+    "criteria": {
+      "has_essence_of_sneak_2": "2025-11-18 03:58:32 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_sneak_1": {
+    "criteria": {
+      "has_essence_of_sneak_2": "2025-11-18 03:58:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2025-11-18 04:54:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-11-18 04:21:09 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:recipes/naturescompass/natures_compass": {
+    "criteria": {
+      "has_item": "2025-11-18 03:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-11-18 03:59:27 +0000"
+    },
+    "done": true
+  },
+  "enchantplus:tools/hoe/base": {
+    "criteria": {
+      "scyther": "2025-11-18 04:16:13 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-11-18 04:21:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-11-18 03:51:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-11-18 04:21:09 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:recipes/explorers_compass": {
+    "criteria": {
+      "has_item": "2025-11-18 03:59:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2025-11-18 04:54:13 +0000"
+    },
+    "done": true
+  },
+  "enchantplus:armor/leggings/base": {
+    "criteria": {
+      "leaping": "2025-11-18 04:00:36 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-11-18 04:21:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_any_sniffer_seed": {
+    "criteria": {
+      "torchflower": "2025-11-18 04:54:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-11-18 04:21:09 +0000"
+    },
+    "done": true
+  },
+  "enchantplus:tools/hoe/scyther": {
+    "criteria": {
+      "requirement": "2025-11-18 04:16:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-11-18 03:58:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-11-18 04:21:09 +0000"
     },
     "done": true
   },

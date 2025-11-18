@@ -32,6 +32,7 @@
       "minecraft:forest": "2025-11-16 04:23:14 +0000",
       "minecraft:taiga": "2025-11-16 18:35:49 +0000",
       "minecraft:deep_ocean": "2025-11-16 18:55:52 +0000",
+      "minecraft:lush_caves": "2025-11-18 06:03:26 +0000",
       "minecraft:frozen_river": "2025-11-17 08:54:12 +0000",
       "minecraft:ocean": "2025-11-16 18:54:44 +0000",
       "minecraft:jungle": "2025-11-16 19:06:02 +0000",
@@ -6299,9 +6300,15 @@
     },
     "done": true
   },
-  "enchantplus:tools/axe/timber": {
+  "enchantplus:weapons/sword/base": {
     "criteria": {
-      "requirement": "2025-11-17 11:08:59 +0000"
+      "xp_boost": "2025-11-17 10:24:26 +0000"
+    },
+    "done": false
+  },
+  "enchantplus:weapons/sword/xp_boost": {
+    "criteria": {
+      "requirement": "2025-11-17 10:24:26 +0000"
     },
     "done": true
   },
@@ -6311,11 +6318,11 @@
     },
     "done": true
   },
-  "enchantplus:weapons/sword/base": {
+  "enchantplus:tools/axe/timber": {
     "criteria": {
-      "xp_boost": "2025-11-17 10:24:26 +0000"
+      "requirement": "2025-11-17 11:08:59 +0000"
     },
-    "done": false
+    "done": true
   },
   "enchantplus:tools/axe/base": {
     "criteria": {
@@ -6323,9 +6330,159 @@
     },
     "done": true
   },
-  "enchantplus:weapons/sword/xp_boost": {
+  "enchantplus:armor/helmet/base": {
     "criteria": {
-      "requirement": "2025-11-17 10:24:26 +0000"
+      "bright_vision": "2025-11-18 05:09:09 +0000"
+    },
+    "done": false
+  },
+  "enchantplus:armor/helmet/bright_vision": {
+    "criteria": {
+      "requirement": "2025-11-18 05:09:09 +0000"
+    },
+    "done": true
+  },
+  "enchantplus:armor/fury": {
+    "criteria": {
+      "requirement": "2025-11-18 05:10:40 +0000"
+    },
+    "done": true
+  },
+  "enchantplus:armor/leggings/leaping": {
+    "criteria": {
+      "requirement": "2025-11-18 05:13:18 +0000"
+    },
+    "done": true
+  },
+  "enchantplus:armor/leggings/base": {
+    "criteria": {
+      "leaping": "2025-11-18 05:13:18 +0000"
+    },
+    "done": false
+  },
+  "betterenchanting:recipes/combat/diamond_iron_boots_smithing": {
+    "criteria": {
+      "has_diamond_upgrade_smithing_template": "2025-11-18 05:26:45 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/tools/diamond_iron_shovel_smithing": {
+    "criteria": {
+      "has_diamond_upgrade_smithing_template": "2025-11-18 05:26:45 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/combat/diamond_iron_leggings_smithing": {
+    "criteria": {
+      "has_diamond_upgrade_smithing_template": "2025-11-18 05:26:45 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/combat/diamond_iron_chestplate_smithing": {
+    "criteria": {
+      "has_diamond_upgrade_smithing_template": "2025-11-18 05:26:45 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/tools/diamond_gold_hoe_smithing": {
+    "criteria": {
+      "has_diamond_upgrade_smithing_template": "2025-11-18 05:26:45 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/combat/diamond_gold_helmet_smithing": {
+    "criteria": {
+      "has_diamond_upgrade_smithing_template": "2025-11-18 05:26:45 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/combat/diamond_iron_helmet_smithing": {
+    "criteria": {
+      "has_diamond_upgrade_smithing_template": "2025-11-18 05:26:45 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/combat/diamond_iron_sword_smithing": {
+    "criteria": {
+      "has_diamond_upgrade_smithing_template": "2025-11-18 05:26:45 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/tools/diamond_gold_shovel_smithing": {
+    "criteria": {
+      "has_diamond_upgrade_smithing_template": "2025-11-18 05:26:45 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/tools/diamond_iron_axe_smithing": {
+    "criteria": {
+      "has_diamond_upgrade_smithing_template": "2025-11-18 05:26:45 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/tools/diamond_iron_hoe_smithing": {
+    "criteria": {
+      "has_diamond_upgrade_smithing_template": "2025-11-18 05:26:45 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/tools/diamond_gold_axe_smithing": {
+    "criteria": {
+      "has_diamond_upgrade_smithing_template": "2025-11-18 05:26:45 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/tools/diamond_iron_pickaxe_smithing": {
+    "criteria": {
+      "has_diamond_upgrade_smithing_template": "2025-11-18 05:26:45 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/tools/diamond_gold_pickaxe_smithing": {
+    "criteria": {
+      "has_diamond_upgrade_smithing_template": "2025-11-18 05:26:45 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/combat/diamond_gold_chestplate_smithing": {
+    "criteria": {
+      "has_diamond_upgrade_smithing_template": "2025-11-18 05:26:45 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/combat/diamond_gold_sword_smithing": {
+    "criteria": {
+      "has_diamond_upgrade_smithing_template": "2025-11-18 05:26:45 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/combat/diamond_gold_boots_smithing": {
+    "criteria": {
+      "has_diamond_upgrade_smithing_template": "2025-11-18 05:26:45 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/combat/diamond_gold_leggings_smithing": {
+    "criteria": {
+      "has_diamond_upgrade_smithing_template": "2025-11-18 05:26:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-11-18 06:03:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-11-18 06:03:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-11-18 06:03:56 +0000"
     },
     "done": true
   },
