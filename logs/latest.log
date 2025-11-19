@@ -1,6 +1,6 @@
-[03:35:19] [main/INFO]: Loading Minecraft 1.21.10 with Fabric Loader 0.17.3
-[03:35:19] [ForkJoinPool-1-worker-5/WARN]: Mod moredelight uses the version 25.07.28a-1.21.7-fabric which isn't compatible with Loader's extended semantic version format (Could not parse version number component '28a'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[03:35:19] [main/INFO]: Loading 147 mods:
+[16:31:12] [main/INFO]: Loading Minecraft 1.21.10 with Fabric Loader 0.17.3
+[16:31:12] [ForkJoinPool-1-worker-3/WARN]: Mod moredelight uses the version 25.07.28a-1.21.7-fabric which isn't compatible with Loader's extended semantic version format (Could not parse version number component '28a'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[16:31:12] [main/INFO]: Loading 148 mods:
 	- appleskin 3.0.7+mc1.21.9
 	- architectury 18.0.6
 	- balm 21.10.8
@@ -46,6 +46,7 @@
 	        \-- com_electronwill_night-config_toml 3.8.3
 	- cookingforblockheads 21.10.2
 	- cryonicconfig 1.0.0+mc1.21.10
+	- disconnect-packet-fix 2.0.0
 	- explorerscompass 1.21.10-2.2.7-fabric
 	- fabric-api 0.138.3+1.21.10
 	   |-- fabric-api-base 1.0.0+14b92d896f
@@ -165,444 +166,80 @@
 	   |-- com_twelvemonkeys_imageio_imageio-webp 3.12.0
 	   |-- org_quiltmc_parsers_gson 0.2.1
 	   \-- org_quiltmc_parsers_json 0.2.1
-[03:35:19] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/home/bruggles/btrfcccobmc_server/libraries/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[03:35:19] [main/INFO]: Compatibility level set to JAVA_21
-[03:35:20] [main/WARN]: Reference map 'comforts.refmap.json' for comforts.mixins.json could not be read. If this is a development environment you can ignore this message
-[03:35:20] [main/WARN]: Reference map 'kleeslabs.refmap.json' for kleeslabs.mixins.json could not be read. If this is a development environment you can ignore this message
-[03:35:20] [main/WARN]: Reference map 'kleeslabs.refmap.json' for kleeslabs.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[03:35:20] [main/INFO]: Loaded configuration file for Lithium: 163 options available, 0 override(s) found.
-[03:35:20] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl.mixins.json could not be read. If this is a development environment you can ignore this message
-[03:35:20] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[03:35:20] [main/WARN]: Error loading class: net/minecraft/class_9934 (java.lang.ClassNotFoundException: net/minecraft/class_9934)
-[03:35:20] [main/WARN]: @Mixin target net.minecraft.class_9934 was not found farmersdelight.mixins.json:refabricated.GhostSlotsInvoker from mod farmersdelight
-[03:35:21] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
-[03:35:32] [main/INFO]: Registering conditions for : BetterEnchanting
-[03:35:32] [main/INFO]: Registering mod iems for : BetterEnchanting
-[03:35:32] [main/INFO]: Registering mod screen handlers for : BetterEnchanting
-[03:35:32] [main/INFO]: Registering mod enchantment tags for : BetterEnchanting
-[03:35:32] [main/INFO]: Creating enchantement ingredient map for mod : BetterEnchanting
-[03:35:32] [main/INFO]: Generating item tags for mod : BetterEnchanting
-[03:35:32] [main/INFO]: Registering loot tables for BetterEnchanting
-[03:35:32] [main/INFO]: Modifying loot tables for : BetterEnchanting
-[03:35:33] [main/INFO]: Loaded config farmersdelight-common.json
-[03:35:33] [main/INFO]: [STDOUT]: [FLD] Config loaded: delay 4–12 ticks
-[03:35:33] [main/INFO]: Reflections took 291 ms to scan 2 urls, producing 12 keys and 157 values
-[03:35:34] [main/INFO]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
-[03:35:34] [main/INFO]: Definitely not up to no good
-[03:35:34] [main/INFO]: [voicechat] Compatibility version 20
-[03:35:35] [main/INFO]: [voicechat] Loading plugins
-[03:35:35] [main/INFO]: [voicechat] Loaded 0 plugin(s)
-[03:35:35] [main/INFO]: [voicechat] Initializing plugins
-[03:35:35] [main/INFO]: [voicechat] Initialized 0 plugin(s)
-[03:35:36] [main/INFO]: Deserializing Config from './config/xaeromaps_waystones.json5'
-[03:35:36] [main/INFO]: Loading configuration...
-[03:35:37] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[03:35:37] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
-[03:35:37] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[03:35:40] [main/INFO]: Loaded 2922 recipes
-[03:35:40] [main/INFO]: Loaded 3004 advancements
-[03:35:40] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 63 translation keys
-[03:35:41] [main/INFO]: Applied 147 biome modifications to 64 of 65 new biomes in 9.002 ms
-[03:35:41] [Server thread/INFO]: Loading server configs...
-[03:35:41] [Server thread/INFO]:         __    
-[03:35:41] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.20
-[03:35:41] [Server thread/INFO]:   |___ |      Running on Fabric - fabric@0.138.3+1.21.10
-[03:35:41] [Server thread/INFO]: 
-[03:35:41] [Server thread/INFO]: Loading storage provider... [H2]
-[03:35:41] [Server thread/INFO]: Loading internal permission managers...
-[03:35:41] [Server thread/INFO]: Performing initial data load...
-[03:35:41] [Server thread/INFO]: Successfully enabled. (took 501ms)
-[03:35:41] [Server thread/INFO]: Starting minecraft server version 1.21.10
-[03:35:41] [Server thread/INFO]: Loading properties
-[03:35:41] [Server thread/INFO]: Default game type: SURVIVAL
-[03:35:41] [Server thread/INFO]: Generating keypair
-[03:35:42] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:35:42] [Server thread/INFO]: Using epoll channel type
-[03:35:42] [Server thread/INFO]: Preparing level "world"
-[03:35:43] [Server thread/INFO]: Loading 0 persistent chunks...
-[03:35:43] [Server thread/INFO]: Preparing spawn area: 100%
-[03:35:43] [Server thread/INFO]: Time elapsed: 20 ms
-[03:35:43] [Server thread/INFO]: Done (1.329s)! For help, type "help"
-[03:35:44] [Server thread/INFO]: bending-hikari - Starting...
-[03:35:45] [Server thread/INFO]: bending-hikari - Added connection conn0: url=jdbc:h2:/home/bruggles/btrfcccobmc_server/./config/bending/data/h2/bending user=BENDING
-[03:35:45] [Server thread/INFO]: bending-hikari - Start completed.
-[03:35:46] [Server thread/INFO]: Database: jdbc:h2:/home/bruggles/btrfcccobmc_server/./config/bending/data/h2/bending (H2 2.4)
-[03:35:46] [Server thread/WARN]: Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
-[03:35:46] [Server thread/INFO]: Successfully validated 4 migrations (execution time 00:00.099s)
-[03:35:46] [Server thread/INFO]: Current version of schema "PUBLIC": 4
-[03:35:46] [Server thread/INFO]: Schema "PUBLIC" is up to date. No migration necessary.
-[03:35:46] [/INFO]: Registered translations: [en]
-[03:35:47] [Server thread/INFO]: Found 68 registered abilities (9 Sequences)
-[03:35:47] [Server thread/INFO]: Found 228 registered collisions
-[03:35:47] [Server thread/INFO]: Registered protection plugins: []
-[03:35:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3896ms or 77 ticks behind
-[03:35:47] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
-[03:35:47] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[03:35:47] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
-[03:36:13] [User Authenticator #1/INFO]: UUID of player FlameWear is 6771c0eb-48cc-4b42-a19d-cb59f3b53980
-[03:36:15] [Server thread/INFO]: FlameWear[/70.131.184.145:62533] logged in with entity id 53 at (509.6618320066035, 66.0, -501.69999998807907)
-[03:36:16] [Server thread/INFO]: [voicechat] Using Fabric Permissions API
-[03:36:16] [Server thread/INFO]: FlameWear joined the game
-[03:36:16] [Server thread/INFO]: [voicechat] Received secret request of FlameWear (20)
-[03:36:16] [Server thread/INFO]: [voicechat] Sent secret to FlameWear
-[03:36:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 6771c0eb-48cc-4b42-a19d-cb59f3b53980
-[03:36:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 6771c0eb-48cc-4b42-a19d-cb59f3b53980
-[03:36:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player FlameWear (6771c0eb-48cc-4b42-a19d-cb59f3b53980) successfully connected to voice chat
-[03:36:22] [User Authenticator #2/INFO]: UUID of player duskviolet is c090b4e1-7c23-4530-927c-a9f548aeb54d
-[03:36:24] [Server thread/INFO]: duskviolet[/172.56.12.60:55470] logged in with entity id 235 at (-1002.0674303354489, 95.0, 445.1477692222078)
-[03:36:24] [Server thread/INFO]: duskviolet joined the game
-[03:36:25] [Server thread/INFO]: [voicechat] Received secret request of duskviolet (20)
-[03:36:25] [Server thread/INFO]: [voicechat] Sent secret to duskviolet
-[03:36:26] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player c090b4e1-7c23-4530-927c-a9f548aeb54d
-[03:36:27] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player c090b4e1-7c23-4530-927c-a9f548aeb54d
-[03:36:27] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player duskviolet (c090b4e1-7c23-4530-927c-a9f548aeb54d) successfully connected to voice chat
-[03:36:30] [User Authenticator #3/INFO]: UUID of player CzarsonTzarcia is 7856f6e3-6521-4a6a-9222-1176c49eea16
-[03:36:32] [Server thread/INFO]: CzarsonTzarcia[/75.40.167.175:62099] logged in with entity id 472 at (-1241.895827087278, -8.0, 2411.6076796787947)
-[03:36:32] [Server thread/INFO]: CzarsonTzarcia joined the game
-[03:36:32] [Server thread/INFO]: [voicechat] Received secret request of CzarsonTzarcia (20)
-[03:36:32] [Server thread/INFO]: [voicechat] Sent secret to CzarsonTzarcia
-[03:36:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 7856f6e3-6521-4a6a-9222-1176c49eea16
-[03:36:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 7856f6e3-6521-4a6a-9222-1176c49eea16
-[03:36:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player CzarsonTzarcia (7856f6e3-6521-4a6a-9222-1176c49eea16) successfully connected to voice chat
-[03:36:36] [User Authenticator #4/INFO]: UUID of player Omnilax is bcbba3ce-966c-4a95-ad81-6f39c9638494
-[03:36:38] [Server thread/INFO]: Omnilax[/73.124.223.163:56684] logged in with entity id 664 at (-745.3576261512061, 65.0, 322.9346426897398)
-[03:36:38] [Server thread/INFO]: Omnilax joined the game
-[03:36:38] [Server thread/INFO]: [voicechat] Received secret request of Omnilax (20)
-[03:36:38] [Server thread/INFO]: [voicechat] Sent secret to Omnilax
-[03:36:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player bcbba3ce-966c-4a95-ad81-6f39c9638494
-[03:36:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player bcbba3ce-966c-4a95-ad81-6f39c9638494
-[03:36:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Omnilax (bcbba3ce-966c-4a95-ad81-6f39c9638494) successfully connected to voice chat
-[03:37:17] [User Authenticator #5/INFO]: UUID of player UniqueAndClever is 07e37ea1-a741-4700-980b-631d86b9966a
-[03:37:19] [Server thread/INFO]: UniqueAndClever[/99.33.195.107:49759] logged in with entity id 1285 at (-915.6745461508459, 120.0, 1210.7468077851631)
-[03:37:19] [Server thread/INFO]: UniqueAndClever joined the game
-[03:37:20] [Server thread/INFO]: [voicechat] Received secret request of UniqueAndClever (20)
-[03:37:20] [Server thread/INFO]: [voicechat] Sent secret to UniqueAndClever
-[03:37:22] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 07e37ea1-a741-4700-980b-631d86b9966a
-[03:37:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 07e37ea1-a741-4700-980b-631d86b9966a
-[03:37:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player UniqueAndClever (07e37ea1-a741-4700-980b-631d86b9966a) successfully connected to voice chat
-[03:37:46] [Server thread/INFO]: <UniqueAndClever> fellas
-[03:37:52] [Server thread/INFO]: CzarsonTzarcia has made the advancement [Diamonds!]
-[03:38:24] [Server thread/INFO]: <CzarsonTzarcia> i made a new chat
-[03:38:50] [Server thread/INFO]: <UniqueAndClever> so did other people
-[03:39:48] [Server thread/INFO]: FlameWear has made the advancement [Best Friends Forever]
-[03:42:29] [Server thread/INFO]: <CzarsonTzarcia> -1270 X, -40 Y, 2353 Z
-[03:46:14] [Server thread/INFO]: FlameWear has made the advancement [The Parrots and the Bats]
-[03:46:44] [User Authenticator #6/INFO]: UUID of player hulchercraft is fc97a31c-dab0-4279-98ab-ab752323905e
-[03:46:50] [Server thread/INFO]: hulchercraft[/203.181.255.173:54754] logged in with entity id 9561 at (-657.5, 68.0, 383.5)
-[03:46:50] [Server thread/INFO]: hulchercraft joined the game
-[03:46:51] [Server thread/INFO]: [voicechat] Received secret request of hulchercraft (20)
-[03:46:51] [Server thread/INFO]: [voicechat] Sent secret to hulchercraft
-[03:46:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player fc97a31c-dab0-4279-98ab-ab752323905e
-[03:47:01] [Server thread/INFO]: Omnilax has made the advancement [The Parrots and the Bats]
-[03:50:43] [Server thread/INFO]: CzarsonTzarcia has made the advancement [Sneak 100]
-[03:51:18] [Server thread/INFO]: UniqueAndClever has made the advancement [Sneak 100]
-[03:51:23] [Server thread/INFO]: hulchercraft has made the advancement [Stone Age]
-[03:51:39] [Server thread/INFO]: UniqueAndClever experienced kinetic energy
-[03:54:05] [Server thread/INFO]: duskviolet has made the advancement [Monster Hunter]
-[03:54:11] [Server thread/INFO]: duskviolet was shot by Skeleton
-[03:54:46] [Server thread/INFO]: CzarsonTzarcia was slain by Warden
-[03:56:09] [Server thread/INFO]: hulchercraft was slain by Zombie
-[03:57:19] [Server thread/INFO]: hulchercraft has made the advancement [Getting an Upgrade]
-[03:57:21] [Server thread/INFO]: duskviolet was shot by Skeleton
-[03:57:49] [Server thread/INFO]: <UniqueAndClever> joe click v
-[03:57:55] [Server thread/INFO]: <UniqueAndClever> then select the group
-[03:58:08] [Server thread/WARN]: UniqueAndClever moved too quickly! 0.34595446959588116,6.850133084111185,16.847930444888334
-[04:00:49] [Server thread/INFO]: CzarsonTzarcia fell from a high place
-[04:01:19] [Server thread/INFO]: <hulchercraft> yall talking
-[04:01:23] [Server thread/INFO]: <UniqueAndClever> yeah
-[04:01:24] [Server thread/INFO]: <duskviolet> yes
-[04:01:28] [Server thread/INFO]: <hulchercraft> i think it may be that Im in Japan
-[04:03:05] [Server thread/INFO]: UniqueAndClever was slain by Warden
-[04:05:23] [Server thread/INFO]: CzarsonTzarcia was obliterated by a sonically-charged shriek
-[04:13:19] [Server thread/INFO]: <hulchercraft> can we add a mod that adds global warming if we burn too much coal
-[04:13:27] [Server thread/INFO]: <Omnilax> hi
-[04:13:32] [Server thread/INFO]: <hulchercraft> saw
-[04:13:40] [Server thread/INFO]: <hulchercraft> im working on the voice connection
-[04:13:40] [Server thread/INFO]: <Omnilax> how r u
-[04:13:44] [Server thread/INFO]: <hulchercraft> sick
-[04:13:47] [Server thread/INFO]: <hulchercraft> achoo
-[04:13:48] [Server thread/INFO]: <Omnilax> oh no
-[04:13:50] [Server thread/INFO]: <hulchercraft> u?
-[04:13:55] [Server thread/INFO]: <Omnilax> im ok tbh
-[04:14:08] [Server thread/INFO]: <hulchercraft> lovely place
-[04:14:12] [Server thread/INFO]: <Omnilax> thank u so much
-[04:14:27] [Server thread/INFO]: <hulchercraft> i like the scary opening
-[04:14:31] [Server thread/INFO]: <hulchercraft> adds character
-[04:14:34] [Server thread/INFO]: <Omnilax> yeah i decided to keep it
-[04:15:03] [Server thread/INFO]: <hulchercraft> what armor do u have lol
-[04:15:17] [Server thread/INFO]: <Omnilax> its copper armor
-[04:15:27] [Server thread/INFO]: <hulchercraft> ow
-[04:15:28] [Server thread/INFO]: <Omnilax> be careful
-[04:15:32] [Server thread/INFO]: <hulchercraft> yu
-[04:15:47] [Server thread/INFO]: <Omnilax> maybe u dont have a mic registered
-[04:15:52] [Server thread/INFO]: <hulchercraft> i do
-[04:15:56] [Server thread/INFO]: <Omnilax> your name has a little plug with a red line on it
-[04:15:59] [Server thread/INFO]: <hulchercraft> i suspect its the mic connection
-[04:16:03] [Server thread/INFO]: <hulchercraft> oh
-[04:16:20] [Server thread/INFO]: <hulchercraft> naw
-[04:16:28] [Server thread/INFO]: <hulchercraft> i think its the RTC cnnection
-[04:16:33] [Server thread/INFO]: <Omnilax> ohh
-[04:16:33] [Server thread/INFO]: <hulchercraft> my mic is connected
-[04:16:52] [VoiceChatPacketProcessingThread/WARN]: [voicechat] Dropping voice chat packets! Your Server might be overloaded!
-[04:16:52] [VoiceChatPacketProcessingThread/WARN]: [voicechat] Packet queue has 47 packets
-[04:16:59] [Server thread/INFO]: UniqueAndClever hit the ground too hard
-[04:17:09] [User Authenticator #7/INFO]: UUID of player hulchercraft is fc97a31c-dab0-4279-98ab-ab752323905e
-[04:17:09] [Server thread/INFO]: hulchercraft lost connection: You logged in from another location
-[04:17:09] [Server thread/INFO]: hulchercraft left the game
-[04:17:09] [Server thread/INFO]: [voicechat] Disconnecting client hulchercraft
-[04:17:09] [Server thread/WARN]: handleDisconnection() called twice
-[04:17:13] [Server thread/INFO]: hulchercraft[/138.199.12.51:61445] logged in with entity id 39800 at (-713.0183159759416, 63.0, 298.5312639077798)
-[04:17:13] [Server thread/INFO]: hulchercraft joined the game
-[04:17:13] [Server thread/INFO]: [voicechat] Received secret request of hulchercraft (20)
-[04:17:13] [Server thread/INFO]: [voicechat] Sent secret to hulchercraft
-[04:17:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player fc97a31c-dab0-4279-98ab-ab752323905e
-[04:17:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player fc97a31c-dab0-4279-98ab-ab752323905e
-[04:17:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player hulchercraft (fc97a31c-dab0-4279-98ab-ab752323905e) successfully connected to voice chat
-[04:17:58] [Server thread/INFO]: UniqueAndClever was obliterated by a sonically-charged shriek
-[04:22:21] [Server thread/INFO]: hulchercraft was slain by Zombie
-[04:22:30] [Server thread/INFO]: UniqueAndClever was slain by Warden
-[04:23:07] [Server thread/INFO]: hulchercraft was shot by Skeleton
-[04:23:56] [Server thread/INFO]: hulchercraft was shot by Skeleton
-[04:24:05] [Server thread/INFO]: hulchercraft has made the advancement [Sweet Dreams]
-[04:25:00] [Server thread/INFO]: hulchercraft has made the advancement [Monster Hunter]
-[04:25:05] [Server thread/INFO]: Omnilax was shot by Skeleton
-[04:25:57] [Server thread/INFO]: hulchercraft was blown up by Creeper
-[04:27:43] [Server thread/INFO]: CzarsonTzarcia was obliterated by a sonically-charged shriek
-[04:30:44] [User Authenticator #8/INFO]: UUID of player Laxidaze3 is 718fd999-d407-428c-bd79-690386a1caad
-[04:30:48] [Server thread/INFO]: Laxidaze3[/70.173.193.208:60235] logged in with entity id 55820 at (-7396.998403377057, 67.0, -298.12790104867804)
-[04:30:48] [Server thread/INFO]: Laxidaze3 joined the game
-[04:30:49] [Server thread/INFO]: [voicechat] Received secret request of Laxidaze3 (20)
-[04:30:49] [Server thread/INFO]: [voicechat] Sent secret to Laxidaze3
-[04:30:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 718fd999-d407-428c-bd79-690386a1caad
-[04:30:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 718fd999-d407-428c-bd79-690386a1caad
-[04:30:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Laxidaze3 (718fd999-d407-428c-bd79-690386a1caad) successfully connected to voice chat
-[04:31:17] [Server thread/INFO]: duskviolet was shot by Pillager
-[04:41:14] [Server thread/INFO]: Laxidaze3 lost connection: Disconnected
-[04:41:14] [Server thread/INFO]: Laxidaze3 left the game
-[04:41:14] [Server thread/INFO]: [voicechat] Disconnecting client Laxidaze3
-[04:41:34] [User Authenticator #9/INFO]: UUID of player Laxidaze3 is 718fd999-d407-428c-bd79-690386a1caad
-[04:41:38] [Server thread/INFO]: Laxidaze3[/70.173.193.208:54153] logged in with entity id 64468 at (-830.7624999880791, 65.0, 827.3695553682157)
-[04:41:38] [Server thread/INFO]: Laxidaze3 joined the game
-[04:41:38] [Server thread/INFO]: [voicechat] Received secret request of Laxidaze3 (20)
-[04:41:38] [Server thread/INFO]: [voicechat] Sent secret to Laxidaze3
-[04:41:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 718fd999-d407-428c-bd79-690386a1caad
-[04:41:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 718fd999-d407-428c-bd79-690386a1caad
-[04:41:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Laxidaze3 (718fd999-d407-428c-bd79-690386a1caad) successfully connected to voice chat
-[04:42:52] [Server thread/WARN]: Rejecting UseItemOnPacket from UniqueAndClever: Location (-776.0, 68.0, 302.4544226527214) too far away from hit block class_2338{x=-780, y=68, z=302}.
-[04:42:57] [Server thread/WARN]: Rejecting UseItemOnPacket from UniqueAndClever: Location (-775.0, 68.0, 302.42098250985146) too far away from hit block class_2338{x=-779, y=68, z=302}.
-[04:43:08] [Server thread/WARN]: Rejecting UseItemOnPacket from UniqueAndClever: Location (-771.0, 67.0, 307.47997799515724) too far away from hit block class_2338{x=-781, y=67, z=307}.
-[04:43:14] [Server thread/WARN]: Rejecting UseItemOnPacket from UniqueAndClever: Location (-777.0, 67.0, 308.5453498363495) too far away from hit block class_2338{x=-781, y=67, z=308}.
-[04:43:22] [Server thread/WARN]: Rejecting UseItemOnPacket from UniqueAndClever: Location (-771.0, 67.0, 308.5041690468788) too far away from hit block class_2338{x=-781, y=67, z=308}.
-[04:43:47] [Server thread/WARN]: Rejecting UseItemOnPacket from UniqueAndClever: Location (-775.0, 66.0, 310.14777286350727) too far away from hit block class_2338{x=-781, y=66, z=310}.
-[04:43:57] [Server thread/WARN]: Rejecting UseItemOnPacket from UniqueAndClever: Location (-771.0, 66.0, 310.23270800709724) too far away from hit block class_2338{x=-781, y=66, z=310}.
-[04:46:00] [Server thread/INFO]: duskviolet has made the advancement [Acquire Hardware]
-[04:53:42] [Server thread/INFO]: Laxidaze3 fell out of the world
-[04:54:10] [Server thread/INFO]: UniqueAndClever has made the advancement [Planting the Past]
-[04:54:40] [Server thread/WARN]: Omnilax moved too quickly! 1567.248081115204,0.5,-688.7797815585243
-[04:57:27] [Server thread/INFO]: CzarsonTzarcia was impaled by Drowned
-[04:57:31] [Server thread/INFO]: Laxidaze3 fell out of the world
-[05:02:00] [Server thread/INFO]: UniqueAndClever lost connection: Disconnected
-[05:02:00] [Server thread/INFO]: UniqueAndClever left the game
-[05:02:00] [Server thread/INFO]: [voicechat] Disconnecting client UniqueAndClever
-[05:09:58] [Server thread/INFO]: hulchercraft was slain by Zombie
-[05:10:17] [Server thread/INFO]: duskviolet was slain by Zombie
-[05:14:51] [Server thread/INFO]: Laxidaze3 was slain by Enderman
-[05:18:27] [Server thread/INFO]: duskviolet has made the advancement [Crops of the Wild]
-[05:19:35] [Server thread/WARN]: Laxidaze3 moved too quickly! 16.249777600653488,-1.0581169179546066,7.674865560638864
-[05:20:14] [Server thread/INFO]: Laxidaze3 was slain by Enderman
-[05:27:35] [Server thread/INFO]: duskviolet was shot by Skeleton
-[05:33:15] [Server thread/INFO]: duskviolet has made the advancement [Best Friends Forever]
-[05:33:51] [Server thread/INFO]: <Omnilax> im back
-[05:34:01] [Server thread/INFO]: <Omnilax> omg nice
-[05:39:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
-[05:40:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[05:40:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2251ms or 45 ticks behind
-[05:41:49] [Server thread/INFO]: FlameWear has made the advancement [A Terrible Fortress]
-[05:42:58] [Server thread/INFO]: FlameWear was slain by Wither Skeleton
-[05:43:00] [Server thread/INFO]: hulchercraft has made the advancement [Acquire Hardware]
-[05:43:07] [Server thread/INFO]: hulchercraft has made the advancement [Isn't It Iron Pick]
-[05:44:40] [Server thread/INFO]: Omnilax was shot by Skeleton
-[05:46:04] [Server thread/INFO]: hulchercraft lost connection: Disconnected
-[05:46:04] [Server thread/INFO]: hulchercraft left the game
-[05:46:04] [Server thread/INFO]: [voicechat] Disconnecting client hulchercraft
-[05:46:09] [Netty Epoll Server IO #10/ERROR]: Error sending packet clientbound/minecraft:disconnect
-io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
-	at knot/net.minecraft.class_9136.method_56426(class_9136.java:50) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_9136.encode(class_9136.java:14) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_2545.method_10838(class_2545.java:26) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_2545.encode(class_2545.java:12) ~[server-intermediary.jar:?]
-	at knot/io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/net.minecraft.class_2535$2.write(class_2535.java:524) ~[server-intermediary.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/net.minecraft.class_2535.method_36942(class_2535.java:350) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_2535.method_10764(class_2535.java:342) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_2535.method_52906(class_2535.java:324) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_2535.method_10752(class_2535.java:318) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_2535.exceptionCaught(class_2535.java:169) ~[server-intermediary.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1324) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:856) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:727) ~[netty-transport-classes-epoll-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:825) ~[netty-transport-classes-epoll-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:501) ~[netty-transport-classes-epoll-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:399) ~[netty-transport-classes-epoll-4.1.118.Final.jar:?]
-	at knot/io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998) ~[netty-common-4.1.118.Final.jar:?]
-	at knot/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.118.Final.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[05:49:32] [Server thread/INFO]: duskviolet was shot by Pillager
-[05:49:58] [Server thread/INFO]: FlameWear tried to swim in lava
-[05:53:14] [Server thread/INFO]: FlameWear has made the advancement [Enchanter]
-[05:53:28] [Server thread/INFO]: Laxidaze3 fell out of the world
-[05:53:59] [Server thread/INFO]: duskviolet burned to death
-[06:00:43] [Server thread/INFO]: Omnilax has made the advancement [Enchanter]
-[06:03:34] [Server thread/INFO]: Omnilax has made the advancement [Suit Up]
-[06:13:00] [Server thread/INFO]: FlameWear has made the advancement [Remote Getaway]
-[06:13:11] [Server thread/INFO]: Omnilax has made the advancement [Remote Getaway]
-[06:14:24] [Server thread/INFO]: duskviolet was shot by Pillager
-[06:21:11] [Server thread/WARN]: Birch Boat (vehicle of duskviolet) moved too quickly! 7.295811663396762,0.0,7.380400500798714
-[06:21:11] [Server thread/WARN]: FlameWear moved too quickly! 3.646216373620632,-1.690375382147316,-9.23422375402447
-[06:21:11] [Server thread/WARN]: Omnilax moved too quickly! 0.21843833307354998,2.964567946800045,-9.746146708255083
-[06:21:11] [Server thread/WARN]: Birch Boat (vehicle of duskviolet) moved too quickly! 7.570716712693866,0.0,7.670633385938345
-[06:21:25] [Server thread/INFO]: FlameWear has made the advancement [The City at the End of the Game]
-[06:21:43] [Server thread/INFO]: Omnilax has made the advancement [The City at the End of the Game]
-[06:22:41] [Server thread/INFO]: FlameWear was slain by Shulker
-[06:24:00] [Server thread/INFO]: Omnilax has made the advancement [Cover Me with Diamonds]
-[06:26:39] [Server thread/INFO]: Omnilax has made the advancement [Ice Bucket Challenge]
-[06:27:39] [Server thread/INFO]: duskviolet was shot by Pillager
-[06:28:12] [Server thread/INFO]: duskviolet lost connection: Disconnected
-[06:28:12] [Server thread/INFO]: duskviolet left the game
-[06:28:12] [Server thread/INFO]: [voicechat] Disconnecting client duskviolet
-[06:28:53] [Server thread/INFO]: CzarsonTzarcia drowned
-[06:37:57] [Server thread/INFO]: FlameWear lost connection: Disconnected
-[06:37:57] [Server thread/INFO]: FlameWear left the game
-[06:37:57] [Server thread/INFO]: [voicechat] Disconnecting client FlameWear
-[06:38:07] [User Authenticator #10/INFO]: UUID of player FlameWear is 6771c0eb-48cc-4b42-a19d-cb59f3b53980
-[06:38:08] [Server thread/INFO]: FlameWear[/70.131.184.145:63570] logged in with entity id 196117 at (-1161.0954336681293, 24.170218350513085, 1448.7822976133098)
-[06:38:08] [Server thread/INFO]: FlameWear joined the game
-[06:38:08] [Server thread/INFO]: [voicechat] Received secret request of FlameWear (20)
-[06:38:08] [Server thread/INFO]: [voicechat] Sent secret to FlameWear
-[06:38:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 6771c0eb-48cc-4b42-a19d-cb59f3b53980
-[06:38:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 6771c0eb-48cc-4b42-a19d-cb59f3b53980
-[06:38:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player FlameWear (6771c0eb-48cc-4b42-a19d-cb59f3b53980) successfully connected to voice chat
-[06:38:16] [Server thread/INFO]: FlameWear fell out of the world
-[06:39:41] [Server thread/INFO]: FlameWear was slain by Enderman
-[06:44:36] [Server thread/INFO]: Omnilax was slain by Enderman
-[06:46:45] [Server thread/INFO]: FlameWear was slain by Shulker
-[06:46:55] [Server thread/INFO]: FlameWear lost connection: Disconnected
-[06:46:55] [Server thread/INFO]: FlameWear left the game
-[06:46:55] [Server thread/INFO]: [voicechat] Disconnecting client FlameWear
-[06:47:04] [Server thread/INFO]: Omnilax lost connection: Disconnected
-[06:47:04] [Server thread/INFO]: Omnilax left the game
-[06:47:04] [Server thread/INFO]: [voicechat] Disconnecting client Omnilax
-[06:51:08] [Server thread/INFO]: Laxidaze3 lost connection: Disconnected
-[06:51:08] [Server thread/INFO]: Laxidaze3 left the game
-[06:51:08] [Server thread/INFO]: [voicechat] Disconnecting client Laxidaze3
-[06:51:34] [User Authenticator #11/INFO]: UUID of player Omnilax is bcbba3ce-966c-4a95-ad81-6f39c9638494
-[06:51:36] [Server thread/INFO]: Omnilax[/73.124.223.163:60990] logged in with entity id 205128 at (-628.6604079658006, 64.0, 475.751457826552)
-[06:51:36] [Server thread/INFO]: Omnilax joined the game
-[06:51:37] [Server thread/INFO]: [voicechat] Received secret request of Omnilax (20)
-[06:51:37] [Server thread/INFO]: [voicechat] Sent secret to Omnilax
-[06:51:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player bcbba3ce-966c-4a95-ad81-6f39c9638494
-[06:51:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player bcbba3ce-966c-4a95-ad81-6f39c9638494
-[06:51:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Omnilax (bcbba3ce-966c-4a95-ad81-6f39c9638494) successfully connected to voice chat
-[06:51:56] [Server thread/INFO]: Omnilax lost connection: Disconnected
-[06:51:56] [Server thread/INFO]: Omnilax left the game
-[06:51:56] [Server thread/INFO]: [voicechat] Disconnecting client Omnilax
-[06:55:33] [User Authenticator #12/INFO]: UUID of player Laxidaze3 is 718fd999-d407-428c-bd79-690386a1caad
-[06:55:37] [Server thread/INFO]: Laxidaze3[/70.173.193.208:51439] logged in with entity id 206080 at (-830.607934660371, 65.0, 828.0851358954623)
-[06:55:37] [Server thread/INFO]: Laxidaze3 joined the game
-[06:55:39] [Server thread/INFO]: [voicechat] Received secret request of Laxidaze3 (20)
-[06:55:39] [Server thread/INFO]: [voicechat] Sent secret to Laxidaze3
-[06:55:45] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 718fd999-d407-428c-bd79-690386a1caad
-[06:55:46] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 718fd999-d407-428c-bd79-690386a1caad
-[06:55:46] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Laxidaze3 (718fd999-d407-428c-bd79-690386a1caad) successfully connected to voice chat
-[06:56:24] [Server thread/INFO]: <Laxidaze3> i'll join VC in a bit
-[07:15:36] [Server thread/INFO]: CzarsonTzarcia hit the ground too hard
-[07:30:47] [Server thread/INFO]: CzarsonTzarcia lost connection: Disconnected
-[07:30:47] [Server thread/INFO]: CzarsonTzarcia left the game
-[07:30:47] [Server thread/INFO]: [voicechat] Disconnecting client CzarsonTzarcia
-[07:31:00] [Server thread/INFO]: Laxidaze3 lost connection: Disconnected
-[07:31:00] [Server thread/INFO]: Laxidaze3 left the game
-[07:31:00] [Server thread/INFO]: [voicechat] Disconnecting client Laxidaze3
-[07:32:00] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[08:03:18] [User Authenticator #13/INFO]: UUID of player FlameWear is 6771c0eb-48cc-4b42-a19d-cb59f3b53980
-[08:03:20] [Server thread/INFO]: FlameWear[/70.131.184.145:63965] logged in with entity id 219421 at (-759.9614624010866, 67.0, 313.1905828183527)
-[08:03:20] [Server thread/INFO]: FlameWear joined the game
-[08:03:21] [Server thread/INFO]: [voicechat] Received secret request of FlameWear (20)
-[08:03:21] [Server thread/INFO]: [voicechat] Sent secret to FlameWear
-[08:03:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 6771c0eb-48cc-4b42-a19d-cb59f3b53980
-[08:03:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 6771c0eb-48cc-4b42-a19d-cb59f3b53980
-[08:03:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player FlameWear (6771c0eb-48cc-4b42-a19d-cb59f3b53980) successfully connected to voice chat
-[08:36:26] [User Authenticator #14/INFO]: UUID of player CzarsonTzarcia is 7856f6e3-6521-4a6a-9222-1176c49eea16
-[08:36:28] [Server thread/INFO]: CzarsonTzarcia[/75.40.167.175:57870] logged in with entity id 226099 at (-830.7937961395426, 65.0, 819.055725037966)
-[08:36:28] [Server thread/INFO]: CzarsonTzarcia joined the game
-[08:36:29] [Server thread/INFO]: [voicechat] Received secret request of CzarsonTzarcia (20)
-[08:36:29] [Server thread/INFO]: [voicechat] Sent secret to CzarsonTzarcia
-[08:36:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 7856f6e3-6521-4a6a-9222-1176c49eea16
-[08:36:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 7856f6e3-6521-4a6a-9222-1176c49eea16
-[08:36:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player CzarsonTzarcia (7856f6e3-6521-4a6a-9222-1176c49eea16) successfully connected to voice chat
-[08:36:38] [Server thread/INFO]: <FlameWear> wire u awake
-[08:51:46] [Server thread/INFO]: FlameWear has made the advancement [Hot Stuff]
-[08:54:05] [Server thread/INFO]: Villager class_1646['Armorer'/230127, l='ServerLevel[world]', x=1310.69, y=66.00, z=561.85] died, message: 'Armorer was slain by Zombie'
-[09:33:57] [Server thread/INFO]: CzarsonTzarcia drowned
-[10:10:47] [Server thread/INFO]: FlameWear lost connection: Disconnected
-[10:10:47] [Server thread/INFO]: FlameWear left the game
-[10:10:47] [Server thread/INFO]: [voicechat] Disconnecting client FlameWear
-[10:18:39] [Server thread/INFO]: CzarsonTzarcia lost connection: Disconnected
-[10:18:39] [Server thread/INFO]: CzarsonTzarcia left the game
-[10:18:39] [Server thread/INFO]: [voicechat] Disconnecting client CzarsonTzarcia
-[10:19:39] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[13:23:31] [Netty Epoll Server IO #0/ERROR]: Error sending packet clientbound/minecraft:disconnect
-io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
-	at knot/net.minecraft.class_9136.method_56426(class_9136.java:50) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_9136.encode(class_9136.java:14) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_2545.method_10838(class_2545.java:26) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_2545.encode(class_2545.java:12) ~[server-intermediary.jar:?]
-	at knot/io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/net.minecraft.class_2535$2.write(class_2535.java:524) ~[server-intermediary.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/net.minecraft.class_2535.method_36942(class_2535.java:350) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_2535.method_10764(class_2535.java:342) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_2535.method_52906(class_2535.java:324) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_2535.method_10752(class_2535.java:318) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_2535.exceptionCaught(class_2535.java:169) ~[server-intermediary.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1324) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:856) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:727) ~[netty-transport-classes-epoll-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:825) ~[netty-transport-classes-epoll-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:501) ~[netty-transport-classes-epoll-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:399) ~[netty-transport-classes-epoll-4.1.118.Final.jar:?]
-	at knot/io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998) ~[netty-common-4.1.118.Final.jar:?]
-	at knot/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.118.Final.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[16:31:12] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/home/bruggles/btrfcccobmc_server/libraries/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[16:31:13] [main/INFO]: Compatibility level set to JAVA_21
+[16:31:13] [main/WARN]: Reference map 'comforts.refmap.json' for comforts.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:31:13] [main/WARN]: Reference map 'kleeslabs.refmap.json' for kleeslabs.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:31:13] [main/WARN]: Reference map 'kleeslabs.refmap.json' for kleeslabs.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:31:13] [main/INFO]: Loaded configuration file for Lithium: 163 options available, 0 override(s) found.
+[16:31:13] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:31:13] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:31:13] [main/WARN]: Error loading class: net/minecraft/class_9934 (java.lang.ClassNotFoundException: net/minecraft/class_9934)
+[16:31:13] [main/WARN]: @Mixin target net.minecraft.class_9934 was not found farmersdelight.mixins.json:refabricated.GhostSlotsInvoker from mod farmersdelight
+[16:31:14] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[16:31:24] [main/INFO]: Registering conditions for : BetterEnchanting
+[16:31:24] [main/INFO]: Registering mod iems for : BetterEnchanting
+[16:31:24] [main/INFO]: Registering mod screen handlers for : BetterEnchanting
+[16:31:24] [main/INFO]: Registering mod enchantment tags for : BetterEnchanting
+[16:31:24] [main/INFO]: Creating enchantement ingredient map for mod : BetterEnchanting
+[16:31:24] [main/INFO]: Generating item tags for mod : BetterEnchanting
+[16:31:24] [main/INFO]: Registering loot tables for BetterEnchanting
+[16:31:24] [main/INFO]: Modifying loot tables for : BetterEnchanting
+[16:31:24] [main/INFO]: Disconnect Packet Fix has started.
+[16:31:24] [main/INFO]: Loaded config farmersdelight-common.json
+[16:31:25] [main/INFO]: [STDOUT]: [FLD] Config loaded: delay 4–12 ticks
+[16:31:25] [main/INFO]: Reflections took 231 ms to scan 2 urls, producing 12 keys and 157 values
+[16:31:25] [main/INFO]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[16:31:26] [main/INFO]: Definitely not up to no good
+[16:31:26] [main/INFO]: [voicechat] Compatibility version 20
+[16:31:26] [main/INFO]: [voicechat] Loading plugins
+[16:31:26] [main/INFO]: [voicechat] Loaded 0 plugin(s)
+[16:31:26] [main/INFO]: [voicechat] Initializing plugins
+[16:31:26] [main/INFO]: [voicechat] Initialized 0 plugin(s)
+[16:31:26] [main/INFO]: Deserializing Config from './config/xaeromaps_waystones.json5'
+[16:31:27] [main/INFO]: Loading configuration...
+[16:31:27] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[16:31:27] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
+[16:31:27] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[16:31:31] [main/INFO]: Loaded 2922 recipes
+[16:31:31] [main/INFO]: Loaded 3004 advancements
+[16:31:31] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 63 translation keys
+[16:31:31] [main/INFO]: Applied 147 biome modifications to 64 of 65 new biomes in 16.44 ms
+[16:31:31] [Server thread/INFO]: Loading server configs...
+[16:31:32] [Server thread/INFO]:         __    
+[16:31:32] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.20
+[16:31:32] [Server thread/INFO]:   |___ |      Running on Fabric - fabric@0.138.3+1.21.10
+[16:31:32] [Server thread/INFO]: 
+[16:31:32] [Server thread/INFO]: Loading storage provider... [H2]
+[16:31:32] [Server thread/INFO]: Loading internal permission managers...
+[16:31:32] [Server thread/INFO]: Performing initial data load...
+[16:31:32] [Server thread/INFO]: Successfully enabled. (took 430ms)
+[16:31:32] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[16:31:32] [Server thread/INFO]: Loading properties
+[16:31:32] [Server thread/INFO]: Default game type: SURVIVAL
+[16:31:32] [Server thread/INFO]: Generating keypair
+[16:31:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:31:32] [Server thread/INFO]: Using epoll channel type
+[16:31:32] [Server thread/INFO]: Preparing level "world"
+[16:31:33] [Server thread/INFO]: Loading 0 persistent chunks...
+[16:31:33] [Server thread/INFO]: Preparing spawn area: 100%
+[16:31:33] [Server thread/INFO]: Time elapsed: 15 ms
+[16:31:33] [Server thread/INFO]: Done (0.636s)! For help, type "help"
+[16:31:35] [Server thread/INFO]: bending-hikari - Starting...
+[16:31:35] [Server thread/INFO]: bending-hikari - Added connection conn0: url=jdbc:h2:/home/bruggles/btrfcccobmc_server/./config/bending/data/h2/bending user=BENDING
+[16:31:35] [Server thread/INFO]: bending-hikari - Start completed.
+[16:31:36] [Server thread/INFO]: Database: jdbc:h2:/home/bruggles/btrfcccobmc_server/./config/bending/data/h2/bending (H2 2.4)
+[16:31:36] [Server thread/WARN]: Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+[16:31:36] [Server thread/INFO]: Successfully validated 4 migrations (execution time 00:00.022s)
+[16:31:36] [Server thread/INFO]: Current version of schema "PUBLIC": 4
+[16:31:36] [Server thread/INFO]: Schema "PUBLIC" is up to date. No migration necessary.
+[16:31:36] [Server thread/INFO]: Found 68 registered abilities (9 Sequences)
+[16:31:36] [Server thread/INFO]: Found 228 registered collisions
+[16:31:36] [Server thread/INFO]: Registered protection plugins: []
+[16:31:36] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
+[16:31:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3316ms or 66 ticks behind
+[16:31:36] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[16:31:36] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
+[16:31:37] [/INFO]: Registered translations: [en]
+[16:32:03] [Server thread/INFO]: There are 0 of a max of 64 players online: 
+[16:32:36] [Server thread/INFO]: Server empty for 60 seconds, pausing

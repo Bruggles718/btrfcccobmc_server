@@ -7129,87 +7129,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+  "minecraft:adventure/avoid_vibration": {
     "criteria": {
-      "has_deepslate_bricks": "2025-11-18 04:21:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-11-18 04:21:09 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/deepslate_stepping_stones": {
-    "criteria": {
-      "has_minecraft:deepslate": "2025-11-18 03:59:10 +0000"
+      "avoid_vibration": "2025-11-18 03:51:18 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/soul_lantern": {
     "criteria": {
       "has_soul_torch": "2025-11-18 03:58:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/cyan_dye_from_pitcher_plant": {
-    "criteria": {
-      "has_pitcher_plant": "2025-11-18 04:58:39 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/cyan_dye_from_pitcher_plant": {
-    "criteria": {
-      "has_pitcher_plant": "2025-11-18 04:58:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/orange_dye_from_torchflower": {
-    "criteria": {
-      "has_torchflower": "2025-11-18 04:54:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-11-18 04:21:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/map": {
-    "criteria": {
-      "has_compass": "2025-11-18 03:59:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/music_disc_5": {
-    "criteria": {
-      "has_disc_fragment_5": "2025-11-18 03:59:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-11-18 04:21:09 +0000"
-    },
-    "done": true
-  },
-  "enchantplus:armor/leggings/leaping": {
-    "criteria": {
-      "requirement": "2025-11-18 04:00:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tiles": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-11-18 04:21:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-11-18 04:21:09 +0000"
     },
     "done": true
   },
@@ -7225,19 +7153,37 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/suspicious_stew_from_torchflower": {
+  "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
-      "has_torchflower": "2025-11-18 04:54:13 +0000"
+      "has_enchanted_golden_apple": "2025-11-18 03:58:48 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/deepslate_brick_wall": {
+  "refurbished_furniture:recipes/misc/constructing/deepslate_stepping_stones": {
     "criteria": {
-      "has_deepslate_bricks": "2025-11-18 04:21:09 +0000"
+      "has_minecraft:deepslate": "2025-11-18 03:59:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2025-11-18 03:59:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-11-18 03:59:26 +0000"
     },
     "done": true
   },
   "naturescompass:recipes/naturescompass/natures_compass": {
+    "criteria": {
+      "has_item": "2025-11-18 03:59:26 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:recipes/explorers_compass": {
     "criteria": {
       "has_item": "2025-11-18 03:59:26 +0000"
     },
@@ -7249,39 +7195,9 @@
     },
     "done": true
   },
-  "enchantplus:tools/hoe/base": {
+  "enchantplus:armor/leggings/leaping": {
     "criteria": {
-      "scyther": "2025-11-18 04:16:13 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-11-18 04:21:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/avoid_vibration": {
-    "criteria": {
-      "avoid_vibration": "2025-11-18 03:51:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-11-18 04:21:09 +0000"
-    },
-    "done": true
-  },
-  "explorerscompass:recipes/explorers_compass": {
-    "criteria": {
-      "has_item": "2025-11-18 03:59:26 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_torchflower": {
-    "criteria": {
-      "has_torchflower": "2025-11-18 04:54:13 +0000"
+      "requirement": "2025-11-18 04:00:36 +0000"
     },
     "done": true
   },
@@ -7291,7 +7207,85 @@
     },
     "done": false
   },
+  "enchantplus:tools/hoe/base": {
+    "criteria": {
+      "scyther": "2025-11-18 04:16:13 +0000"
+    },
+    "done": false
+  },
+  "enchantplus:tools/hoe/scyther": {
+    "criteria": {
+      "requirement": "2025-11-18 04:16:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-11-18 04:21:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-11-18 04:21:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-11-18 04:21:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-11-18 04:21:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-11-18 04:21:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-11-18 04:21:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-11-18 04:21:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-11-18 04:21:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-11-18 04:21:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-11-18 04:21:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-11-18 04:21:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-11-18 04:21:09 +0000"
     },
@@ -7303,29 +7297,47 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+  "minecraft:recipes/misc/orange_dye_from_torchflower": {
     "criteria": {
-      "has_deepslate_bricks": "2025-11-18 04:21:09 +0000"
+      "has_torchflower": "2025-11-18 04:54:13 +0000"
     },
     "done": true
   },
-  "enchantplus:tools/hoe/scyther": {
+  "minecraft:recipes/food/suspicious_stew_from_torchflower": {
     "criteria": {
-      "requirement": "2025-11-18 04:16:13 +0000"
+      "has_torchflower": "2025-11-18 04:54:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
+  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_torchflower": {
     "criteria": {
-      "has_enchanted_golden_apple": "2025-11-18 03:58:48 +0000"
+      "has_torchflower": "2025-11-18 04:54:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+  "minecraft:recipes/misc/cyan_dye_from_pitcher_plant": {
     "criteria": {
-      "has_deepslate_bricks": "2025-11-18 04:21:09 +0000"
+      "has_pitcher_plant": "2025-11-18 04:58:39 +0000"
     },
     "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/cyan_dye_from_pitcher_plant": {
+    "criteria": {
+      "has_pitcher_plant": "2025-11-18 04:58:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-11-18 23:56:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sniffer": "2025-11-18 23:56:17 +0000"
+    },
+    "done": false
   },
   "DataVersion": 4556
 }
