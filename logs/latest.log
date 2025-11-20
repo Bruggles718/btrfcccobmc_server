@@ -241,3 +241,80 @@
 [03:31:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3410ms or 68 ticks behind
 [03:31:52] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
 [03:31:52] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
+[03:32:52] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[03:37:58] [User Authenticator #1/INFO]: UUID of player Bruggles is 5802cc54-f189-4fa4-bca3-022dc4c53176
+[03:37:59] [Server thread/INFO]: Bruggles[/10.0.0.245:51704] logged in with entity id 6 at (-38.73381237193134, 245.0, 26.564310958105555)
+[03:37:59] [Server thread/INFO]: [voicechat] Using Fabric Permissions API
+[03:37:59] [Server thread/INFO]: Bruggles joined the game
+[03:37:59] [Server thread/INFO]: [voicechat] Received secret request of Bruggles (20)
+[03:37:59] [Server thread/INFO]: [voicechat] Sent secret to Bruggles
+[03:38:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5802cc54-f189-4fa4-bca3-022dc4c53176
+[03:38:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5802cc54-f189-4fa4-bca3-022dc4c53176
+[03:38:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Bruggles (5802cc54-f189-4fa4-bca3-022dc4c53176) successfully connected to voice chat
+[03:38:05] [Server thread/INFO]: Bruggles fell from a high place
+[03:39:03] [User Authenticator #2/INFO]: UUID of player Laxidaze3 is 718fd999-d407-428c-bd79-690386a1caad
+[03:39:06] [Server thread/INFO]: Laxidaze3[/70.173.193.208:58496] logged in with entity id 417 at (-743.9380521194869, 68.0, 817.6518831919665)
+[03:39:06] [Server thread/INFO]: Laxidaze3 joined the game
+[03:39:07] [Server thread/INFO]: [voicechat] Received secret request of Laxidaze3 (20)
+[03:39:07] [Server thread/INFO]: [voicechat] Sent secret to Laxidaze3
+[03:39:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 718fd999-d407-428c-bd79-690386a1caad
+[03:39:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 718fd999-d407-428c-bd79-690386a1caad
+[03:39:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Laxidaze3 (718fd999-d407-428c-bd79-690386a1caad) successfully connected to voice chat
+[03:47:37] [Server thread/INFO]: Bruggles lost connection: Disconnected
+[03:47:37] [Server thread/INFO]: Bruggles left the game
+[03:47:37] [Server thread/INFO]: [voicechat] Disconnecting client Bruggles
+[03:48:01] [User Authenticator #3/INFO]: UUID of player Bruggles is 5802cc54-f189-4fa4-bca3-022dc4c53176
+[03:48:02] [Server thread/INFO]: Bruggles[/10.0.0.245:51879] logged in with entity id 2539 at (-38.729330825442915, 245.0, 26.661768577019597)
+[03:48:02] [Server thread/INFO]: Bruggles joined the game
+[03:48:02] [Server thread/INFO]: [voicechat] Received secret request of Bruggles (20)
+[03:48:02] [Server thread/INFO]: [voicechat] Sent secret to Bruggles
+[03:48:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5802cc54-f189-4fa4-bca3-022dc4c53176
+[03:48:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5802cc54-f189-4fa4-bca3-022dc4c53176
+[03:48:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Bruggles (5802cc54-f189-4fa4-bca3-022dc4c53176) successfully connected to voice chat
+[03:56:32] [Server thread/INFO]: Bruggles lost connection: Disconnected
+[03:56:32] [Server thread/INFO]: Bruggles left the game
+[03:56:32] [Server thread/INFO]: [voicechat] Disconnecting client Bruggles
+[04:00:32] [Server thread/INFO]: Laxidaze3 lost connection: Disconnected
+[04:00:32] [Server thread/INFO]: Laxidaze3 left the game
+[04:00:32] [Server thread/INFO]: [voicechat] Disconnecting client Laxidaze3
+[04:01:32] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[04:08:04] [User Authenticator #4/INFO]: UUID of player Bruggles is 5802cc54-f189-4fa4-bca3-022dc4c53176
+[04:08:05] [Server thread/INFO]: Bruggles[/10.0.0.245:52412] logged in with entity id 4281 at (-38.729330825442915, 245.0, 26.661768577019597)
+[04:08:05] [Server thread/INFO]: Bruggles joined the game
+[04:08:05] [Server thread/INFO]: [voicechat] Received secret request of Bruggles (20)
+[04:08:05] [Server thread/INFO]: [voicechat] Sent secret to Bruggles
+[04:08:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5802cc54-f189-4fa4-bca3-022dc4c53176
+[04:08:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5802cc54-f189-4fa4-bca3-022dc4c53176
+[04:08:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Bruggles (5802cc54-f189-4fa4-bca3-022dc4c53176) successfully connected to voice chat
+[04:08:44] [Server thread/INFO]: Bruggles lost connection: Disconnected
+[04:08:44] [Server thread/INFO]: Bruggles left the game
+[04:08:44] [Server thread/INFO]: [voicechat] Disconnecting client Bruggles
+[04:08:49] [User Authenticator #5/INFO]: UUID of player Bruggles is 5802cc54-f189-4fa4-bca3-022dc4c53176
+[04:08:49] [Server thread/INFO]: Bruggles[/10.0.0.245:52431] logged in with entity id 4318 at (-38.729330825442915, 245.0, 26.661768577019597)
+[04:08:49] [Server thread/INFO]: Bruggles joined the game
+[04:08:49] [Server thread/INFO]: [voicechat] Received secret request of Bruggles (20)
+[04:08:49] [Server thread/INFO]: [voicechat] Sent secret to Bruggles
+[04:08:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5802cc54-f189-4fa4-bca3-022dc4c53176
+[04:08:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5802cc54-f189-4fa4-bca3-022dc4c53176
+[04:08:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Bruggles (5802cc54-f189-4fa4-bca3-022dc4c53176) successfully connected to voice chat
+[04:09:27] [User Authenticator #6/INFO]: UUID of player Omnilax is bcbba3ce-966c-4a95-ad81-6f39c9638494
+[04:09:29] [Server thread/INFO]: Omnilax[/73.124.223.163:53386] logged in with entity id 4404 at (-756.8806368983227, 68.6875, 318.1660437093497)
+[04:09:29] [Server thread/INFO]: Omnilax joined the game
+[04:09:29] [Server thread/INFO]: [voicechat] Received secret request of Omnilax (20)
+[04:09:29] [Server thread/INFO]: [voicechat] Sent secret to Omnilax
+[04:09:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player bcbba3ce-966c-4a95-ad81-6f39c9638494
+[04:09:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player bcbba3ce-966c-4a95-ad81-6f39c9638494
+[04:09:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Omnilax (bcbba3ce-966c-4a95-ad81-6f39c9638494) successfully connected to voice chat
+[04:09:41] [Server thread/INFO]: <Omnilax> hai
+[04:12:35] [Server thread/INFO]: Bruggles lost connection: Disconnected
+[04:12:35] [Server thread/INFO]: Bruggles left the game
+[04:12:35] [Server thread/INFO]: [voicechat] Disconnecting client Bruggles
+[04:48:21] [User Authenticator #7/INFO]: UUID of player CzarsonTzarcia is 7856f6e3-6521-4a6a-9222-1176c49eea16
+[04:48:24] [Server thread/INFO]: CzarsonTzarcia[/75.40.167.175:50612] logged in with entity id 9697 at (-1135.161013002152, 65.0, 2279.8805831395803)
+[04:48:24] [Server thread/INFO]: CzarsonTzarcia joined the game
+[04:48:25] [Server thread/INFO]: [voicechat] Received secret request of CzarsonTzarcia (20)
+[04:48:25] [Server thread/INFO]: [voicechat] Sent secret to CzarsonTzarcia
+[04:48:27] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 7856f6e3-6521-4a6a-9222-1176c49eea16
+[04:48:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 7856f6e3-6521-4a6a-9222-1176c49eea16
+[04:48:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player CzarsonTzarcia (7856f6e3-6521-4a6a-9222-1176c49eea16) successfully connected to voice chat
+[04:59:00] [Server thread/INFO]: CzarsonTzarcia fell from a high place

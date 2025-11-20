@@ -7671,5 +7671,17 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-11-20 03:43:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-11-20 03:45:15 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4556
 }
