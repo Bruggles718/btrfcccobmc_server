@@ -4394,19 +4394,43 @@
     },
     "done": true
   },
+  "enchantplus:weapons/sword/xp_boost": {
+    "criteria": {
+      "requirement": "2025-11-19 04:13:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
       "crying_obsidian": "2025-11-19 04:16:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/emerald": {
+  "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
-      "has_emerald_block": "2025-11-19 04:38:24 +0000"
+      "has_obsidian": "2025-11-19 04:16:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2025-11-19 04:27:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2025-11-19 04:27:10 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/copper_nugget_from_smelting": {
+    "criteria": {
+      "has_copper_chestplate": "2025-11-19 04:28:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_nugget_from_blasting": {
     "criteria": {
       "has_copper_chestplate": "2025-11-19 04:28:50 +0000"
     },
@@ -4418,21 +4442,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dried_ghast": {
+  "minecraft:recipes/misc/emerald": {
     "criteria": {
-      "has_ghast_tear": "2025-11-19 04:47:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:soul_sand_valley": "2025-11-19 04:43:57 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_helmet": "2025-11-19 04:27:10 +0000"
+      "has_emerald_block": "2025-11-19 04:38:24 +0000"
     },
     "done": true
   },
@@ -4442,15 +4454,22 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+  "minecraft:nether/root": {
     "criteria": {
-      "has_golden_helmet": "2025-11-19 04:27:10 +0000"
+      "entered_nether": "2025-11-19 04:43:56 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_nugget_from_blasting": {
+  "minecraft:nether/explore_nether": {
     "criteria": {
-      "has_copper_chestplate": "2025-11-19 04:28:50 +0000"
+      "minecraft:soul_sand_valley": "2025-11-19 04:43:57 +0000",
+      "minecraft:nether_wastes": "2025-11-20 02:50:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-11-19 04:44:49 +0000"
     },
     "done": true
   },
@@ -4496,33 +4515,9 @@
     },
     "done": true
   },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-11-19 04:43:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/respawn_anchor": {
-    "criteria": {
-      "has_obsidian": "2025-11-19 04:16:50 +0000"
-    },
-    "done": true
-  },
-  "betterenchanting:recipes/misc/enchantment_catalyst": {
-    "criteria": {
-      "has_infused_lapis": "2025-11-19 05:01:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:nether/return_to_sender": {
     "criteria": {
       "killed_ghast": "2025-11-19 04:46:06 +0000"
-    },
-    "done": true
-  },
-  "enchantplus:weapons/sword/xp_boost": {
-    "criteria": {
-      "requirement": "2025-11-19 04:13:49 +0000"
     },
     "done": true
   },
@@ -4532,9 +4527,135 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/nether_brick": {
+  "minecraft:recipes/building_blocks/dried_ghast": {
     "criteria": {
-      "has_netherrack": "2025-11-19 04:44:49 +0000"
+      "has_ghast_tear": "2025-11-19 04:47:37 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/enchantment_catalyst": {
+    "criteria": {
+      "has_infused_lapis": "2025-11-19 05:01:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/magenta_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-11-20 02:55:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/yellow_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-11-20 02:55:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-11-20 02:51:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-11-20 02:51:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/red_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-11-20 02:55:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/green_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-11-20 02:55:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-11-20 02:52:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/purple_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-11-20 02:55:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/white_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-11-20 02:55:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/light_gray_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-11-20 02:55:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/gray_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-11-20 02:55:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/black_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-11-20 02:55:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/pink_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-11-20 02:55:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/orange_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-11-20 02:55:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/light_blue_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-11-20 02:55:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-11-20 02:52:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/cyan_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-11-20 02:55:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/brown_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-11-20 02:55:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/lime_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-11-20 02:55:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/blue_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-11-20 02:55:05 +0000"
     },
     "done": true
   },

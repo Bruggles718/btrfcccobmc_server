@@ -1,6 +1,6 @@
-[16:31:12] [main/INFO]: Loading Minecraft 1.21.10 with Fabric Loader 0.17.3
-[16:31:12] [ForkJoinPool-1-worker-3/WARN]: Mod moredelight uses the version 25.07.28a-1.21.7-fabric which isn't compatible with Loader's extended semantic version format (Could not parse version number component '28a'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[16:31:12] [main/INFO]: Loading 148 mods:
+[03:31:27] [main/INFO]: Loading Minecraft 1.21.10 with Fabric Loader 0.17.3
+[03:31:27] [ForkJoinPool-1-worker-5/WARN]: Mod moredelight uses the version 25.07.28a-1.21.7-fabric which isn't compatible with Loader's extended semantic version format (Could not parse version number component '28a'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[03:31:28] [main/INFO]: Loading 148 mods:
 	- appleskin 3.0.7+mc1.21.9
 	- architectury 18.0.6
 	- balm 21.10.8
@@ -124,6 +124,7 @@
 	- moredelight 25.07.28a-1.21.7-fabric
 	- mr_neoenchant 5.12.2
 	- naturescompass 1.21.10-2.2.9-fabric
+	- placeholder-api 2.8.1+1.21.10
 	- polymer-bundled 0.14.3+1.21.10
 	   |-- polymer-autohost 0.14.3+1.21.10
 	   |-- polymer-blocks 0.14.3+1.21.10
@@ -146,7 +147,6 @@
 	- universal_shops 1.12.0+1.21.9
 	   |-- common-economy-api 1.1.1
 	   |-- common-protection-api 1.0.0
-	   |-- placeholder-api 2.8.0+1.21.9
 	   |-- server_translations_api 2.5.2+1.21.9-pre3
 	   \-- sgui 1.11.0+1.21.9
 	- voicechat 1.21.10-2.6.6
@@ -166,80 +166,78 @@
 	   |-- com_twelvemonkeys_imageio_imageio-webp 3.12.0
 	   |-- org_quiltmc_parsers_gson 0.2.1
 	   \-- org_quiltmc_parsers_json 0.2.1
-[16:31:12] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/home/bruggles/btrfcccobmc_server/libraries/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[16:31:13] [main/INFO]: Compatibility level set to JAVA_21
-[16:31:13] [main/WARN]: Reference map 'comforts.refmap.json' for comforts.mixins.json could not be read. If this is a development environment you can ignore this message
-[16:31:13] [main/WARN]: Reference map 'kleeslabs.refmap.json' for kleeslabs.mixins.json could not be read. If this is a development environment you can ignore this message
-[16:31:13] [main/WARN]: Reference map 'kleeslabs.refmap.json' for kleeslabs.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[16:31:13] [main/INFO]: Loaded configuration file for Lithium: 163 options available, 0 override(s) found.
-[16:31:13] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl.mixins.json could not be read. If this is a development environment you can ignore this message
-[16:31:13] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[16:31:13] [main/WARN]: Error loading class: net/minecraft/class_9934 (java.lang.ClassNotFoundException: net/minecraft/class_9934)
-[16:31:13] [main/WARN]: @Mixin target net.minecraft.class_9934 was not found farmersdelight.mixins.json:refabricated.GhostSlotsInvoker from mod farmersdelight
-[16:31:14] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
-[16:31:24] [main/INFO]: Registering conditions for : BetterEnchanting
-[16:31:24] [main/INFO]: Registering mod iems for : BetterEnchanting
-[16:31:24] [main/INFO]: Registering mod screen handlers for : BetterEnchanting
-[16:31:24] [main/INFO]: Registering mod enchantment tags for : BetterEnchanting
-[16:31:24] [main/INFO]: Creating enchantement ingredient map for mod : BetterEnchanting
-[16:31:24] [main/INFO]: Generating item tags for mod : BetterEnchanting
-[16:31:24] [main/INFO]: Registering loot tables for BetterEnchanting
-[16:31:24] [main/INFO]: Modifying loot tables for : BetterEnchanting
-[16:31:24] [main/INFO]: Disconnect Packet Fix has started.
-[16:31:24] [main/INFO]: Loaded config farmersdelight-common.json
-[16:31:25] [main/INFO]: [STDOUT]: [FLD] Config loaded: delay 4–12 ticks
-[16:31:25] [main/INFO]: Reflections took 231 ms to scan 2 urls, producing 12 keys and 157 values
-[16:31:25] [main/INFO]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
-[16:31:26] [main/INFO]: Definitely not up to no good
-[16:31:26] [main/INFO]: [voicechat] Compatibility version 20
-[16:31:26] [main/INFO]: [voicechat] Loading plugins
-[16:31:26] [main/INFO]: [voicechat] Loaded 0 plugin(s)
-[16:31:26] [main/INFO]: [voicechat] Initializing plugins
-[16:31:26] [main/INFO]: [voicechat] Initialized 0 plugin(s)
-[16:31:26] [main/INFO]: Deserializing Config from './config/xaeromaps_waystones.json5'
-[16:31:27] [main/INFO]: Loading configuration...
-[16:31:27] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[16:31:27] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
-[16:31:27] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[16:31:31] [main/INFO]: Loaded 2922 recipes
-[16:31:31] [main/INFO]: Loaded 3004 advancements
-[16:31:31] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 63 translation keys
-[16:31:31] [main/INFO]: Applied 147 biome modifications to 64 of 65 new biomes in 16.44 ms
-[16:31:31] [Server thread/INFO]: Loading server configs...
-[16:31:32] [Server thread/INFO]:         __    
-[16:31:32] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.20
-[16:31:32] [Server thread/INFO]:   |___ |      Running on Fabric - fabric@0.138.3+1.21.10
-[16:31:32] [Server thread/INFO]: 
-[16:31:32] [Server thread/INFO]: Loading storage provider... [H2]
-[16:31:32] [Server thread/INFO]: Loading internal permission managers...
-[16:31:32] [Server thread/INFO]: Performing initial data load...
-[16:31:32] [Server thread/INFO]: Successfully enabled. (took 430ms)
-[16:31:32] [Server thread/INFO]: Starting minecraft server version 1.21.10
-[16:31:32] [Server thread/INFO]: Loading properties
-[16:31:32] [Server thread/INFO]: Default game type: SURVIVAL
-[16:31:32] [Server thread/INFO]: Generating keypair
-[16:31:32] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:31:32] [Server thread/INFO]: Using epoll channel type
-[16:31:32] [Server thread/INFO]: Preparing level "world"
-[16:31:33] [Server thread/INFO]: Loading 0 persistent chunks...
-[16:31:33] [Server thread/INFO]: Preparing spawn area: 100%
-[16:31:33] [Server thread/INFO]: Time elapsed: 15 ms
-[16:31:33] [Server thread/INFO]: Done (0.636s)! For help, type "help"
-[16:31:35] [Server thread/INFO]: bending-hikari - Starting...
-[16:31:35] [Server thread/INFO]: bending-hikari - Added connection conn0: url=jdbc:h2:/home/bruggles/btrfcccobmc_server/./config/bending/data/h2/bending user=BENDING
-[16:31:35] [Server thread/INFO]: bending-hikari - Start completed.
-[16:31:36] [Server thread/INFO]: Database: jdbc:h2:/home/bruggles/btrfcccobmc_server/./config/bending/data/h2/bending (H2 2.4)
-[16:31:36] [Server thread/WARN]: Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
-[16:31:36] [Server thread/INFO]: Successfully validated 4 migrations (execution time 00:00.022s)
-[16:31:36] [Server thread/INFO]: Current version of schema "PUBLIC": 4
-[16:31:36] [Server thread/INFO]: Schema "PUBLIC" is up to date. No migration necessary.
-[16:31:36] [Server thread/INFO]: Found 68 registered abilities (9 Sequences)
-[16:31:36] [Server thread/INFO]: Found 228 registered collisions
-[16:31:36] [Server thread/INFO]: Registered protection plugins: []
-[16:31:36] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
-[16:31:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3316ms or 66 ticks behind
-[16:31:36] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[16:31:36] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
-[16:31:37] [/INFO]: Registered translations: [en]
-[16:32:03] [Server thread/INFO]: There are 0 of a max of 64 players online: 
-[16:32:36] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[03:31:28] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/home/bruggles/btrfcccobmc_server/libraries/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[03:31:28] [main/INFO]: Compatibility level set to JAVA_21
+[03:31:28] [main/WARN]: Reference map 'comforts.refmap.json' for comforts.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:31:28] [main/WARN]: Reference map 'kleeslabs.refmap.json' for kleeslabs.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:31:28] [main/WARN]: Reference map 'kleeslabs.refmap.json' for kleeslabs.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:31:28] [main/INFO]: Loaded configuration file for Lithium: 163 options available, 0 override(s) found.
+[03:31:28] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:31:28] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:31:29] [main/WARN]: Error loading class: net/minecraft/class_9934 (java.lang.ClassNotFoundException: net/minecraft/class_9934)
+[03:31:29] [main/WARN]: @Mixin target net.minecraft.class_9934 was not found farmersdelight.mixins.json:refabricated.GhostSlotsInvoker from mod farmersdelight
+[03:31:29] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[03:31:39] [main/INFO]: Registering conditions for : BetterEnchanting
+[03:31:39] [main/INFO]: Registering mod iems for : BetterEnchanting
+[03:31:39] [main/INFO]: Registering mod screen handlers for : BetterEnchanting
+[03:31:39] [main/INFO]: Registering mod enchantment tags for : BetterEnchanting
+[03:31:39] [main/INFO]: Creating enchantement ingredient map for mod : BetterEnchanting
+[03:31:39] [main/INFO]: Generating item tags for mod : BetterEnchanting
+[03:31:39] [main/INFO]: Registering loot tables for BetterEnchanting
+[03:31:40] [main/INFO]: Modifying loot tables for : BetterEnchanting
+[03:31:40] [main/INFO]: Disconnect Packet Fix has started.
+[03:31:40] [main/INFO]: Loaded config farmersdelight-common.json
+[03:31:40] [main/INFO]: [STDOUT]: [FLD] Config loaded: delay 4–12 ticks
+[03:31:40] [main/INFO]: Reflections took 240 ms to scan 2 urls, producing 12 keys and 157 values
+[03:31:41] [main/INFO]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[03:31:41] [main/INFO]: Definitely not up to no good
+[03:31:42] [main/INFO]: [voicechat] Compatibility version 20
+[03:31:42] [main/INFO]: [voicechat] Loading plugins
+[03:31:42] [main/INFO]: [voicechat] Loaded 0 plugin(s)
+[03:31:42] [main/INFO]: [voicechat] Initializing plugins
+[03:31:42] [main/INFO]: [voicechat] Initialized 0 plugin(s)
+[03:31:42] [main/INFO]: Deserializing Config from './config/xaeromaps_waystones.json5'
+[03:31:42] [main/INFO]: Loading configuration...
+[03:31:43] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[03:31:43] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
+[03:31:43] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[03:31:47] [main/INFO]: Loaded 2922 recipes
+[03:31:47] [main/INFO]: Loaded 3004 advancements
+[03:31:47] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 63 translation keys
+[03:31:47] [main/INFO]: Applied 147 biome modifications to 64 of 65 new biomes in 15.04 ms
+[03:31:47] [Server thread/INFO]: Loading server configs...
+[03:31:47] [Server thread/INFO]:         __    
+[03:31:47] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.20
+[03:31:47] [Server thread/INFO]:   |___ |      Running on Fabric - fabric@0.138.3+1.21.10
+[03:31:47] [Server thread/INFO]: 
+[03:31:47] [Server thread/INFO]: Loading storage provider... [H2]
+[03:31:48] [Server thread/INFO]: Loading internal permission managers...
+[03:31:48] [Server thread/INFO]: Performing initial data load...
+[03:31:48] [Server thread/INFO]: Successfully enabled. (took 417ms)
+[03:31:48] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[03:31:48] [Server thread/INFO]: Loading properties
+[03:31:48] [Server thread/INFO]: Default game type: SURVIVAL
+[03:31:48] [Server thread/INFO]: Generating keypair
+[03:31:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:31:48] [Server thread/INFO]: Using epoll channel type
+[03:31:48] [Server thread/INFO]: Preparing level "world"
+[03:31:49] [Server thread/INFO]: Loading 0 persistent chunks...
+[03:31:49] [Server thread/INFO]: Preparing spawn area: 100%
+[03:31:49] [Server thread/INFO]: Time elapsed: 14 ms
+[03:31:49] [Server thread/INFO]: Done (0.724s)! For help, type "help"
+[03:31:50] [Server thread/INFO]: bending-hikari - Starting...
+[03:31:51] [Server thread/INFO]: bending-hikari - Added connection conn0: url=jdbc:h2:/home/bruggles/btrfcccobmc_server/./config/bending/data/h2/bending user=BENDING
+[03:31:51] [Server thread/INFO]: bending-hikari - Start completed.
+[03:31:52] [/INFO]: Registered translations: [en]
+[03:31:52] [Server thread/INFO]: Database: jdbc:h2:/home/bruggles/btrfcccobmc_server/./config/bending/data/h2/bending (H2 2.4)
+[03:31:52] [Server thread/WARN]: Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+[03:31:52] [Server thread/INFO]: Successfully validated 4 migrations (execution time 00:00.057s)
+[03:31:52] [Server thread/INFO]: Current version of schema "PUBLIC": 4
+[03:31:52] [Server thread/INFO]: Schema "PUBLIC" is up to date. No migration necessary.
+[03:31:52] [Server thread/INFO]: Found 68 registered abilities (9 Sequences)
+[03:31:52] [Server thread/INFO]: Found 228 registered collisions
+[03:31:52] [Server thread/INFO]: Registered protection plugins: []
+[03:31:52] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
+[03:31:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3410ms or 68 ticks behind
+[03:31:52] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[03:31:52] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)

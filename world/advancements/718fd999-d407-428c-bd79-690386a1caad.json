@@ -6316,7 +6316,8 @@
       "xp_boost": "2025-11-17 10:24:26 +0000",
       "dimensional_strike": "2025-11-19 04:46:41 +0000",
       "curse_of_clumsiness": "2025-11-19 04:46:41 +0000",
-      "runic_despair": "2025-11-19 05:03:58 +0000"
+      "runic_despair": "2025-11-19 05:03:58 +0000",
+      "attack_speed": "2025-11-19 18:15:26 +0000"
     },
     "done": false
   },
@@ -7616,21 +7617,21 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
-    "criteria": {
-      "has_iron_knife": "2025-11-19 05:03:58 +0000"
-    },
-    "done": true
-  },
   "enchantplus:weapons/sword/curse_of_clumsiness": {
     "criteria": {
       "requirement": "2025-11-19 04:46:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/diamond": {
+  "enchantplus:weapons/sword/dimensional_hit": {
     "criteria": {
-      "has_diamond_block": "2025-11-19 05:24:47 +0000"
+      "requirement": "2025-11-19 04:46:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-11-19 05:03:58 +0000"
     },
     "done": true
   },
@@ -7646,12 +7647,6 @@
     },
     "done": true
   },
-  "enchantplus:weapons/sword/dimensional_hit": {
-    "criteria": {
-      "requirement": "2025-11-19 04:46:41 +0000"
-    },
-    "done": true
-  },
   "enchantplus:tools/miningplus": {
     "criteria": {
       "requirement": "2025-11-19 05:22:06 +0000"
@@ -7661,6 +7656,18 @@
   "enchantplus:durability/curse_of_breaking": {
     "criteria": {
       "requirement": "2025-11-19 05:22:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-11-19 05:24:47 +0000"
+    },
+    "done": true
+  },
+  "enchantplus:weapons/sword/attack_speed": {
+    "criteria": {
+      "requirement": "2025-11-19 18:15:26 +0000"
     },
     "done": true
   },
