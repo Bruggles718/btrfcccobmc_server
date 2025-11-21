@@ -1,320 +1,44 @@
-[03:31:27] [main/INFO]: Loading Minecraft 1.21.10 with Fabric Loader 0.17.3
-[03:31:27] [ForkJoinPool-1-worker-5/WARN]: Mod moredelight uses the version 25.07.28a-1.21.7-fabric which isn't compatible with Loader's extended semantic version format (Could not parse version number component '28a'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[03:31:28] [main/INFO]: Loading 148 mods:
-	- appleskin 3.0.7+mc1.21.9
-	- architectury 18.0.6
-	- balm 21.10.8
-	   \-- kuma_api 21.10.5
-	- bending 3.14.0
-	   |-- adventure-platform-fabric 6.7.0
-	   |    |-- net_kyori_adventure-api 4.25.0
-	   |    |-- net_kyori_adventure-key 4.25.0
-	   |    |-- net_kyori_adventure-platform-api 4.4.1
-	   |    |-- net_kyori_adventure-platform-mod-shared-fabric-repack 6.7.0
-	   |    |-- net_kyori_adventure-text-logger-slf4j 4.25.0
-	   |    |-- net_kyori_adventure-text-minimessage 4.25.0
-	   |    |-- net_kyori_adventure-text-serializer-ansi 4.25.0
-	   |    |-- net_kyori_adventure-text-serializer-gson 4.25.0
-	   |    |-- net_kyori_adventure-text-serializer-json 4.25.0
-	   |    |-- net_kyori_adventure-text-serializer-plain 4.25.0
-	   |    |-- net_kyori_ansi 1.1.1
-	   |    |-- net_kyori_examination-api 1.3.0
-	   |    |-- net_kyori_examination-string 1.3.0
-	   |    \-- net_kyori_option 1.1.0
-	   |-- cloud 2.0.0-beta.13
-	   |    |-- io_leangen_geantyref_geantyref 1.3.15
-	   |    |-- org_incendo_cloud-brigadier 2.0.0-beta.11
-	   |    |-- org_incendo_cloud-core 2.0.0
-	   |    |-- org_incendo_cloud-minecraft-modded-common-fabric-repack 2.0.0-beta.13
-	   |    \-- org_incendo_cloud-services 2.0.0
-	   |-- fabric-permissions-api-v0 0.5.0
-	   |-- org_incendo_cloud-minecraft-extras 2.0.0-beta.12
-	   |-- org_spongepowered_configurate-core 4.2.0
-	   |-- org_spongepowered_configurate-gson 4.2.0
-	   |-- org_spongepowered_configurate-hocon 4.2.0
-	   \-- sgui 1.11.0+1.21.9
-	- betterenchanting 1.21.10-1.5.0
-	   \-- midnightlib 1.8.3
-	- chisel 2.2.0+mc1.21.10
-	- cloth-config 20.0.149
-	   \-- cloth-basic-math 0.6.1
-	- comforts 13.0.1+1.21.10
-	   |-- cardinal-components-base 7.2.0
-	   |-- cardinal-components-entity 7.2.0
-	   \-- spectrelib 0.19.1+1.21.10
-	        |-- com_electronwill_night-config_core 3.8.3
-	        \-- com_electronwill_night-config_toml 3.8.3
-	- cookingforblockheads 21.10.2
-	- cryonicconfig 1.0.0+mc1.21.10
-	- disconnect-packet-fix 2.0.0
-	- explorerscompass 1.21.10-2.2.7-fabric
-	- fabric-api 0.138.3+1.21.10
-	   |-- fabric-api-base 1.0.0+14b92d896f
-	   |-- fabric-api-lookup-api-v1 1.6.106+d17682156f
-	   |-- fabric-biome-api-v1 16.1.0+c2417d4f6f
-	   |-- fabric-block-api-v1 1.1.5+d17682156f
-	   |-- fabric-block-view-api-v2 1.0.34+e4fd1b926f
-	   |-- fabric-command-api-v2 2.4.0+c0ab2d5d6f
-	   |-- fabric-content-registries-v0 10.2.6+b6a242646f
-	   |-- fabric-convention-tags-v1 2.1.49+7f945d5b6f
-	   |-- fabric-convention-tags-v2 2.17.0+ff7bc77d6f
-	   |-- fabric-crash-report-info-v1 0.3.18+33df5e6e6f
-	   |-- fabric-data-attachment-api-v1 1.8.33+cd3b9e596f
-	   |-- fabric-data-generation-api-v1 23.2.27+d8b85ef16f
-	   |-- fabric-dimensions-v1 4.0.22+38b9cc196f
-	   |-- fabric-entity-events-v1 2.1.13+fde3702c6f
-	   |-- fabric-events-interaction-v0 4.0.36+5ba217126f
-	   |-- fabric-game-rule-api-v1 1.1.1+e47eaae56f
-	   |-- fabric-item-api-v1 11.5.11+9bce411b6f
-	   |-- fabric-item-group-api-v1 4.2.27+86b3ae576f
-	   |-- fabric-key-binding-api-v1 1.1.1+b3ba9c486f
-	   |-- fabric-lifecycle-events-v1 2.6.9+33df5e6e6f
-	   |-- fabric-loot-api-v2 3.0.67+3f89f5a56f
-	   |-- fabric-loot-api-v3 2.0.14+d17682156f
-	   |-- fabric-message-api-v1 6.1.7+3154c1c86f
-	   |-- fabric-model-loading-api-v1 6.0.4+3ffd6ef06f
-	   |-- fabric-networking-api-v1 5.1.0+b095d8db6f
-	   |-- fabric-object-builder-api-v1 21.1.28+9bce411b6f
-	   |-- fabric-particles-v1 4.2.3+a0ee59a46f
-	   |-- fabric-recipe-api-v1 8.2.0+39709ef06f
-	   |-- fabric-registry-sync-v0 6.1.42+679c8c5c6f
-	   |-- fabric-renderer-api-v1 7.2.2+3706cdf36f
-	   |-- fabric-renderer-indigo 4.1.3+d7df91576f
-	   |-- fabric-rendering-fluids-v1 3.1.38+86b3ae576f
-	   |-- fabric-rendering-v1 16.2.0+bee81f016f
-	   |-- fabric-resource-conditions-api-v1 5.0.28+33df5e6e6f
-	   |-- fabric-resource-loader-v0 3.3.1+d4d4122a6f
-	   |-- fabric-resource-loader-v1 1.0.4+14959b836f
-	   |-- fabric-screen-api-v1 3.1.0+9c82a7986f
-	   |-- fabric-screen-handler-api-v1 1.3.151+d17682156f
-	   |-- fabric-serialization-api-v1 1.0.0+d857c9766f
-	   |-- fabric-sound-api-v1 1.0.45+328a75ba6f
-	   |-- fabric-tag-api-v1 1.2.13+2fa446b26f
-	   |-- fabric-transfer-api-v1 6.0.15+79ec2c126f
-	   \-- fabric-transitive-access-wideners-v1 6.5.3+41eb43436f
-	- fabric-language-kotlin 1.13.7+kotlin.2.2.21
-	   |-- org_jetbrains_kotlin_kotlin-reflect 2.2.21
-	   |-- org_jetbrains_kotlin_kotlin-stdlib 2.2.21
-	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 2.2.21
-	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 2.2.21
-	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.29.0
-	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.10.2
-	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.10.2
-	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.7.1
-	   |-- org_jetbrains_kotlinx_kotlinx-io-bytestring-jvm 0.8.0
-	   |-- org_jetbrains_kotlinx_kotlinx-io-core-jvm 0.8.0
-	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.9.0
-	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.9.0
-	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.9.0
-	- fabricloader 0.17.3
-	   \-- mixinextras 0.5.0
-	- farmersdelight 1.21.10-3.4.1+refabricated
-	   \-- mm 2.3
-	- fastleafdecay 36
-	- framework 0.13.2
-	   |-- org_javassist_javassist 3.29.2-GA
-	   \-- org_reflections_reflections 0.10.2
-	- java 21
-	- jei 26.1.0.16
-	- kleeslabs 21.10.1
-	- lithium 0.20.0+mc1.21.10
-	- luckperms 5.5.20
-	   \-- fabric-permissions-api-v0 0.5.0
-	- minecraft 1.21.10
-	- moredelight 25.07.28a-1.21.7-fabric
-	- mr_neoenchant 5.12.2
-	- naturescompass 1.21.10-2.2.9-fabric
-	- placeholder-api 2.8.1+1.21.10
-	- polymer-bundled 0.14.3+1.21.10
-	   |-- polymer-autohost 0.14.3+1.21.10
-	   |-- polymer-blocks 0.14.3+1.21.10
-	   |-- polymer-common 0.14.3+1.21.10
-	   |    \-- packet_tweaker 0.6.0+1.21.10
-	   |-- polymer-core 0.14.3+1.21.10
-	   |    |-- polymer-networking 0.14.3+1.21.10
-	   |    |    \-- polymer-common 0.14.3+1.21.10
-	   |    |         \-- packet_tweaker 0.6.0+1.21.10
-	   |    \-- polymer-registry-sync-manipulator 0.14.3+1.21.10
-	   |-- polymer-resource-pack 0.14.3+1.21.10
-	   |    \-- polymer-common 0.14.3+1.21.10
-	   |         \-- packet_tweaker 0.6.0+1.21.10
-	   |-- polymer-resource-pack-extras 0.14.3+1.21.10
-	   |-- polymer-sound-patcher 0.14.3+1.21.10
-	   \-- polymer-virtual-entity 0.14.3+1.21.10
-	        \-- polymer-common 0.14.3+1.21.10
-	             \-- packet_tweaker 0.6.0+1.21.10
-	- refurbished_furniture 1.0.20
-	- universal_shops 1.12.0+1.21.9
-	   |-- common-economy-api 1.1.1
-	   |-- common-protection-api 1.0.0
-	   |-- server_translations_api 2.5.2+1.21.9-pre3
-	   \-- sgui 1.11.0+1.21.9
-	- voicechat 1.21.10-2.6.6
-	   |-- fabric-key-binding-api-v1 1.1.1+b3ba9c4868
-	   |-- fabric-rendering-v1 16.0.1+328a75ba68
-	   \-- voicechat_api 2.6.0
-	- waystones 21.10.3
-	- xaeromaps_waystones 1.0.6
-	- xaerominimap 25.2.15
-	- xaeroworldmap 1.39.17
-	- yet_another_config_lib_v3 3.8.0+1.21.9-fabric
-	   |-- com_twelvemonkeys_common_common-image 3.12.0
-	   |-- com_twelvemonkeys_common_common-io 3.12.0
-	   |-- com_twelvemonkeys_common_common-lang 3.12.0
-	   |-- com_twelvemonkeys_imageio_imageio-core 3.12.0
-	   |-- com_twelvemonkeys_imageio_imageio-metadata 3.12.0
-	   |-- com_twelvemonkeys_imageio_imageio-webp 3.12.0
-	   |-- org_quiltmc_parsers_gson 0.2.1
-	   \-- org_quiltmc_parsers_json 0.2.1
-[03:31:28] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/home/bruggles/btrfcccobmc_server/libraries/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[03:31:28] [main/INFO]: Compatibility level set to JAVA_21
-[03:31:28] [main/WARN]: Reference map 'comforts.refmap.json' for comforts.mixins.json could not be read. If this is a development environment you can ignore this message
-[03:31:28] [main/WARN]: Reference map 'kleeslabs.refmap.json' for kleeslabs.mixins.json could not be read. If this is a development environment you can ignore this message
-[03:31:28] [main/WARN]: Reference map 'kleeslabs.refmap.json' for kleeslabs.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[03:31:28] [main/INFO]: Loaded configuration file for Lithium: 163 options available, 0 override(s) found.
-[03:31:28] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl.mixins.json could not be read. If this is a development environment you can ignore this message
-[03:31:28] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[03:31:29] [main/WARN]: Error loading class: net/minecraft/class_9934 (java.lang.ClassNotFoundException: net/minecraft/class_9934)
-[03:31:29] [main/WARN]: @Mixin target net.minecraft.class_9934 was not found farmersdelight.mixins.json:refabricated.GhostSlotsInvoker from mod farmersdelight
-[03:31:29] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
-[03:31:39] [main/INFO]: Registering conditions for : BetterEnchanting
-[03:31:39] [main/INFO]: Registering mod iems for : BetterEnchanting
-[03:31:39] [main/INFO]: Registering mod screen handlers for : BetterEnchanting
-[03:31:39] [main/INFO]: Registering mod enchantment tags for : BetterEnchanting
-[03:31:39] [main/INFO]: Creating enchantement ingredient map for mod : BetterEnchanting
-[03:31:39] [main/INFO]: Generating item tags for mod : BetterEnchanting
-[03:31:39] [main/INFO]: Registering loot tables for BetterEnchanting
-[03:31:40] [main/INFO]: Modifying loot tables for : BetterEnchanting
-[03:31:40] [main/INFO]: Disconnect Packet Fix has started.
-[03:31:40] [main/INFO]: Loaded config farmersdelight-common.json
-[03:31:40] [main/INFO]: [STDOUT]: [FLD] Config loaded: delay 4–12 ticks
-[03:31:40] [main/INFO]: Reflections took 240 ms to scan 2 urls, producing 12 keys and 157 values
-[03:31:41] [main/INFO]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
-[03:31:41] [main/INFO]: Definitely not up to no good
-[03:31:42] [main/INFO]: [voicechat] Compatibility version 20
-[03:31:42] [main/INFO]: [voicechat] Loading plugins
-[03:31:42] [main/INFO]: [voicechat] Loaded 0 plugin(s)
-[03:31:42] [main/INFO]: [voicechat] Initializing plugins
-[03:31:42] [main/INFO]: [voicechat] Initialized 0 plugin(s)
-[03:31:42] [main/INFO]: Deserializing Config from './config/xaeromaps_waystones.json5'
-[03:31:42] [main/INFO]: Loading configuration...
-[03:31:43] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[03:31:43] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
-[03:31:43] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[03:31:47] [main/INFO]: Loaded 2922 recipes
-[03:31:47] [main/INFO]: Loaded 3004 advancements
-[03:31:47] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 63 translation keys
-[03:31:47] [main/INFO]: Applied 147 biome modifications to 64 of 65 new biomes in 15.04 ms
-[03:31:47] [Server thread/INFO]: Loading server configs...
-[03:31:47] [Server thread/INFO]:         __    
-[03:31:47] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.20
-[03:31:47] [Server thread/INFO]:   |___ |      Running on Fabric - fabric@0.138.3+1.21.10
-[03:31:47] [Server thread/INFO]: 
-[03:31:47] [Server thread/INFO]: Loading storage provider... [H2]
-[03:31:48] [Server thread/INFO]: Loading internal permission managers...
-[03:31:48] [Server thread/INFO]: Performing initial data load...
-[03:31:48] [Server thread/INFO]: Successfully enabled. (took 417ms)
-[03:31:48] [Server thread/INFO]: Starting minecraft server version 1.21.10
-[03:31:48] [Server thread/INFO]: Loading properties
-[03:31:48] [Server thread/INFO]: Default game type: SURVIVAL
-[03:31:48] [Server thread/INFO]: Generating keypair
-[03:31:48] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:31:48] [Server thread/INFO]: Using epoll channel type
-[03:31:48] [Server thread/INFO]: Preparing level "world"
-[03:31:49] [Server thread/INFO]: Loading 0 persistent chunks...
-[03:31:49] [Server thread/INFO]: Preparing spawn area: 100%
-[03:31:49] [Server thread/INFO]: Time elapsed: 14 ms
-[03:31:49] [Server thread/INFO]: Done (0.724s)! For help, type "help"
-[03:31:50] [Server thread/INFO]: bending-hikari - Starting...
-[03:31:51] [Server thread/INFO]: bending-hikari - Added connection conn0: url=jdbc:h2:/home/bruggles/btrfcccobmc_server/./config/bending/data/h2/bending user=BENDING
-[03:31:51] [Server thread/INFO]: bending-hikari - Start completed.
-[03:31:52] [/INFO]: Registered translations: [en]
-[03:31:52] [Server thread/INFO]: Database: jdbc:h2:/home/bruggles/btrfcccobmc_server/./config/bending/data/h2/bending (H2 2.4)
-[03:31:52] [Server thread/WARN]: Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
-[03:31:52] [Server thread/INFO]: Successfully validated 4 migrations (execution time 00:00.057s)
-[03:31:52] [Server thread/INFO]: Current version of schema "PUBLIC": 4
-[03:31:52] [Server thread/INFO]: Schema "PUBLIC" is up to date. No migration necessary.
-[03:31:52] [Server thread/INFO]: Found 68 registered abilities (9 Sequences)
-[03:31:52] [Server thread/INFO]: Found 228 registered collisions
-[03:31:52] [Server thread/INFO]: Registered protection plugins: []
-[03:31:52] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
-[03:31:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3410ms or 68 ticks behind
-[03:31:52] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[03:31:52] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
-[03:32:52] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[03:37:58] [User Authenticator #1/INFO]: UUID of player Bruggles is 5802cc54-f189-4fa4-bca3-022dc4c53176
-[03:37:59] [Server thread/INFO]: Bruggles[/10.0.0.245:51704] logged in with entity id 6 at (-38.73381237193134, 245.0, 26.564310958105555)
-[03:37:59] [Server thread/INFO]: [voicechat] Using Fabric Permissions API
-[03:37:59] [Server thread/INFO]: Bruggles joined the game
-[03:37:59] [Server thread/INFO]: [voicechat] Received secret request of Bruggles (20)
-[03:37:59] [Server thread/INFO]: [voicechat] Sent secret to Bruggles
-[03:38:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5802cc54-f189-4fa4-bca3-022dc4c53176
-[03:38:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5802cc54-f189-4fa4-bca3-022dc4c53176
-[03:38:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Bruggles (5802cc54-f189-4fa4-bca3-022dc4c53176) successfully connected to voice chat
-[03:38:05] [Server thread/INFO]: Bruggles fell from a high place
-[03:39:03] [User Authenticator #2/INFO]: UUID of player Laxidaze3 is 718fd999-d407-428c-bd79-690386a1caad
-[03:39:06] [Server thread/INFO]: Laxidaze3[/70.173.193.208:58496] logged in with entity id 417 at (-743.9380521194869, 68.0, 817.6518831919665)
-[03:39:06] [Server thread/INFO]: Laxidaze3 joined the game
-[03:39:07] [Server thread/INFO]: [voicechat] Received secret request of Laxidaze3 (20)
-[03:39:07] [Server thread/INFO]: [voicechat] Sent secret to Laxidaze3
-[03:39:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 718fd999-d407-428c-bd79-690386a1caad
-[03:39:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 718fd999-d407-428c-bd79-690386a1caad
-[03:39:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Laxidaze3 (718fd999-d407-428c-bd79-690386a1caad) successfully connected to voice chat
-[03:47:37] [Server thread/INFO]: Bruggles lost connection: Disconnected
-[03:47:37] [Server thread/INFO]: Bruggles left the game
-[03:47:37] [Server thread/INFO]: [voicechat] Disconnecting client Bruggles
-[03:48:01] [User Authenticator #3/INFO]: UUID of player Bruggles is 5802cc54-f189-4fa4-bca3-022dc4c53176
-[03:48:02] [Server thread/INFO]: Bruggles[/10.0.0.245:51879] logged in with entity id 2539 at (-38.729330825442915, 245.0, 26.661768577019597)
-[03:48:02] [Server thread/INFO]: Bruggles joined the game
-[03:48:02] [Server thread/INFO]: [voicechat] Received secret request of Bruggles (20)
-[03:48:02] [Server thread/INFO]: [voicechat] Sent secret to Bruggles
-[03:48:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5802cc54-f189-4fa4-bca3-022dc4c53176
-[03:48:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5802cc54-f189-4fa4-bca3-022dc4c53176
-[03:48:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Bruggles (5802cc54-f189-4fa4-bca3-022dc4c53176) successfully connected to voice chat
-[03:56:32] [Server thread/INFO]: Bruggles lost connection: Disconnected
-[03:56:32] [Server thread/INFO]: Bruggles left the game
-[03:56:32] [Server thread/INFO]: [voicechat] Disconnecting client Bruggles
-[04:00:32] [Server thread/INFO]: Laxidaze3 lost connection: Disconnected
-[04:00:32] [Server thread/INFO]: Laxidaze3 left the game
-[04:00:32] [Server thread/INFO]: [voicechat] Disconnecting client Laxidaze3
-[04:01:32] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[04:08:04] [User Authenticator #4/INFO]: UUID of player Bruggles is 5802cc54-f189-4fa4-bca3-022dc4c53176
-[04:08:05] [Server thread/INFO]: Bruggles[/10.0.0.245:52412] logged in with entity id 4281 at (-38.729330825442915, 245.0, 26.661768577019597)
-[04:08:05] [Server thread/INFO]: Bruggles joined the game
-[04:08:05] [Server thread/INFO]: [voicechat] Received secret request of Bruggles (20)
-[04:08:05] [Server thread/INFO]: [voicechat] Sent secret to Bruggles
-[04:08:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5802cc54-f189-4fa4-bca3-022dc4c53176
-[04:08:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5802cc54-f189-4fa4-bca3-022dc4c53176
-[04:08:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Bruggles (5802cc54-f189-4fa4-bca3-022dc4c53176) successfully connected to voice chat
-[04:08:44] [Server thread/INFO]: Bruggles lost connection: Disconnected
-[04:08:44] [Server thread/INFO]: Bruggles left the game
-[04:08:44] [Server thread/INFO]: [voicechat] Disconnecting client Bruggles
-[04:08:49] [User Authenticator #5/INFO]: UUID of player Bruggles is 5802cc54-f189-4fa4-bca3-022dc4c53176
-[04:08:49] [Server thread/INFO]: Bruggles[/10.0.0.245:52431] logged in with entity id 4318 at (-38.729330825442915, 245.0, 26.661768577019597)
-[04:08:49] [Server thread/INFO]: Bruggles joined the game
-[04:08:49] [Server thread/INFO]: [voicechat] Received secret request of Bruggles (20)
-[04:08:49] [Server thread/INFO]: [voicechat] Sent secret to Bruggles
-[04:08:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5802cc54-f189-4fa4-bca3-022dc4c53176
-[04:08:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5802cc54-f189-4fa4-bca3-022dc4c53176
-[04:08:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Bruggles (5802cc54-f189-4fa4-bca3-022dc4c53176) successfully connected to voice chat
-[04:09:27] [User Authenticator #6/INFO]: UUID of player Omnilax is bcbba3ce-966c-4a95-ad81-6f39c9638494
-[04:09:29] [Server thread/INFO]: Omnilax[/73.124.223.163:53386] logged in with entity id 4404 at (-756.8806368983227, 68.6875, 318.1660437093497)
-[04:09:29] [Server thread/INFO]: Omnilax joined the game
-[04:09:29] [Server thread/INFO]: [voicechat] Received secret request of Omnilax (20)
-[04:09:29] [Server thread/INFO]: [voicechat] Sent secret to Omnilax
-[04:09:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player bcbba3ce-966c-4a95-ad81-6f39c9638494
-[04:09:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player bcbba3ce-966c-4a95-ad81-6f39c9638494
-[04:09:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Omnilax (bcbba3ce-966c-4a95-ad81-6f39c9638494) successfully connected to voice chat
-[04:09:41] [Server thread/INFO]: <Omnilax> hai
-[04:12:35] [Server thread/INFO]: Bruggles lost connection: Disconnected
-[04:12:35] [Server thread/INFO]: Bruggles left the game
-[04:12:35] [Server thread/INFO]: [voicechat] Disconnecting client Bruggles
-[04:48:21] [User Authenticator #7/INFO]: UUID of player CzarsonTzarcia is 7856f6e3-6521-4a6a-9222-1176c49eea16
-[04:48:24] [Server thread/INFO]: CzarsonTzarcia[/75.40.167.175:50612] logged in with entity id 9697 at (-1135.161013002152, 65.0, 2279.8805831395803)
-[04:48:24] [Server thread/INFO]: CzarsonTzarcia joined the game
-[04:48:25] [Server thread/INFO]: [voicechat] Received secret request of CzarsonTzarcia (20)
-[04:48:25] [Server thread/INFO]: [voicechat] Sent secret to CzarsonTzarcia
-[04:48:27] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 7856f6e3-6521-4a6a-9222-1176c49eea16
-[04:48:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 7856f6e3-6521-4a6a-9222-1176c49eea16
-[04:48:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player CzarsonTzarcia (7856f6e3-6521-4a6a-9222-1176c49eea16) successfully connected to voice chat
-[04:59:00] [Server thread/INFO]: CzarsonTzarcia fell from a high place
+[00:00:28] [Server thread/INFO]: <FlameWear> i have tree feller
+[00:00:38] [Server thread/INFO]: Bruggles tried to swim in lava
+[00:00:44] [Server thread/INFO]: <FlameWear> rip bozo
+[00:00:47] [Server thread/INFO]: <Omnilax> omg seriously! can u teach me how to get the enchantment, i rely want to learn
+[00:08:28] [Server thread/WARN]: Bruggles moved too quickly! 671.7253009832352,-2.5,75.25305253697815
+[00:09:00] [Server thread/INFO]: Bruggles has made the advancement [Hot Stuff]
+[00:12:21] [Server thread/INFO]: FlameWear lost connection: Disconnected
+[00:12:21] [Server thread/INFO]: FlameWear left the game
+[00:12:21] [Server thread/INFO]: [voicechat] Disconnecting client FlameWear
+[00:12:31] [User Authenticator #19/INFO]: UUID of player FlameWear is 6771c0eb-48cc-4b42-a19d-cb59f3b53980
+[00:12:33] [Server thread/INFO]: FlameWear[/70.131.184.145:55550] logged in with entity id 162628 at (-641.2220795055828, 64.0, 379.0543643973924)
+[00:12:33] [Server thread/INFO]: FlameWear joined the game
+[00:12:33] [Server thread/INFO]: [voicechat] Received secret request of FlameWear (20)
+[00:12:33] [Server thread/INFO]: [voicechat] Sent secret to FlameWear
+[00:12:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 6771c0eb-48cc-4b42-a19d-cb59f3b53980
+[00:12:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 6771c0eb-48cc-4b42-a19d-cb59f3b53980
+[00:12:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player FlameWear (6771c0eb-48cc-4b42-a19d-cb59f3b53980) successfully connected to voice chat
+[00:12:40] [Server thread/INFO]: <Bruggles> hi
+[00:21:06] [Server thread/WARN]: Bruggles moved too quickly! 666.0637866515665,-4.0,72.30000001192093
+[00:21:49] [Server thread/WARN]: Bruggles moved too quickly! -666.051496774248,5.5,-68.56138320502777
+[00:27:16] [Server thread/WARN]: Bruggles moved too quickly! 667.1464539573101,-4.5,70.74538290790338
+[00:35:04] [Server thread/INFO]: <FlameWear> my sword disappeared
+[00:40:25] [Server thread/INFO]: Bruggles lost connection: Disconnected
+[00:40:25] [Server thread/INFO]: Bruggles left the game
+[00:40:25] [Server thread/INFO]: [voicechat] Disconnecting client Bruggles
+[00:41:30] [Server thread/INFO]: FlameWear has made the advancement [Tactical Fishing]
+[00:42:46] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 718fd999-d407-428c-bd79-690386a1caad timed out
+[00:42:46] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Laxidaze3
+[00:42:46] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Laxidaze3
+[00:42:46] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 718fd999-d407-428c-bd79-690386a1caad
+[00:42:49] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 718fd999-d407-428c-bd79-690386a1caad
+[00:42:49] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Laxidaze3 (718fd999-d407-428c-bd79-690386a1caad) successfully connected to voice chat
+[01:09:09] [Server thread/INFO]: FlameWear lost connection: Disconnected
+[01:09:09] [Server thread/INFO]: FlameWear left the game
+[01:09:09] [Server thread/INFO]: [voicechat] Disconnecting client FlameWear
+[01:09:18] [Server thread/INFO]: Omnilax lost connection: Disconnected
+[01:09:18] [Server thread/INFO]: Omnilax left the game
+[01:09:18] [Server thread/INFO]: [voicechat] Disconnecting client Omnilax
+[02:55:26] [Server thread/INFO]: KittyScan (/73.149.29.87:52311) lost connection: Disconnected
+[03:07:50] [User Authenticator #20/INFO]: UUID of player KittyScanNya is 0235ffa8-ad25-4537-a3fd-535afff0987c
+[04:32:00] [Server thread/INFO]: Laxidaze3 lost connection: Disconnected
+[04:32:00] [Server thread/INFO]: Laxidaze3 left the game
+[04:32:00] [Server thread/INFO]: [voicechat] Disconnecting client Laxidaze3
+[04:33:00] [Server thread/INFO]: Server empty for 60 seconds, pausing

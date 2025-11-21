@@ -1627,6 +1627,7 @@
       "cooked_cod": "2025-11-16 07:59:18 +0000",
       "chorus_fruit": "2025-11-18 06:42:36 +0000",
       "cod": "2025-11-16 08:10:14 +0000",
+      "baked_potato": "2025-11-21 00:10:59 +0000",
       "porkchop": "2025-11-16 09:26:51 +0000",
       "cooked_salmon": "2025-11-18 06:07:01 +0000",
       "tropical_fish": "2025-11-17 06:32:38 +0000",
@@ -5765,6 +5766,90 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_drawer": {
     "criteria": {
       "has_minecraft:spruce_planks": "2025-11-19 05:09:19 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-11-20 05:00:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-11-20 05:00:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-11-20 05:00:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/green_dye_from_seagrass": {
+    "criteria": {
+      "has_seagrass": "2025-11-20 05:11:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/harvest_ropelogged_tomato": {
+    "criteria": {
+      "harvest_ropelogged_tomato": "2025-11-20 22:27:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-11-20 22:27:35 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/food/tomato_sandwich": {
+    "criteria": {
+      "has_tomato": "2025-11-20 22:27:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-11-20 22:27:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-11-20 22:27:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-11-20 22:27:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-11-20 23:47:56 +0000"
+    },
+    "done": true
+  },
+  "enchantplus:tools/axe/timber": {
+    "criteria": {
+      "requirement": "2025-11-21 00:15:40 +0000"
+    },
+    "done": true
+  },
+  "enchantplus:tools/axe/base": {
+    "criteria": {
+      "got_timber": "2025-11-21 00:15:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-11-20 23:47:56 +0000"
     },
     "done": true
   },
