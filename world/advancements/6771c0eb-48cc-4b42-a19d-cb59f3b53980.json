@@ -1099,8 +1099,10 @@
       "minecraft:phantom": "2025-11-18 02:59:40 +0000",
       "minecraft:witch": "2025-11-18 23:18:53 +0000",
       "minecraft:wither_skeleton": "2025-11-18 05:42:29 +0000",
+      "minecraft:ghast": "2025-11-21 08:21:25 +0000",
       "minecraft:shulker": "2025-11-18 06:21:27 +0000",
       "minecraft:cave_spider": "2025-11-21 00:31:59 +0000",
+      "minecraft:piglin": "2025-11-21 08:32:17 +0000",
       "minecraft:enderman": "2025-11-18 01:45:51 +0000",
       "minecraft:magma_cube": "2025-11-19 07:53:41 +0000",
       "minecraft:spider": "2025-11-18 00:06:35 +0000",
@@ -4333,6 +4335,7 @@
   },
   "enchantplus:weapons/sword/base": {
     "criteria": {
+      "xp_boost": "2025-11-21 07:49:01 +0000",
       "attack_speed": "2025-11-18 01:34:05 +0000",
       "fear": "2025-11-18 03:10:30 +0000"
     },
@@ -5331,9 +5334,13 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:soul_sand_valley": "2025-11-18 03:06:15 +0000"
+      "minecraft:crimson_forest": "2025-11-21 08:21:53 +0000",
+      "minecraft:soul_sand_valley": "2025-11-18 03:06:15 +0000",
+      "minecraft:nether_wastes": "2025-11-21 08:32:13 +0000",
+      "minecraft:basalt_deltas": "2025-11-21 08:27:11 +0000",
+      "minecraft:warped_forest": "2025-11-21 08:33:18 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:story/enter_the_nether": {
     "criteria": {
@@ -8185,6 +8192,36 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_spore_blossom": {
+    "criteria": {
+      "has_spore_blossom": "2025-11-21 00:26:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_glow_berries": {
+    "criteria": {
+      "has_glow_berries": "2025-11-21 00:37:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-11-21 00:37:44 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/food/toast_with_glow_berries": {
+    "criteria": {
+      "has_glow_berries": "2025-11-21 00:37:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "tropical_fish_bucket": "2025-11-21 00:41:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-11-21 00:49:21 +0000"
@@ -8206,12 +8243,6 @@
   "minecraft:recipes/building_blocks/tuff_stairs": {
     "criteria": {
       "has_tuff": "2025-11-21 00:49:21 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_glow_berries": {
-    "criteria": {
-      "has_glow_berries": "2025-11-21 00:37:44 +0000"
     },
     "done": true
   },
@@ -8245,21 +8276,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/glow_berry_custard": {
-    "criteria": {
-      "has_any_ingredient": "2025-11-21 00:37:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-11-21 00:49:21 +0000"
-    },
-    "done": true
-  },
-  "moredelight:recipes/food/toast_with_glow_berries": {
-    "criteria": {
-      "has_glow_berries": "2025-11-21 00:37:44 +0000"
     },
     "done": true
   },
@@ -8293,18 +8312,6 @@
     },
     "done": true
   },
-  "minecraft:husbandry/tactical_fishing": {
-    "criteria": {
-      "tropical_fish_bucket": "2025-11-21 00:41:30 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_spore_blossom": {
-    "criteria": {
-      "has_spore_blossom": "2025-11-21 00:26:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/tuff_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-11-21 00:49:21 +0000"
@@ -8314,6 +8321,60 @@
   "minecraft:recipes/building_blocks/polished_tuff": {
     "criteria": {
       "has_tuff": "2025-11-21 00:49:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_ghast": {
+    "criteria": {
+      "has_ghast_tear": "2025-11-21 08:25:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-11-21 07:48:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-11-21 07:37:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-11-21 08:43:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-11-21 08:07:31 +0000"
+    },
+    "done": true
+  },
+  "enchantplus:weapons/sword/xp_boost": {
+    "criteria": {
+      "requirement": "2025-11-21 07:49:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_the_recipe": "2025-11-21 07:48:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-11-21 07:48:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-11-21 07:37:37 +0000"
     },
     "done": true
   },

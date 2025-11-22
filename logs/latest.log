@@ -1,44 +1,1218 @@
-[00:00:28] [Server thread/INFO]: <FlameWear> i have tree feller
-[00:00:38] [Server thread/INFO]: Bruggles tried to swim in lava
-[00:00:44] [Server thread/INFO]: <FlameWear> rip bozo
-[00:00:47] [Server thread/INFO]: <Omnilax> omg seriously! can u teach me how to get the enchantment, i rely want to learn
-[00:08:28] [Server thread/WARN]: Bruggles moved too quickly! 671.7253009832352,-2.5,75.25305253697815
-[00:09:00] [Server thread/INFO]: Bruggles has made the advancement [Hot Stuff]
-[00:12:21] [Server thread/INFO]: FlameWear lost connection: Disconnected
-[00:12:21] [Server thread/INFO]: FlameWear left the game
-[00:12:21] [Server thread/INFO]: [voicechat] Disconnecting client FlameWear
-[00:12:31] [User Authenticator #19/INFO]: UUID of player FlameWear is 6771c0eb-48cc-4b42-a19d-cb59f3b53980
-[00:12:33] [Server thread/INFO]: FlameWear[/70.131.184.145:55550] logged in with entity id 162628 at (-641.2220795055828, 64.0, 379.0543643973924)
-[00:12:33] [Server thread/INFO]: FlameWear joined the game
-[00:12:33] [Server thread/INFO]: [voicechat] Received secret request of FlameWear (20)
-[00:12:33] [Server thread/INFO]: [voicechat] Sent secret to FlameWear
-[00:12:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 6771c0eb-48cc-4b42-a19d-cb59f3b53980
-[00:12:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 6771c0eb-48cc-4b42-a19d-cb59f3b53980
-[00:12:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player FlameWear (6771c0eb-48cc-4b42-a19d-cb59f3b53980) successfully connected to voice chat
-[00:12:40] [Server thread/INFO]: <Bruggles> hi
-[00:21:06] [Server thread/WARN]: Bruggles moved too quickly! 666.0637866515665,-4.0,72.30000001192093
-[00:21:49] [Server thread/WARN]: Bruggles moved too quickly! -666.051496774248,5.5,-68.56138320502777
-[00:27:16] [Server thread/WARN]: Bruggles moved too quickly! 667.1464539573101,-4.5,70.74538290790338
-[00:35:04] [Server thread/INFO]: <FlameWear> my sword disappeared
-[00:40:25] [Server thread/INFO]: Bruggles lost connection: Disconnected
-[00:40:25] [Server thread/INFO]: Bruggles left the game
-[00:40:25] [Server thread/INFO]: [voicechat] Disconnecting client Bruggles
-[00:41:30] [Server thread/INFO]: FlameWear has made the advancement [Tactical Fishing]
-[00:42:46] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 718fd999-d407-428c-bd79-690386a1caad timed out
-[00:42:46] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Laxidaze3
-[00:42:46] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Laxidaze3
-[00:42:46] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 718fd999-d407-428c-bd79-690386a1caad
-[00:42:49] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 718fd999-d407-428c-bd79-690386a1caad
-[00:42:49] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Laxidaze3 (718fd999-d407-428c-bd79-690386a1caad) successfully connected to voice chat
-[01:09:09] [Server thread/INFO]: FlameWear lost connection: Disconnected
-[01:09:09] [Server thread/INFO]: FlameWear left the game
-[01:09:09] [Server thread/INFO]: [voicechat] Disconnecting client FlameWear
-[01:09:18] [Server thread/INFO]: Omnilax lost connection: Disconnected
-[01:09:18] [Server thread/INFO]: Omnilax left the game
-[01:09:18] [Server thread/INFO]: [voicechat] Disconnecting client Omnilax
-[02:55:26] [Server thread/INFO]: KittyScan (/73.149.29.87:52311) lost connection: Disconnected
-[03:07:50] [User Authenticator #20/INFO]: UUID of player KittyScanNya is 0235ffa8-ad25-4537-a3fd-535afff0987c
-[04:32:00] [Server thread/INFO]: Laxidaze3 lost connection: Disconnected
-[04:32:00] [Server thread/INFO]: Laxidaze3 left the game
-[04:32:00] [Server thread/INFO]: [voicechat] Disconnecting client Laxidaze3
-[04:33:00] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:05:12] [User Authenticator #6/INFO]: UUID of player UniqueAndClever is 07e37ea1-a741-4700-980b-631d86b9966a
+[00:05:15] [Server thread/INFO]: UniqueAndClever[/99.33.195.107:63494] logged in with entity id 109549 at (-912.7468800657092, 116.0, 1185.7432340278262)
+[00:05:15] [Server thread/INFO]: UniqueAndClever joined the game
+[00:05:16] [Server thread/INFO]: [voicechat] Received secret request of UniqueAndClever (20)
+[00:05:16] [Server thread/INFO]: [voicechat] Sent secret to UniqueAndClever
+[00:05:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 07e37ea1-a741-4700-980b-631d86b9966a
+[00:05:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 07e37ea1-a741-4700-980b-631d86b9966a
+[00:05:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player UniqueAndClever (07e37ea1-a741-4700-980b-631d86b9966a) successfully connected to voice chat
+[00:05:28] [Server thread/INFO]: <[Air] astrophantom> YOOOOO
+[00:05:33] [Server thread/INFO]: <[Air] astrophantom> JOIN CALL EDWARD IS ON
+[00:21:07] [Server thread/INFO]: UniqueAndClever tried to swim in lava to escape Skeleton
+[00:21:22] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 07e37ea1-a741-4700-980b-631d86b9966a timed out
+[00:21:22] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player UniqueAndClever
+[00:21:22] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to UniqueAndClever
+[00:21:31] [Server thread/INFO]: UniqueAndClever lost connection: Timed out
+[00:21:31] [Server thread/INFO]: UniqueAndClever left the game
+[00:21:31] [Server thread/INFO]: [voicechat] Disconnecting client UniqueAndClever
+[00:21:31] [Server thread/WARN]: handleDisconnection() called twice
+[00:22:21] [User Authenticator #7/INFO]: UUID of player UniqueAndClever is 07e37ea1-a741-4700-980b-631d86b9966a
+[00:22:25] [Server thread/INFO]: UniqueAndClever[/99.33.195.107:58841] logged in with entity id 118142 at (-848.1750888792578, 69.0, 1082.4775152759014)
+[00:22:25] [Server thread/INFO]: UniqueAndClever joined the game
+[00:22:26] [Server thread/INFO]: [voicechat] Received secret request of UniqueAndClever (20)
+[00:22:26] [Server thread/INFO]: [voicechat] Sent secret to UniqueAndClever
+[00:22:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 07e37ea1-a741-4700-980b-631d86b9966a
+[00:22:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 07e37ea1-a741-4700-980b-631d86b9966a
+[00:22:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player UniqueAndClever (07e37ea1-a741-4700-980b-631d86b9966a) successfully connected to voice chat
+[00:38:53] [Server thread/INFO]: BolterNight has made the advancement [Hunt and Gather]
+[00:47:20] [Server thread/INFO]: BolterNight has reached the goal [Dinner's Served!]
+[00:51:49] [Server thread/INFO]: UniqueAndClever fell from a high place
+[01:01:18] [Server thread/INFO]: BolterNight has made the advancement [Planting the Past]
+[01:19:51] [Server thread/INFO]: BolterNight has made the advancement [Best Friends Forever]
+[01:28:32] [Server thread/INFO]: BolterNight has made the advancement [Bonfire Lit]
+[01:32:20] [Server thread/WARN]: UniqueAndClever moved too quickly! -9.876303383426603,-12.327480849733192,8.040509383980407
+[01:35:39] [Server thread/INFO]: Villager class_1646['Farmer'/149937, l='ServerLevel[world]', x=-1396.64, y=68.56, z=619.29] died, message: 'Farmer was slain by Zombie'
+[01:35:49] [Server thread/INFO]: Villager class_1646['Cleric'/149927, l='ServerLevel[world]', x=-1380.50, y=65.00, z=618.37] died, message: 'Cleric was slain by Zombie'
+[01:36:04] [Server thread/INFO]: UniqueAndClever burned to death
+[01:36:09] [User Authenticator #8/INFO]: UUID of player Laxidaze3 is 718fd999-d407-428c-bd79-690386a1caad
+[01:36:12] [Server thread/INFO]: Laxidaze3[/70.173.193.208:54087] logged in with entity id 158138 at (-9727.300000011921, -14.0, 560.6999999880791)
+[01:36:12] [Server thread/INFO]: Laxidaze3 joined the game
+[01:36:12] [Server thread/INFO]: [voicechat] Received secret request of Laxidaze3 (20)
+[01:36:12] [Server thread/INFO]: [voicechat] Sent secret to Laxidaze3
+[01:36:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 718fd999-d407-428c-bd79-690386a1caad
+[01:36:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 718fd999-d407-428c-bd79-690386a1caad
+[01:36:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Laxidaze3 (718fd999-d407-428c-bd79-690386a1caad) successfully connected to voice chat
+[01:37:32] [Server thread/INFO]: Villager class_1646['Fletcher'/132790, l='ServerLevel[world]', x=-885.56, y=110.42, z=1194.70] died, message: 'Fletcher was slain by Zombie'
+[01:40:04] [Server thread/INFO]: Laxidaze3 has made the advancement [Minecraft: Trial(s) Edition]
+[01:47:21] [VoiceChatPacketProcessingThread/WARN]: [voicechat] Dropping voice chat packets! Your Server might be overloaded!
+[01:47:21] [VoiceChatPacketProcessingThread/WARN]: [voicechat] Packet queue has 31 packets
+[01:59:10] [Server thread/WARN]: UniqueAndClever moved too quickly! 10.872216446130096,-1.4055256297459522,14.586626217272169
+[01:59:22] [Server thread/WARN]: UniqueAndClever moved too quickly! 4.126172070414782,11.04335757866437,14.18370655300987
+[01:59:29] [Server thread/WARN]: UniqueAndClever moved too quickly! 5.004059174586246,-13.162050191965875,12.380860169787866
+[02:00:37] [Server thread/WARN]: UniqueAndClever moved too quickly! 1602.8214322523447,23.5,11357.976990124027
+[02:01:50] [Server thread/INFO]: UniqueAndClever fell off scaffolding
+[02:02:22] [Server thread/WARN]: Laxidaze3 moved too quickly! 9.222846653588078,2.4216059981864504,15.430586090749784
+[02:02:26] [Server thread/WARN]: Laxidaze3 moved too quickly! 17.041744065430237,-2.306937939916395,-3.6399687867815373
+[02:03:34] [VoiceChatPacketProcessingThread/WARN]: [voicechat] Dropping voice chat packets! Your Server might be overloaded!
+[02:03:34] [VoiceChatPacketProcessingThread/WARN]: [voicechat] Packet queue has 49 packets
+[02:04:49] [Server thread/WARN]: Laxidaze3 moved too quickly! 29.11819543902186,-1.5,64.47619622592515
+[02:12:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 07e37ea1-a741-4700-980b-631d86b9966a timed out
+[02:12:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player UniqueAndClever
+[02:12:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to UniqueAndClever
+[02:12:21] [Server thread/INFO]: UniqueAndClever lost connection: Timed out
+[02:12:21] [Server thread/INFO]: UniqueAndClever left the game
+[02:12:21] [Server thread/INFO]: [voicechat] Disconnecting client UniqueAndClever
+[02:12:34] [User Authenticator #9/INFO]: UUID of player UniqueAndClever is 07e37ea1-a741-4700-980b-631d86b9966a
+[02:12:36] [Server thread/INFO]: UniqueAndClever[/99.33.195.107:53764] logged in with entity id 191383 at (-1037.4772861042538, 79.0, 1246.4419562493288)
+[02:12:36] [Server thread/INFO]: UniqueAndClever joined the game
+[02:12:37] [Server thread/INFO]: [voicechat] Received secret request of UniqueAndClever (20)
+[02:12:37] [Server thread/INFO]: [voicechat] Sent secret to UniqueAndClever
+[02:12:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 07e37ea1-a741-4700-980b-631d86b9966a
+[02:12:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 07e37ea1-a741-4700-980b-631d86b9966a
+[02:12:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player UniqueAndClever (07e37ea1-a741-4700-980b-631d86b9966a) successfully connected to voice chat
+[02:15:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 07e37ea1-a741-4700-980b-631d86b9966a timed out
+[02:15:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player UniqueAndClever
+[02:15:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to UniqueAndClever
+[02:15:07] [Server thread/INFO]: UniqueAndClever lost connection: Timed out
+[02:15:07] [Server thread/INFO]: UniqueAndClever left the game
+[02:15:07] [Server thread/INFO]: [voicechat] Disconnecting client UniqueAndClever
+[02:15:24] [User Authenticator #10/INFO]: UUID of player UniqueAndClever is 07e37ea1-a741-4700-980b-631d86b9966a
+[02:15:25] [Server thread/INFO]: UniqueAndClever[/99.33.195.107:62680] logged in with entity id 193907 at (-909.2147114061481, 116.0, 1188.3460608022265)
+[02:15:25] [Server thread/INFO]: UniqueAndClever joined the game
+[02:15:25] [Server thread/INFO]: [voicechat] Received secret request of UniqueAndClever (20)
+[02:15:25] [Server thread/INFO]: [voicechat] Sent secret to UniqueAndClever
+[02:15:27] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 07e37ea1-a741-4700-980b-631d86b9966a
+[02:15:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 07e37ea1-a741-4700-980b-631d86b9966a
+[02:15:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player UniqueAndClever (07e37ea1-a741-4700-980b-631d86b9966a) successfully connected to voice chat
+[02:16:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 07e37ea1-a741-4700-980b-631d86b9966a timed out
+[02:16:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player UniqueAndClever
+[02:16:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to UniqueAndClever
+[02:16:55] [Server thread/INFO]: UniqueAndClever lost connection: Timed out
+[02:16:55] [Server thread/INFO]: UniqueAndClever left the game
+[02:16:55] [Server thread/INFO]: [voicechat] Disconnecting client UniqueAndClever
+[02:17:04] [User Authenticator #11/INFO]: UUID of player UniqueAndClever is 07e37ea1-a741-4700-980b-631d86b9966a
+[02:17:12] [Server thread/INFO]: UniqueAndClever[/99.33.195.107:58065] logged in with entity id 195409 at (-953.9784973998105, 72.08692408821369, 1252.158340716316)
+[02:17:12] [Server thread/INFO]: UniqueAndClever joined the game
+[02:17:12] [Server thread/INFO]: [voicechat] Received secret request of UniqueAndClever (20)
+[02:17:12] [Server thread/INFO]: [voicechat] Sent secret to UniqueAndClever
+[02:17:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 07e37ea1-a741-4700-980b-631d86b9966a
+[02:17:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 07e37ea1-a741-4700-980b-631d86b9966a
+[02:17:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player UniqueAndClever (07e37ea1-a741-4700-980b-631d86b9966a) successfully connected to voice chat
+[02:17:54] [Server thread/INFO]: UniqueAndClever lost connection: Disconnected
+[02:17:54] [Server thread/INFO]: UniqueAndClever left the game
+[02:17:54] [Server thread/INFO]: [voicechat] Disconnecting client UniqueAndClever
+[02:19:25] [Server thread/INFO]: astrophantom lost connection: Disconnected
+[02:19:25] [Server thread/INFO]: astrophantom left the game
+[02:19:25] [Server thread/INFO]: [voicechat] Disconnecting client astrophantom
+[02:19:28] [Server thread/INFO]: BolterNight lost connection: Disconnected
+[02:19:28] [Server thread/INFO]: BolterNight left the game
+[02:19:28] [Server thread/INFO]: [voicechat] Disconnecting client BolterNight
+[02:22:03] [Server thread/INFO]: Omnilax lost connection: Disconnected
+[02:22:03] [Server thread/INFO]: Omnilax left the game
+[02:22:03] [Server thread/INFO]: [voicechat] Disconnecting client Omnilax
+[02:22:15] [User Authenticator #12/INFO]: UUID of player astrophantom is 0a95b1e8-40d4-46bc-826c-6c91f2b40c50
+[02:22:17] [Server thread/INFO]: astrophantom[/75.40.167.159:57622] logged in with entity id 198089 at (-1378.649563909201, 68.5, 628.4572792734797)
+[02:22:17] [Server thread/INFO]: astrophantom joined the game
+[02:22:17] [Server thread/INFO]: [voicechat] Received secret request of astrophantom (20)
+[02:22:17] [Server thread/INFO]: [voicechat] Sent secret to astrophantom
+[02:22:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 0a95b1e8-40d4-46bc-826c-6c91f2b40c50
+[02:22:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 0a95b1e8-40d4-46bc-826c-6c91f2b40c50
+[02:22:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player astrophantom (0a95b1e8-40d4-46bc-826c-6c91f2b40c50) successfully connected to voice chat
+[02:43:13] [Server thread/INFO]: Laxidaze3 has made the advancement [Spooky Scary Skeleton]
+[02:53:07] [Server thread/INFO]: <[Air] astrophantom> wtf
+[02:53:12] [Server thread/INFO]: <[Air] Laxidaze3> ?
+[02:53:14] [Server thread/INFO]: <[Air] astrophantom> why are there four skeleton horses
+[02:53:17] [Server thread/INFO]: <[Air] astrophantom> and skeletons on them
+[02:53:26] [Server thread/INFO]: <[Air] Laxidaze3> it is the sign of pestilence arriving
+[02:57:58] [Server thread/INFO]: <[Air] astrophantom> huh
+[02:58:07] [Server thread/INFO]: <[Air] astrophantom> i have three skeleton horses now
+[02:59:00] [Server thread/INFO]: <[Air] Laxidaze3> omg, I am the luckiest I have ever been getting wither skulls
+[02:59:05] [Server thread/INFO]: <[Air] Laxidaze3> 3 in 5 mins
+[02:59:09] [Server thread/INFO]: <[Air] astrophantom> crayz
+[03:05:26] [Server thread/INFO]: Laxidaze3 has made the advancement [Withering Heights]
+[03:07:15] [Server thread/WARN]: Laxidaze3 moved too quickly! 3.4670634241737908,7.834341187851152,15.177580753396825
+[03:08:02] [Server thread/INFO]: <[Air] Laxidaze3> definetly wasn't ready to fight the wither lol
+[03:14:38] [Server thread/INFO]: astrophantom lost connection: Disconnected
+[03:14:38] [Server thread/INFO]: astrophantom left the game
+[03:14:38] [Server thread/INFO]: [voicechat] Disconnecting client astrophantom
+[03:14:40] [Server thread/INFO]: Laxidaze3 was shot by a skull from Wither
+[03:15:54] [Server thread/INFO]: Laxidaze3 withered away while fighting Wither
+[03:17:22] [Server thread/INFO]: Laxidaze3 was shot by a skull from Wither
+[03:28:24] [Server thread/WARN]: Laxidaze3 moved too quickly! -4.587093403871222,6.928107550622627,-15.379805461407159
+[03:51:58] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@5259273c, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:899) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:781) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:52:00] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@21d753f, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:773) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:52:01] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@7cfd758, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:899) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:781) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:52:19] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@38124a47, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:773) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:52:19] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@3fc7eb0c, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:773) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:52:19] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@69c9b0a4, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:773) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:52:20] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@1c686161, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:773) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:54:37] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@19236000, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:773) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:54:38] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@34aa3d97, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:773) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:54:40] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@54ecb5e4, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:773) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:54:41] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@2becda53, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:773) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:54:41] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@71aa92ed, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:773) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:54:42] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@2d474265, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:773) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:54:42] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@65d7385d, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:773) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:54:45] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@31e59d5e, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:773) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:54:48] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@106ae8fd, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:899) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:781) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:54:53] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@69d56945, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:899) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:781) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:54:55] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@352104a4, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:773) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:54:58] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@1e1f121c, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:773) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:55:31] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@2b88e964, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:773) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:55:46] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@4897524d, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:773) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:55:47] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@5ea74b32, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:773) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:55:47] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@50fb0d9f, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:773) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:55:48] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@47b0bef8, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:773) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:55:48] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@6e41a4c6, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:773) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:55:49] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@aff3a61, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:773) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:55:49] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@5ba478c, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:773) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:55:49] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@66beb469, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:773) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:55:50] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@320dd1c3, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:899) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:781) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:55:50] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@67a3ef34, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:773) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:55:50] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@1e37d262, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:773) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:55:50] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@42688bae, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:773) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:55:50] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@3be2e6da, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:773) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:55:50] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@434064dd, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:899) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:781) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:55:52] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@a9a0c8c, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:773) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:55:53] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@2995c20f, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:773) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:55:53] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@18d22a51, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:773) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:55:54] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@2f9cf378, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:773) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:55:54] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@400164f8, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:773) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:55:54] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@28c7bc06, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:773) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:55:55] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@60088d55, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:773) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:55:55] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@391b8ad2, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:773) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:55:56] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@39864916, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:773) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:55:56] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@4a7b2470, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:773) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:55:56] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@6244183d, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:773) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:55:56] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@7098e144, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:899) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:781) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:56:31] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@2f09a2e6, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:773) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:56:34] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@49dc6f3c, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:773) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:56:45] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@6b873420, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:773) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:56:47] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@79b2af3, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:773) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:56:47] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@67641b13, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:899) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:781) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:56:48] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@6a63c037, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:899) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:781) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:56:49] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@29550dd8, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:773) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:56:49] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@650361ac, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:773) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:56:49] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@2278429c, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:773) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:57:18] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@5d3ca840, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:899) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:781) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:57:18] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@73d228cf, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:899) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:781) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:57:19] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@71c7d8c3, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:773) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:57:19] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@10822cdb, suppressing error
+java.lang.ClassCastException: class java.lang.Boolean cannot be cast to class net.minecraft.class_1703 (java.lang.Boolean is in module java.base of loader 'bootstrap'; net.minecraft.class_1703 is in unnamed module of loader 'knot' @5dfcfece)
+	at knot/net.minecraft.class_2580.createMenu(class_2580.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_17355(class_3222.java:1427) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2238.method_55766(class_2238.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4970$class_4971.method_55781(class_4970.java:1227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.mixinextras$bridge$method_14262$208(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction(class_3244.java:7909) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.wrapOperation$bpn000$polymer-core$captureBlockInteraction$mixinextras$bridge$202(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1378) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_11980.method_74449(class_11980.java:38) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:773) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:57:40] [Server thread/INFO]: Laxidaze3 lost connection: Disconnected
+[03:57:40] [Server thread/INFO]: Laxidaze3 left the game
+[03:57:40] [Server thread/INFO]: [voicechat] Disconnecting client Laxidaze3
+[03:58:40] [Server thread/INFO]: Server empty for 60 seconds, pausing
