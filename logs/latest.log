@@ -266,3 +266,12 @@
 [04:56:03] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
 [04:56:03] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
 [04:57:03] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[04:58:35] [User Authenticator #1/INFO]: UUID of player Laxidaze3 is 718fd999-d407-428c-bd79-690386a1caad
+[04:58:41] [Server thread/INFO]: Laxidaze3[/70.173.193.208:55068] logged in with entity id 118 at (-856.710925119088, 66.0, 732.2375000119209)
+[04:58:41] [Server thread/INFO]: [voicechat] Using Fabric Permissions API
+[04:58:41] [Server thread/INFO]: Laxidaze3 joined the game
+[04:58:43] [Server thread/INFO]: [voicechat] Received secret request of Laxidaze3 (20)
+[04:58:43] [Server thread/INFO]: [voicechat] Sent secret to Laxidaze3
+[04:58:49] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 718fd999-d407-428c-bd79-690386a1caad
+[04:58:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 718fd999-d407-428c-bd79-690386a1caad
+[04:58:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Laxidaze3 (718fd999-d407-428c-bd79-690386a1caad) successfully connected to voice chat
