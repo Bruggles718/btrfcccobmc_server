@@ -7994,12 +7994,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-11-23 05:28:14 +0000"
-    },
-    "done": true
-  },
   "betterenchanting:recipes/misc/essence_of_sea_luck": {
     "criteria": {
       "has_magic_shard_full": "2025-11-23 05:14:17 +0000"
@@ -8126,12 +8120,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
-    "criteria": {
-      "has_cut_sandstone": "2025-11-23 05:24:20 +0000"
-    },
-    "done": true
-  },
   "betterenchanting:recipes/misc/essence_of_impaling": {
     "criteria": {
       "has_magic_shard_full": "2025-11-23 05:14:17 +0000"
@@ -8192,12 +8180,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
-    "criteria": {
-      "has_cut_sandstone": "2025-11-23 05:24:20 +0000"
-    },
-    "done": true
-  },
   "betterenchanting:recipes/misc/essence_of_experience": {
     "criteria": {
       "has_magic_shard_full": "2025-11-23 05:14:17 +0000"
@@ -8222,12 +8204,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone_stairs": {
-    "criteria": {
-      "has_cut_sandstone": "2025-11-23 05:24:20 +0000"
-    },
-    "done": true
-  },
   "betterenchanting:recipes/misc/essence_of_fortune": {
     "criteria": {
       "has_magic_shard_full": "2025-11-23 05:14:17 +0000"
@@ -8237,12 +8213,6 @@
   "betterenchanting:recipes/misc/essence_of_silk_touch": {
     "criteria": {
       "has_magic_shard_full": "2025-11-23 05:14:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
-    "criteria": {
-      "has_dune_armor_trim_smithing_template": "2025-11-23 05:28:14 +0000"
     },
     "done": true
   },
@@ -8411,6 +8381,228 @@
   "betterenchanting:recipes/misc/essence_of_gravity": {
     "criteria": {
       "has_magic_shard_full": "2025-11-23 05:14:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-11-23 05:24:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-11-23 05:24:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_cut_sandstone": "2025-11-23 05:24:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-11-23 05:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2025-11-23 05:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_cactus_flower": {
+    "criteria": {
+      "has_cactus_flower": "2025-11-23 18:32:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-11-23 19:13:36 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_sneak_1": {
+    "criteria": {
+      "has_essence_of_sneak_1": "2025-11-23 19:13:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-11-23 19:14:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-11-23 19:16:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2025-11-23 19:16:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_glow_berries": {
+    "criteria": {
+      "has_glow_berries": "2025-11-23 19:23:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-11-23 19:23:43 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/food/toast_with_glow_berries": {
+    "criteria": {
+      "has_glow_berries": "2025-11-23 19:23:43 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_sneak_2": {
+    "criteria": {
+      "has_essence_of_sneak_2": "2025-11-23 19:25:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-11-23 20:45:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-11-23 20:45:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-11-23 20:45:30 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_crate": {
+    "criteria": {
+      "has_minecraft:crimson_planks": "2025-11-23 20:45:30 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/deepslate_stepping_stones": {
+    "criteria": {
+      "has_minecraft:deepslate": "2025-11-23 20:06:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-11-23 20:45:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-11-23 20:22:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-11-23 20:45:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2025-11-23 20:45:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2025-11-23 20:45:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-11-23 20:45:30 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_chair": {
+    "criteria": {
+      "has_minecraft:crimson_planks": "2025-11-23 20:45:30 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_mail_box": {
+    "criteria": {
+      "has_minecraft:crimson_planks": "2025-11-23 20:45:30 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_table": {
+    "criteria": {
+      "has_minecraft:crimson_planks": "2025-11-23 20:45:30 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:recipes/naturescompass/natures_compass": {
+    "criteria": {
+      "has_item": "2025-11-23 20:22:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-11-23 20:45:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-11-23 20:45:30 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_cutting_board": {
+    "criteria": {
+      "has_minecraft:crimson_planks": "2025-11-23 20:45:30 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_drawer": {
+    "criteria": {
+      "has_minecraft:crimson_planks": "2025-11-23 20:45:30 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:recipes/explorers_compass": {
+    "criteria": {
+      "has_item": "2025-11-23 20:22:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-11-23 20:45:30 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_desk": {
+    "criteria": {
+      "has_minecraft:crimson_planks": "2025-11-23 20:45:30 +0000"
     },
     "done": true
   },
