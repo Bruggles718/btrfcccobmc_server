@@ -45,6 +45,7 @@
       "minecraft:ocean": "2025-11-18 23:23:36 +0000",
       "minecraft:cherry_grove": "2025-11-17 01:42:59 +0000",
       "minecraft:sunflower_plains": "2025-11-17 04:54:13 +0000",
+      "minecraft:meadow": "2025-11-24 22:27:11 +0000",
       "minecraft:birch_forest": "2025-11-17 06:27:07 +0000",
       "minecraft:savanna": "2025-11-18 02:48:33 +0000",
       "minecraft:plains": "2025-11-17 01:34:10 +0000",
@@ -2258,6 +2259,7 @@
       "minecraft:spider": "2025-11-17 01:59:17 +0000",
       "minecraft:zombie": "2025-11-17 01:43:30 +0000",
       "minecraft:creeper": "2025-11-17 01:52:17 +0000",
+      "minecraft:drowned": "2025-11-24 22:25:52 +0000",
       "minecraft:zombie_villager": "2025-11-22 01:36:01 +0000"
     },
     "done": false

@@ -1,31 +1,36 @@
-[00:26:40] [User Authenticator #10/INFO]: UUID of player astrophantom is 0a95b1e8-40d4-46bc-826c-6c91f2b40c50
-[00:26:42] [Server thread/INFO]: astrophantom[/76.128.42.133:58464] logged in with entity id 115891 at (-1395.5782085388166, 68.0, 608.0967314398165)
-[00:26:42] [Server thread/INFO]: astrophantom joined the game
-[00:26:42] [Server thread/INFO]: [voicechat] Received secret request of astrophantom (20)
-[00:26:42] [Server thread/INFO]: [voicechat] Sent secret to astrophantom
-[00:26:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 0a95b1e8-40d4-46bc-826c-6c91f2b40c50
-[00:26:44] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 0a95b1e8-40d4-46bc-826c-6c91f2b40c50
-[00:26:44] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player astrophantom (0a95b1e8-40d4-46bc-826c-6c91f2b40c50) successfully connected to voice chat
-[01:11:16] [Server thread/INFO]: astrophantom lost connection: Disconnected
-[01:11:16] [Server thread/INFO]: astrophantom left the game
-[01:11:16] [Server thread/INFO]: [voicechat] Disconnecting client astrophantom
-[01:12:16] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[04:45:56] [Server thread/INFO]: CzarsonTzarcia (/75.40.167.175:54569) lost connection: Disconnected
-[04:46:35] [Server thread/INFO]: CzarsonTzarcia (/75.40.167.175:54772) lost connection: Disconnected
-[04:51:56] [User Authenticator #11/INFO]: UUID of player CzarsonTzarcia is 7856f6e3-6521-4a6a-9222-1176c49eea16
-[04:51:58] [Server thread/INFO]: CzarsonTzarcia[/75.40.167.175:59121] logged in with entity id 123472 at (-1115.9865839396948, 70.0, 2271.444966507308)
-[04:51:58] [Server thread/INFO]: CzarsonTzarcia joined the game
-[04:51:58] [Server thread/INFO]: [voicechat] Received secret request of CzarsonTzarcia (20)
-[04:51:58] [Server thread/INFO]: [voicechat] Sent secret to CzarsonTzarcia
-[04:52:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 7856f6e3-6521-4a6a-9222-1176c49eea16
-[04:52:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 7856f6e3-6521-4a6a-9222-1176c49eea16
-[04:52:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player CzarsonTzarcia (7856f6e3-6521-4a6a-9222-1176c49eea16) successfully connected to voice chat
-[04:57:31] [User Authenticator #12/INFO]: UUID of player Laxidaze3 is 718fd999-d407-428c-bd79-690386a1caad
-[04:57:35] [Server thread/INFO]: Laxidaze3[/70.173.193.208:63798] logged in with entity id 124766 at (-856.2188124797178, 66.0, 734.986232229894)
-[04:57:35] [Server thread/INFO]: Laxidaze3 joined the game
-[04:57:37] [Server thread/INFO]: [voicechat] Received secret request of Laxidaze3 (20)
-[04:57:37] [Server thread/INFO]: [voicechat] Sent secret to Laxidaze3
-[04:57:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 718fd999-d407-428c-bd79-690386a1caad
-[04:57:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 718fd999-d407-428c-bd79-690386a1caad
-[04:57:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Laxidaze3 (718fd999-d407-428c-bd79-690386a1caad) successfully connected to voice chat
-[04:59:07] [Server thread/INFO]: <[Air] Laxidaze3> join VC
+[02:57:18] [User Authenticator #19/INFO]: UUID of player Bruggles is 5802cc54-f189-4fa4-bca3-022dc4c53176
+[02:57:19] [Server thread/INFO]: Bruggles[/10.0.0.245:6851] logged in with entity id 363728 at (-268.2610190906914, 83.0, -240.9712170173986)
+[02:57:19] [Server thread/INFO]: Bruggles joined the game
+[02:57:19] [Server thread/INFO]: [voicechat] Received secret request of Bruggles (20)
+[02:57:19] [Server thread/INFO]: [voicechat] Sent secret to Bruggles
+[02:57:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5802cc54-f189-4fa4-bca3-022dc4c53176
+[02:57:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5802cc54-f189-4fa4-bca3-022dc4c53176
+[02:57:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Bruggles (5802cc54-f189-4fa4-bca3-022dc4c53176) successfully connected to voice chat
+[02:58:11] [Server thread/INFO]: Bruggles has completed the challenge [Hot Tourist Destinations]
+[03:02:39] [Server thread/INFO]: Villager class_1646['Villager'/364638, l='ServerLevel[world]', x=-1340.06, y=62.00, z=277.70] died, message: 'Villager was slain by Zombie'
+[03:39:08] [Server thread/INFO]: Bruggles tried to swim in lava
+[03:54:14] [User Authenticator #20/INFO]: UUID of player Omnilax is bcbba3ce-966c-4a95-ad81-6f39c9638494
+[03:54:16] [Server thread/INFO]: Omnilax[/73.124.223.163:52549] logged in with entity id 378654 at (-677.9872725915346, 64.0, 570.7260306135878)
+[03:54:16] [Server thread/INFO]: Omnilax joined the game
+[03:54:16] [Server thread/INFO]: [voicechat] Received secret request of Omnilax (20)
+[03:54:16] [Server thread/INFO]: [voicechat] Sent secret to Omnilax
+[03:54:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player bcbba3ce-966c-4a95-ad81-6f39c9638494
+[03:54:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player bcbba3ce-966c-4a95-ad81-6f39c9638494
+[03:54:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Omnilax (bcbba3ce-966c-4a95-ad81-6f39c9638494) successfully connected to voice chat
+[04:14:34] [Server thread/INFO]: Bruggles lost connection: Disconnected
+[04:14:34] [Server thread/INFO]: Bruggles left the game
+[04:14:34] [Server thread/INFO]: [voicechat] Disconnecting client Bruggles
+[04:28:31] [Server thread/INFO]: Omnilax lost connection: Disconnected
+[04:28:31] [Server thread/INFO]: Omnilax left the game
+[04:28:31] [Server thread/INFO]: [voicechat] Disconnecting client Omnilax
+[04:29:31] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[04:40:09] [Server thread/INFO]: CzarsonTzarcia (/75.40.167.175:51758) lost connection: Disconnected
+[04:42:34] [User Authenticator #21/INFO]: UUID of player CzarsonTzarcia is 7856f6e3-6521-4a6a-9222-1176c49eea16
+[04:42:36] [Server thread/INFO]: CzarsonTzarcia[/75.40.167.175:52365] logged in with entity id 388619 at (-1143.685268332947, 63.0, 2275.962374228014)
+[04:42:36] [Server thread/INFO]: CzarsonTzarcia joined the game
+[04:42:37] [Server thread/INFO]: [voicechat] Received secret request of CzarsonTzarcia (20)
+[04:42:37] [Server thread/INFO]: [voicechat] Sent secret to CzarsonTzarcia
+[04:42:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 7856f6e3-6521-4a6a-9222-1176c49eea16
+[04:42:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 7856f6e3-6521-4a6a-9222-1176c49eea16
+[04:42:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player CzarsonTzarcia (7856f6e3-6521-4a6a-9222-1176c49eea16) successfully connected to voice chat
+[04:59:52] [Server thread/INFO]: CzarsonTzarcia tried to swim in lava

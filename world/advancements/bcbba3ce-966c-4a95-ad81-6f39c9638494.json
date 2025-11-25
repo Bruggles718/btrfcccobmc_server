@@ -5881,7 +5881,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-11-21 22:28:57 +0000",
       "minecraft:soul_sand_valley": "2025-11-21 08:25:55 +0000",
-      "minecraft:nether_wastes": "2025-11-21 22:26:31 +0000"
+      "minecraft:nether_wastes": "2025-11-21 22:26:31 +0000",
+      "minecraft:warped_forest": "2025-11-24 10:02:00 +0000"
     },
     "done": false
   },
@@ -6962,13 +6963,13 @@
     },
     "done": true
   },
-  "enchantplus:weapons/sword/fear": {
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
     "criteria": {
-      "requirement": "2025-11-23 21:04:42 +0000"
+      "has_cooked_rabbit": "2025-11-23 20:37:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2025-11-23 20:37:50 +0000"
     },
@@ -6980,9 +6981,483 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+  "enchantplus:weapons/sword/fear": {
     "criteria": {
-      "has_cooked_rabbit": "2025-11-23 20:37:50 +0000"
+      "requirement": "2025-11-23 21:04:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-11-24 09:33:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-11-24 09:33:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-11-24 09:50:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-11-24 09:53:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_ghast": {
+    "criteria": {
+      "has_ghast_tear": "2025-11-24 10:07:48 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_respiration": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_unbreaking": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_smite": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_food": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_lure": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_sea_luck": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_mending": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_feather": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_sweeping": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_arthropods": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_multishot": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_haste": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_soulfrost": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_spell_power": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_efficiency": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_wings": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_protection": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_energy": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_riptide": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_pulling": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_foraging": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_sight": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_combat": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_channeling": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_magic_protection": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_reach": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_impaling": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_power": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_longfoot": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_ice": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_levitation": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_fire": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_loyalty": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_explosion": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_blast_protection": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_sharpness": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_experience": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_knockback": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_smelting": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_sea": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_fortune": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_silk_touch": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_quick_charge": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_health": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_poison_protection": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_thorn": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_density": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_fear": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_refill": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_breach": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_looting": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_vampirism": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_photosynthesis": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_spell_infinity": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_poison": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_projectile_protection": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_wind": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_sunfire": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_capacity": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_critical_spell": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_punch": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_building": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_strike": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_mining": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_piercing": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_agility": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_multi_roll": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_fire_protection": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_arrows": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/essence_of_gravity": {
+    "criteria": {
+      "has_magic_shard_full": "2025-11-24 10:14:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-11-24 10:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-11-24 10:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-11-24 10:36:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-11-24 10:36:37 +0000"
     },
     "done": true
   },

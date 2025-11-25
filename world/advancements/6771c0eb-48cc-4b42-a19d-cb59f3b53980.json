@@ -48,10 +48,13 @@
       "minecraft:sunflower_plains": "2025-11-17 23:41:49 +0000",
       "minecraft:birch_forest": "2025-11-17 22:08:37 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-11-18 21:23:51 +0000",
+      "minecraft:bamboo_jungle": "2025-11-24 10:27:15 +0000",
+      "minecraft:windswept_savanna": "2025-11-24 10:13:29 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-11-17 22:23:10 +0000",
       "minecraft:flower_forest": "2025-11-18 09:28:54 +0000",
       "minecraft:beach": "2025-11-17 21:53:09 +0000",
       "minecraft:dark_forest": "2025-11-18 02:00:22 +0000",
+      "minecraft:mangrove_swamp": "2025-11-24 10:13:36 +0000",
       "minecraft:sparse_jungle": "2025-11-18 03:14:54 +0000",
       "minecraft:river": "2025-11-17 22:07:31 +0000",
       "minecraft:lukewarm_ocean": "2025-11-17 22:20:14 +0000",
@@ -2882,6 +2885,7 @@
       "honey_bottle": "2025-11-18 04:27:50 +0000",
       "suspicious_stew": "2025-11-17 23:05:18 +0000",
       "sweet_berries": "2025-11-18 23:34:45 +0000",
+      "chorus_fruit": "2025-11-24 09:34:11 +0000",
       "baked_potato": "2025-11-18 20:53:40 +0000",
       "melon_slice": "2025-11-18 04:26:54 +0000",
       "pumpkin_pie": "2025-11-18 05:32:11 +0000",
@@ -8613,24 +8617,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2025-11-23 21:13:52 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/birch_hedge": {
-    "criteria": {
-      "has_minecraft:birch_leaves": "2025-11-23 21:14:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/repeater": {
-    "criteria": {
-      "has_redstone_torch": "2025-11-23 21:04:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/chest_minecart": {
     "criteria": {
       "has_minecart": "2025-11-23 20:56:25 +0000"
@@ -8652,6 +8638,78 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2025-11-23 20:56:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-11-23 21:04:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-11-23 21:13:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_hedge": {
+    "criteria": {
+      "has_minecraft:birch_leaves": "2025-11-23 21:14:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-11-24 10:14:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-11-24 09:34:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/stick_from_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2025-11-24 10:14:00 +0000"
+    },
+    "done": true
+  },
+  "enchantplus:armor/leggings/leaping": {
+    "criteria": {
+      "requirement": "2025-11-24 09:37:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2025-11-24 10:14:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-11-24 10:14:00 +0000"
+    },
+    "done": true
+  },
+  "enchantplus:armor/leggings/base": {
+    "criteria": {
+      "leaping": "2025-11-24 09:37:35 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-11-24 09:34:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-11-24 09:29:20 +0000"
     },
     "done": true
   },
