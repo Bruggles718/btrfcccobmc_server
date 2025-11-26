@@ -25,25 +25,39 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:flower_forest": "2025-11-16 09:34:19 +0000",
-      "minecraft:beach": "2025-11-16 07:16:39 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-11-25 06:23:28 +0000",
       "minecraft:mushroom_fields": "2025-11-17 05:56:07 +0000",
       "minecraft:forest": "2025-11-16 07:10:52 +0000",
       "minecraft:taiga": "2025-11-19 05:01:50 +0000",
-      "minecraft:sparse_jungle": "2025-11-18 04:55:48 +0000",
-      "minecraft:river": "2025-11-16 07:25:45 +0000",
-      "minecraft:lukewarm_ocean": "2025-11-16 09:34:39 +0000",
+      "minecraft:deep_ocean": "2025-11-25 06:01:12 +0000",
       "minecraft:lush_caves": "2025-11-16 08:19:41 +0000",
-      "minecraft:dripstone_caves": "2025-11-16 08:20:11 +0000",
-      "minecraft:old_growth_birch_forest": "2025-11-16 07:18:40 +0000",
+      "minecraft:desert": "2025-11-25 06:47:55 +0000",
       "minecraft:ocean": "2025-11-16 09:35:47 +0000",
       "minecraft:jungle": "2025-11-18 04:55:04 +0000",
       "minecraft:cherry_grove": "2025-11-16 09:25:12 +0000",
       "minecraft:sunflower_plains": "2025-11-16 09:34:05 +0000",
       "minecraft:birch_forest": "2025-11-16 08:14:41 +0000",
+      "minecraft:windswept_hills": "2025-11-25 06:21:52 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-11-25 06:22:54 +0000",
+      "minecraft:windswept_savanna": "2025-11-25 07:39:03 +0000",
+      "minecraft:warm_ocean": "2025-11-25 07:38:56 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-11-22 07:48:57 +0000",
+      "minecraft:badlands": "2025-11-25 07:43:20 +0000",
+      "minecraft:flower_forest": "2025-11-16 09:34:19 +0000",
+      "minecraft:savanna_plateau": "2025-11-25 06:42:07 +0000",
+      "minecraft:beach": "2025-11-16 07:16:39 +0000",
+      "minecraft:dark_forest": "2025-11-25 06:24:47 +0000",
+      "minecraft:sparse_jungle": "2025-11-18 04:55:48 +0000",
+      "minecraft:river": "2025-11-16 07:25:45 +0000",
+      "minecraft:lukewarm_ocean": "2025-11-16 09:34:39 +0000",
+      "minecraft:stony_shore": "2025-11-25 06:35:49 +0000",
+      "minecraft:dripstone_caves": "2025-11-16 08:20:11 +0000",
+      "minecraft:old_growth_birch_forest": "2025-11-16 07:18:40 +0000",
+      "minecraft:swamp": "2025-11-25 06:21:22 +0000",
+      "minecraft:meadow": "2025-11-25 06:16:17 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-11-25 06:19:20 +0000",
       "minecraft:savanna": "2025-11-16 07:37:08 +0000",
-      "minecraft:plains": "2025-11-16 07:23:24 +0000",
-      "minecraft:deep_lukewarm_ocean": "2025-11-22 07:48:57 +0000"
+      "minecraft:plains": "2025-11-16 07:23:24 +0000"
     },
     "done": false
   },
@@ -274,6 +288,7 @@
       "minecraft:zombie": "2025-11-16 07:18:10 +0000",
       "minecraft:creeper": "2025-11-16 08:46:47 +0000",
       "minecraft:drowned": "2025-11-21 22:38:53 +0000",
+      "minecraft:husk": "2025-11-25 06:51:49 +0000",
       "minecraft:ghast": "2025-11-21 08:29:13 +0000",
       "minecraft:shulker": "2025-11-18 06:23:03 +0000"
     },
@@ -1626,10 +1641,12 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-11-16 09:32:30 +0000",
+      "bread": "2025-11-25 06:08:42 +0000",
       "rotten_flesh": "2025-11-16 08:33:32 +0000",
       "cookie": "2025-11-17 06:28:19 +0000",
       "cooked_mutton": "2025-11-21 23:42:14 +0000",
       "chorus_fruit": "2025-11-18 06:42:36 +0000",
+      "cooked_beef": "2025-11-25 06:10:58 +0000",
       "baked_potato": "2025-11-21 00:10:59 +0000",
       "porkchop": "2025-11-16 09:26:51 +0000",
       "tropical_fish": "2025-11-17 06:32:38 +0000",
@@ -4487,7 +4504,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:chicken": "2025-11-18 03:47:01 +0000"
+      "minecraft:chicken": "2025-11-18 03:47:01 +0000",
+      "minecraft:rabbit": "2025-11-25 07:25:46 +0000"
     },
     "done": false
   },
@@ -7458,6 +7476,252 @@
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2025-11-24 10:36:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_rich_soil": {
+    "criteria": {
+      "get_rich_soil": "2025-11-25 06:08:01 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
+    "criteria": {
+      "has_bread": "2025-11-25 06:08:39 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/food/steak_sandwich": {
+    "criteria": {
+      "has_cooked_beef": "2025-11-25 06:09:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-11-25 06:52:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-11-25 08:55:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_bricks_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-11-25 08:55:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-11-25 08:25:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-11-25 09:20:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-11-25 08:55:31 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/deepslate_stepping_stones": {
+    "criteria": {
+      "has_minecraft:deepslate": "2025-11-25 09:13:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-11-25 07:44:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-11-25 08:56:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-11-25 08:56:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_stairs": {
+    "criteria": {
+      "has_tuff": "2025-11-25 08:55:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-11-25 08:55:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-11-25 08:55:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-11-25 08:55:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-11-25 08:55:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-11-25 07:28:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-11-25 09:20:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-11-25 08:55:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-11-25 08:56:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-11-25 07:28:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-11-25 08:55:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-11-25 08:56:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_cut_sandstone": "2025-11-25 07:28:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_slab": {
+    "criteria": {
+      "has_tuff": "2025-11-25 08:55:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-11-25 08:55:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_tuff_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-11-25 08:55:31 +0000"
+    },
+    "done": true
+  },
+  "cookingforblockheads:recipes/misc/preservation_chamber": {
+    "criteria": {
+      "has_redstone": "2025-11-25 08:56:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_wall": {
+    "criteria": {
+      "has_tuff": "2025-11-25 08:55:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-11-25 09:20:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-11-25 08:55:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-11-25 08:56:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-11-25 08:56:20 +0000"
+    },
+    "done": true
+  },
+  "cookingforblockheads:recipes/misc/heating_unit": {
+    "criteria": {
+      "has_redstone": "2025-11-25 08:56:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-11-25 08:55:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-11-25 08:57:44 +0000"
+    },
+    "done": true
+  },
+  "cookingforblockheads:recipes/misc/ice_unit": {
+    "criteria": {
+      "has_redstone": "2025-11-25 08:56:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff": {
+    "criteria": {
+      "has_tuff": "2025-11-25 08:55:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-11-25 08:56:20 +0000"
     },
     "done": true
   },

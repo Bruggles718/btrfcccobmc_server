@@ -40,6 +40,7 @@
       "minecraft:deep_ocean": "2025-11-17 23:45:29 +0000",
       "minecraft:lush_caves": "2025-11-18 21:46:34 +0000",
       "minecraft:deep_cold_ocean": "2025-11-19 06:55:39 +0000",
+      "minecraft:desert": "2025-11-25 07:33:48 +0000",
       "minecraft:frozen_river": "2025-11-20 01:20:44 +0000",
       "minecraft:windswept_forest": "2025-11-18 21:35:26 +0000",
       "minecraft:ocean": "2025-11-17 22:20:12 +0000",
@@ -1104,6 +1105,7 @@
       "minecraft:zombified_piglin": "2025-11-22 08:32:16 +0000",
       "minecraft:witch": "2025-11-18 23:18:53 +0000",
       "minecraft:wither_skeleton": "2025-11-18 05:42:29 +0000",
+      "minecraft:husk": "2025-11-25 07:45:36 +0000",
       "minecraft:ghast": "2025-11-21 08:21:25 +0000",
       "minecraft:ender_dragon": "2025-11-22 09:01:03 +0000",
       "minecraft:shulker": "2025-11-18 06:21:27 +0000",
@@ -5590,7 +5592,9 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:chicken": "2025-11-18 03:46:14 +0000",
-      "minecraft:turtle": "2025-11-18 21:19:33 +0000"
+      "minecraft:turtle": "2025-11-18 21:19:33 +0000",
+      "minecraft:sheep": "2025-11-25 06:05:54 +0000",
+      "minecraft:rabbit": "2025-11-25 07:36:07 +0000"
     },
     "done": false
   },
@@ -6356,6 +6360,7 @@
       "minecraft:calico": "2025-11-20 01:28:01 +0000",
       "minecraft:siamese": "2025-11-18 08:46:18 +0000",
       "minecraft:persian": "2025-11-18 08:44:29 +0000",
+      "minecraft:jellie": "2025-11-25 07:13:00 +0000",
       "minecraft:black": "2025-11-19 20:48:20 +0000",
       "minecraft:ragdoll": "2025-11-20 01:33:39 +0000"
     },
@@ -8659,9 +8664,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mangrove_planks": {
+  "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
-      "has_logs": "2025-11-24 10:14:00 +0000"
+      "has_enchanted_golden_apple": "2025-11-24 09:29:20 +0000"
     },
     "done": true
   },
@@ -8671,15 +8676,33 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/stick_from_mangrove_roots": {
+  "minecraft:recipes/decorations/honeycomb_block": {
     "criteria": {
-      "has_mangrove_roots": "2025-11-24 10:14:00 +0000"
+      "has_honeycomb": "2025-11-24 09:34:04 +0000"
     },
     "done": true
   },
   "enchantplus:armor/leggings/leaping": {
     "criteria": {
       "requirement": "2025-11-24 09:37:35 +0000"
+    },
+    "done": true
+  },
+  "enchantplus:armor/leggings/base": {
+    "criteria": {
+      "leaping": "2025-11-24 09:37:35 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-11-24 10:14:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/stick_from_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2025-11-24 10:14:00 +0000"
     },
     "done": true
   },
@@ -8695,21 +8718,123 @@
     },
     "done": true
   },
-  "enchantplus:armor/leggings/base": {
+  "minecraft:nether/get_wither_skull": {
     "criteria": {
-      "leaping": "2025-11-24 09:37:35 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/honeycomb_block": {
-    "criteria": {
-      "has_honeycomb": "2025-11-24 09:34:04 +0000"
+      "wither_skull": "2025-11-25 05:54:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
+  "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
-      "has_enchanted_golden_apple": "2025-11-24 09:29:20 +0000"
+      "has_wither_skeleton_skull": "2025-11-25 05:54:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2025-11-25 07:20:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_cactus_flower": {
+    "criteria": {
+      "has_cactus_flower": "2025-11-25 07:36:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2025-11-25 08:24:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/plate": {
+    "criteria": {
+      "has_minecraft:quartz_block": "2025-11-25 21:11:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-11-25 21:11:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2025-11-25 21:11:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-11-25 21:11:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2025-11-25 21:11:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-11-25 21:11:24 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/food/steak_sandwich": {
+    "criteria": {
+      "has_cooked_beef": "2025-11-25 22:05:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-11-25 21:11:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_the_recipe": "2025-11-25 22:05:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-11-25 21:11:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-11-25 21:11:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-11-25 21:11:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-11-25 21:11:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-11-25 21:11:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_the_recipe": "2025-11-25 22:05:39 +0000"
     },
     "done": true
   },
