@@ -6188,5 +6188,17 @@
     },
     "done": true
   },
+  "enchantplus:armor/boots/agility": {
+    "criteria": {
+      "requirement": "2025-11-26 21:39:39 +0000"
+    },
+    "done": true
+  },
+  "enchantplus:armor/boots/base": {
+    "criteria": {
+      "got_agility": "2025-11-26 21:39:39 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 4556
 }

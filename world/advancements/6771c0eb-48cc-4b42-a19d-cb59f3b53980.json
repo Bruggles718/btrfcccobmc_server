@@ -1112,11 +1112,13 @@
       "minecraft:cave_spider": "2025-11-21 00:31:59 +0000",
       "minecraft:piglin": "2025-11-21 08:32:17 +0000",
       "minecraft:enderman": "2025-11-18 01:45:51 +0000",
+      "minecraft:silverfish": "2025-11-27 03:33:20 +0000",
       "minecraft:magma_cube": "2025-11-19 07:53:41 +0000",
       "minecraft:spider": "2025-11-18 00:06:35 +0000",
       "minecraft:zombie": "2025-11-17 21:50:53 +0000",
       "minecraft:creeper": "2025-11-18 01:59:22 +0000",
       "minecraft:drowned": "2025-11-17 21:54:24 +0000",
+      "minecraft:wither": "2025-11-27 03:36:25 +0000",
       "minecraft:zombie_villager": "2025-11-18 08:54:56 +0000",
       "minecraft:slime": "2025-11-18 21:44:08 +0000"
     },
@@ -8784,21 +8786,9 @@
     },
     "done": true
   },
-  "moredelight:recipes/food/steak_sandwich": {
-    "criteria": {
-      "has_cooked_beef": "2025-11-25 22:05:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_quartz_block": "2025-11-25 21:11:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef_from_smoking": {
-    "criteria": {
-      "has_the_recipe": "2025-11-25 22:05:46 +0000"
     },
     "done": true
   },
@@ -8832,9 +8822,39 @@
     },
     "done": true
   },
+  "moredelight:recipes/food/steak_sandwich": {
+    "criteria": {
+      "has_cooked_beef": "2025-11-25 22:05:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_the_recipe": "2025-11-25 22:05:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_the_recipe": "2025-11-25 22:05:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-11-27 03:36:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-11-27 03:21:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-11-27 03:35:22 +0000"
     },
     "done": true
   },
