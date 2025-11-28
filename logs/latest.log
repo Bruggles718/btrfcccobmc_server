@@ -1,40 +1,151 @@
-[03:12:03] [User Authenticator #43/INFO]: UUID of player FlameWear is 6771c0eb-48cc-4b42-a19d-cb59f3b53980
-[03:12:06] [Server thread/INFO]: FlameWear[/70.131.184.145:51787] logged in with entity id 925246 at (-760.8723807024986, 67.0625, 314.81179465812926)
-[03:12:06] [Server thread/INFO]: FlameWear joined the game
-[03:12:07] [Server thread/INFO]: [voicechat] Received secret request of FlameWear (20)
-[03:12:07] [Server thread/INFO]: [voicechat] Sent secret to FlameWear
-[03:12:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 6771c0eb-48cc-4b42-a19d-cb59f3b53980
-[03:12:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 6771c0eb-48cc-4b42-a19d-cb59f3b53980
-[03:12:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player FlameWear (6771c0eb-48cc-4b42-a19d-cb59f3b53980) successfully connected to voice chat
-[03:17:40] [Server thread/INFO]: FlameWear was slain by Wither Skeleton
-[03:25:00] [Server thread/INFO]: FlameWear was slain by Wither Skeleton
-[03:30:14] [Server thread/INFO]: FlameWear withered away
-[03:35:22] [Server thread/INFO]: FlameWear has made the advancement [Withering Heights]
-[03:35:50] [Server thread/INFO]: FlameWear withered away while fighting Wither
-[03:36:06] [Server thread/INFO]: FlameWear withered away while fighting Wither
-[03:36:21] [Server thread/INFO]: FlameWear withered away while fighting Wither
-[03:38:07] [Server thread/INFO]: FlameWear lost connection: Disconnected
-[03:38:07] [Server thread/INFO]: FlameWear left the game
-[03:38:07] [Server thread/INFO]: [voicechat] Disconnecting client FlameWear
-[03:39:07] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[04:02:25] [User Authenticator #44/INFO]: UUID of player Omnilax is bcbba3ce-966c-4a95-ad81-6f39c9638494
-[04:02:27] [Server thread/INFO]: Omnilax[/73.124.223.163:56992] logged in with entity id 934249 at (-756.3000000119209, 68.1, 318.69999998807907)
-[04:02:27] [Server thread/INFO]: Omnilax joined the game
-[04:02:28] [Server thread/INFO]: [voicechat] Received secret request of Omnilax (20)
-[04:02:28] [Server thread/INFO]: [voicechat] Sent secret to Omnilax
-[04:02:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player bcbba3ce-966c-4a95-ad81-6f39c9638494
-[04:02:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player bcbba3ce-966c-4a95-ad81-6f39c9638494
-[04:02:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Omnilax (bcbba3ce-966c-4a95-ad81-6f39c9638494) successfully connected to voice chat
-[04:23:46] [Server thread/INFO]: Omnilax tried to swim in lava
-[04:53:11] [Server thread/INFO]: Omnilax lost connection: Disconnected
-[04:53:11] [Server thread/INFO]: Omnilax left the game
-[04:53:11] [Server thread/INFO]: [voicechat] Disconnecting client Omnilax
-[04:54:11] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[04:58:54] [User Authenticator #45/INFO]: UUID of player Omnilax is bcbba3ce-966c-4a95-ad81-6f39c9638494
-[04:58:56] [Server thread/INFO]: Omnilax[/73.124.223.163:58122] logged in with entity id 946275 at (3324.699999988079, 32.0, 2095.699999988079)
-[04:58:56] [Server thread/INFO]: Omnilax joined the game
-[04:58:56] [Server thread/INFO]: [voicechat] Received secret request of Omnilax (20)
-[04:58:56] [Server thread/INFO]: [voicechat] Sent secret to Omnilax
-[04:58:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player bcbba3ce-966c-4a95-ad81-6f39c9638494
-[04:58:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player bcbba3ce-966c-4a95-ad81-6f39c9638494
-[04:58:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Omnilax (bcbba3ce-966c-4a95-ad81-6f39c9638494) successfully connected to voice chat
+[00:01:18] [Server thread/INFO]: Omnilax lost connection: Disconnected
+[00:01:18] [Server thread/INFO]: Omnilax left the game
+[00:01:18] [Server thread/INFO]: [voicechat] Disconnecting client Omnilax
+[00:02:18] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:56:33] [User Authenticator #51/INFO]: UUID of player CzarsonTzarcia is 7856f6e3-6521-4a6a-9222-1176c49eea16
+[00:56:36] [Server thread/INFO]: CzarsonTzarcia[/75.40.167.175:50120] logged in with entity id 1080171 at (-1142.9487740173427, 63.0, 2278.5131989551237)
+[00:56:36] [Server thread/INFO]: CzarsonTzarcia joined the game
+[00:56:36] [Server thread/INFO]: [voicechat] Received secret request of CzarsonTzarcia (20)
+[00:56:36] [Server thread/INFO]: [voicechat] Sent secret to CzarsonTzarcia
+[00:56:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 7856f6e3-6521-4a6a-9222-1176c49eea16
+[00:56:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 7856f6e3-6521-4a6a-9222-1176c49eea16
+[00:56:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player CzarsonTzarcia (7856f6e3-6521-4a6a-9222-1176c49eea16) successfully connected to voice chat
+[00:57:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 7856f6e3-6521-4a6a-9222-1176c49eea16 timed out
+[00:57:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player CzarsonTzarcia
+[00:57:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to CzarsonTzarcia
+[00:58:06] [Server thread/INFO]: CzarsonTzarcia lost connection: Timed out
+[00:58:06] [Server thread/INFO]: CzarsonTzarcia left the game
+[00:58:06] [Server thread/INFO]: [voicechat] Disconnecting client CzarsonTzarcia
+[00:58:24] [User Authenticator #52/INFO]: UUID of player CzarsonTzarcia is 7856f6e3-6521-4a6a-9222-1176c49eea16
+[00:58:31] [Server thread/INFO]: CzarsonTzarcia[/75.40.167.175:59950] logged in with entity id 1080660 at (-1151.9438288079712, 63.0, 2274.1719009971725)
+[00:58:31] [Server thread/INFO]: CzarsonTzarcia joined the game
+[00:58:32] [Server thread/INFO]: [voicechat] Received secret request of CzarsonTzarcia (20)
+[00:58:32] [Server thread/INFO]: [voicechat] Sent secret to CzarsonTzarcia
+[00:58:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 7856f6e3-6521-4a6a-9222-1176c49eea16
+[00:58:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 7856f6e3-6521-4a6a-9222-1176c49eea16
+[00:58:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player CzarsonTzarcia (7856f6e3-6521-4a6a-9222-1176c49eea16) successfully connected to voice chat
+[01:17:30] [User Authenticator #53/INFO]: UUID of player Laxidaze3 is 718fd999-d407-428c-bd79-690386a1caad
+[01:17:34] [Server thread/INFO]: Laxidaze3[/70.173.193.208:60755] logged in with entity id 1084784 at (-900.117920802284, 64.0, 738.2164934609033)
+[01:17:34] [Server thread/INFO]: Laxidaze3 joined the game
+[01:17:36] [Server thread/INFO]: [voicechat] Received secret request of Laxidaze3 (20)
+[01:17:36] [Server thread/INFO]: [voicechat] Sent secret to Laxidaze3
+[01:17:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 718fd999-d407-428c-bd79-690386a1caad
+[01:17:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 718fd999-d407-428c-bd79-690386a1caad
+[01:17:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Laxidaze3 (718fd999-d407-428c-bd79-690386a1caad) successfully connected to voice chat
+[01:20:00] [Server thread/INFO]: <[Air] Laxidaze3> join VC
+[01:55:41] [Server thread/WARN]: CzarsonTzarcia moved too quickly! 1911.4953058854096,24.5,9893.42469188857
+[02:21:19] [Server thread/INFO]: Laxidaze3 tried to swim in lava
+[02:23:06] [Server thread/INFO]: Laxidaze3 tried to swim in lava to escape Piglin
+[02:24:57] [Server thread/INFO]: Laxidaze3 tried to swim in lava
+[02:31:48] [Server thread/WARN]: Laxidaze3 moved wrongly!
+[02:39:21] [Server thread/INFO]: Laxidaze3 fell out of the world
+[02:44:45] [Server thread/WARN]: CzarsonTzarcia moved too quickly! -279.608628178053,-1.5,1525.4118552541265
+[02:48:59] [Server thread/WARN]: Laxidaze3 moved too quickly! -0.6161275499530348,-2.568762240180547,17.732533290899937
+[02:49:47] [Server thread/WARN]: CzarsonTzarcia moved too quickly! -9.79343522593581,-2.3070800230889574,-15.122989069636787
+[02:49:47] [Server thread/WARN]: Laxidaze3 moved too quickly! -17.105984597595125,3.8683873289279234,-1.8945566617451277
+[02:51:04] [Server thread/WARN]: Laxidaze3 moved too quickly! 17.99125547331448,-4.511206562591028,-0.09912027487371233
+[03:11:13] [Server thread/WARN]: CzarsonTzarcia moved too quickly! 15.95650849555841,-1.947307719508089,-10.288224474486867
+[03:11:22] [Server thread/WARN]: CzarsonTzarcia moved too quickly! 16.05522123765934,-3.1443693020128762,-9.581323685924758
+[03:11:34] [Server thread/WARN]: CzarsonTzarcia moved too quickly! 16.14098402052427,-2.1928260644818067,-8.280629100756471
+[03:11:42] [Server thread/WARN]: Laxidaze3 moved too quickly! -13.920730376089978,-4.452299564881741,12.14463905789512
+[03:11:42] [Server thread/WARN]: CzarsonTzarcia moved too quickly! 15.23747684019476,-0.15597619177965782,-10.772240791651456
+[03:11:46] [Server thread/WARN]: CzarsonTzarcia moved too quickly! 11.055139581706413,11.970656215597089,-8.759055605510653
+[03:11:46] [Server thread/WARN]: Laxidaze3 moved too quickly! -13.036469725039751,5.006281515295939,12.602344998282206
+[03:13:45] [Server thread/WARN]: CzarsonTzarcia moved too quickly! 9.31874322117119,-13.024062009678062,-7.4778285813138154
+[03:13:45] [Server thread/WARN]: Laxidaze3 moved too quickly! -7.660597793792931,16.068833971246747,0.5215286067955276
+[03:14:24] [Server thread/WARN]: Laxidaze3 moved too quickly! -18.544312994590655,-0.7875909424010246,0.04108257083544231
+[03:15:04] [User Authenticator #54/INFO]: UUID of player FlameWear is 6771c0eb-48cc-4b42-a19d-cb59f3b53980
+[03:15:07] [Server thread/INFO]: FlameWear[/70.131.184.145:64147] logged in with entity id 1156325 at (-746.9343474202059, 66.0, 312.32377794103036)
+[03:15:07] [Server thread/INFO]: FlameWear joined the game
+[03:15:08] [Server thread/INFO]: [voicechat] Received secret request of FlameWear (20)
+[03:15:08] [Server thread/INFO]: [voicechat] Sent secret to FlameWear
+[03:15:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 6771c0eb-48cc-4b42-a19d-cb59f3b53980
+[03:15:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 6771c0eb-48cc-4b42-a19d-cb59f3b53980
+[03:15:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player FlameWear (6771c0eb-48cc-4b42-a19d-cb59f3b53980) successfully connected to voice chat
+[03:15:18] [Server thread/INFO]: <[Air] Laxidaze3> we are both flying in elytra so it might lag
+[03:15:27] [Server thread/INFO]: <[Air] Laxidaze3> will lag
+[03:15:31] [Server thread/INFO]: <[Air] FlameWear> do you still need a mesa biome?
+[03:15:59] [Server thread/INFO]: <CzarsonTzarcia> no
+[03:18:41] [Server thread/INFO]: FlameWear lost connection: Disconnected
+[03:18:41] [Server thread/INFO]: FlameWear left the game
+[03:18:41] [Server thread/INFO]: [voicechat] Disconnecting client FlameWear
+[03:20:02] [Server thread/WARN]: Laxidaze3 moved too quickly! -15.476729660520505,5.867810330097498,-5.573269652800263
+[03:20:53] [Server thread/WARN]: Laxidaze3 moved too quickly! -8.635425121872686,-4.409714356542025,-15.024527719545404
+[03:21:09] [User Authenticator #55/INFO]: UUID of player FlameWear is 6771c0eb-48cc-4b42-a19d-cb59f3b53980
+[03:21:10] [Server thread/INFO]: FlameWear[/70.131.184.145:64271] logged in with entity id 1172508 at (-759.3102312414408, 67.0, 312.2201305498139)
+[03:21:10] [Server thread/INFO]: FlameWear joined the game
+[03:21:11] [Server thread/INFO]: [voicechat] Received secret request of FlameWear (20)
+[03:21:11] [Server thread/INFO]: [voicechat] Sent secret to FlameWear
+[03:21:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 6771c0eb-48cc-4b42-a19d-cb59f3b53980
+[03:21:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 6771c0eb-48cc-4b42-a19d-cb59f3b53980
+[03:21:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player FlameWear (6771c0eb-48cc-4b42-a19d-cb59f3b53980) successfully connected to voice chat
+[03:21:24] [Server thread/INFO]: <[Air] Laxidaze3> we are done loading chunks
+[03:21:28] [Server thread/INFO]: <CzarsonTzarcia> yo you got the sepia tint goggles on?
+[03:21:42] [Server thread/INFO]: <[Air] FlameWear> you can charge creepers with firebending
+[03:21:54] [Server thread/INFO]: <CzarsonTzarcia> what is that good for?
+[03:22:01] [Server thread/INFO]: <[Air] FlameWear> mob heads
+[03:22:14] [Server thread/INFO]: <CzarsonTzarcia> huh
+[03:22:21] [Server thread/INFO]: <[Air] FlameWear> a firebender coujld corner the market
+[03:22:25] [Server thread/INFO]: <CzarsonTzarcia> true
+[03:22:54] [Server thread/INFO]: <CzarsonTzarcia> thats what I was thinking but I dont think its actually been established if we want a warket yet
+[03:23:07] [Server thread/INFO]: <[Air] Laxidaze3> I was really eying the skeleton heads
+[03:23:30] [Server thread/INFO]: <[Air] FlameWear> ive been assuming we wanna do capitalism
+[03:23:38] [Server thread/INFO]: <[Air] FlameWear> yea infinity and such
+[03:26:30] [VoiceChatPacketProcessingThread/WARN]: [voicechat] Dropping voice chat packets! Your Server might be overloaded!
+[03:26:30] [VoiceChatPacketProcessingThread/WARN]: [voicechat] Packet queue has 69 packets
+[03:37:44] [Server thread/INFO]: Laxidaze3 was blown up by Creeper
+[03:37:53] [VoiceChatPacketProcessingThread/WARN]: [voicechat] Dropping voice chat packets! Your Server might be overloaded!
+[03:37:53] [VoiceChatPacketProcessingThread/WARN]: [voicechat] Packet queue has 173 packets
+[03:38:45] [Server thread/WARN]: Laxidaze3 moved too quickly! -14.388618670118376,2.240254800423415,10.572361973717761
+[03:38:47] [Server thread/WARN]: Laxidaze3 moved too quickly! -13.767688751091555,-1.5543630230564105,11.363867710196246
+[03:38:49] [Server thread/WARN]: Laxidaze3 moved too quickly! -16.197864549330916,-2.6274340219003136,9.618645122729504
+[03:38:52] [VoiceChatPacketProcessingThread/WARN]: [voicechat] Dropping voice chat packets! Your Server might be overloaded!
+[03:38:52] [VoiceChatPacketProcessingThread/WARN]: [voicechat] Packet queue has 79 packets
+[03:38:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2492ms or 49 ticks behind
+[03:38:54] [Server thread/WARN]: Laxidaze3 moved too quickly! -15.17358123582926,-3.627250737079052,9.362899582425598
+[03:39:07] [Server thread/WARN]: Laxidaze3 moved too quickly! -15.655905843768778,-4.60932117073196,8.66709086262972
+[03:39:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2360ms or 47 ticks behind
+[03:39:14] [Server thread/WARN]: Laxidaze3 moved too quickly! -16.46892236183521,-2.626023248770707,7.483706484244522
+[03:39:25] [Server thread/WARN]: Laxidaze3 moved too quickly! -9.115118693607656,0.0,4.768580545520308
+[03:39:25] [Server thread/WARN]: FlameWear moved wrongly!
+[03:39:25] [Server thread/WARN]: CzarsonTzarcia moved too quickly! -3.8215750720983124,0.7461092740512356,-9.268465878510597
+[03:39:27] [VoiceChatPacketProcessingThread/WARN]: [voicechat] Dropping voice chat packets! Your Server might be overloaded!
+[03:39:27] [VoiceChatPacketProcessingThread/WARN]: [voicechat] Packet queue has 98 packets
+[03:39:27] [Server thread/WARN]: Laxidaze3 moved too quickly! -10.226602813780119,0.0,-0.30774435312468995
+[03:39:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2806ms or 56 ticks behind
+[03:39:35] [Server thread/WARN]: Laxidaze3 moved too quickly! -13.065526385775229,4.396033508575201,11.158195199051534
+[03:39:51] [Server thread/WARN]: Laxidaze3 moved too quickly! -14.839239720078695,6.70852389666527,7.7757352600456215
+[03:39:57] [Server thread/WARN]: Laxidaze3 moved too quickly! -2.761171350182849,-9.217526522137867,14.637960158480837
+[03:40:16] [Server thread/INFO]: FlameWear lost connection: Disconnected
+[03:40:16] [Server thread/INFO]: FlameWear left the game
+[03:40:16] [Server thread/INFO]: [voicechat] Disconnecting client FlameWear
+[04:00:00] [User Authenticator #56/INFO]: UUID of player Omnilax is bcbba3ce-966c-4a95-ad81-6f39c9638494
+[04:00:02] [Server thread/INFO]: Omnilax[/73.124.223.163:63097] logged in with entity id 1195700 at (272.4844382584247, 0.875, 29.420990088915378)
+[04:00:02] [Server thread/INFO]: Omnilax joined the game
+[04:00:03] [Server thread/INFO]: [voicechat] Received secret request of Omnilax (20)
+[04:00:03] [Server thread/INFO]: [voicechat] Sent secret to Omnilax
+[04:00:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player bcbba3ce-966c-4a95-ad81-6f39c9638494
+[04:00:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player bcbba3ce-966c-4a95-ad81-6f39c9638494
+[04:00:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Omnilax (bcbba3ce-966c-4a95-ad81-6f39c9638494) successfully connected to voice chat
+[04:03:10] [VoiceChatPacketProcessingThread/WARN]: [voicechat] Dropping voice chat packets! Your Server might be overloaded!
+[04:03:10] [VoiceChatPacketProcessingThread/WARN]: [voicechat] Packet queue has 40 packets
+[04:05:02] [Server thread/INFO]: Omnilax lost connection: Disconnected
+[04:05:02] [Server thread/INFO]: Omnilax left the game
+[04:05:02] [Server thread/INFO]: [voicechat] Disconnecting client Omnilax
+[04:05:33] [Server thread/WARN]: Laxidaze3 moved too quickly! 3.0945046137057943,-2.7099923756620683,18.26527761292391
+[04:05:38] [Server thread/WARN]: Laxidaze3 moved too quickly! 0.22094729834861937,-3.4739705548201982,18.354060241404568
+[04:05:43] [Server thread/WARN]: Laxidaze3 moved too quickly! 13.911265878878112,5.23998011931053,10.003975846819685
+[04:05:48] [Server thread/WARN]: Laxidaze3 moved too quickly! 14.220971152781203,5.242587794749667,9.995200367878624
+[04:06:13] [Server thread/WARN]: Laxidaze3 moved too quickly! 16.82037707253039,0.4613324173900395,6.765435565180269
+[04:06:17] [Server thread/WARN]: Laxidaze3 moved too quickly! 14.17648475932765,9.415813621783172,5.572706473931703
+[04:06:20] [VoiceChatPacketProcessingThread/WARN]: [voicechat] Dropping voice chat packets! Your Server might be overloaded!
+[04:06:20] [VoiceChatPacketProcessingThread/WARN]: [voicechat] Packet queue has 56 packets
+[04:06:20] [Server thread/WARN]: Laxidaze3 moved too quickly! 16.70396474039626,-1.1246094087800316,7.883204939906591
+[04:06:23] [Server thread/WARN]: Laxidaze3 moved too quickly! 16.038060795368438,-1.4814635070560769,6.8657660096700965
+[04:17:43] [Server thread/INFO]: Laxidaze3 was slain by Warden
+[04:26:22] [Server thread/INFO]: Laxidaze3 was obliterated by a sonically-charged shriek
+[04:28:47] [Server thread/INFO]: CzarsonTzarcia tried to swim in lava
+[04:36:37] [Server thread/INFO]: <[Air] Laxidaze3> 124 TO 108 1 point blocks
+[04:36:50] [Server thread/INFO]: <[Air] Laxidaze3> 35 TO 56 3 point blocks
+[04:37:06] [Server thread/INFO]: <[Air] Laxidaze3> 3 to 22 5 point blocks
+[04:37:30] [Server thread/INFO]: <[Air] Laxidaze3> 17 to 14 15 Point Blocks
