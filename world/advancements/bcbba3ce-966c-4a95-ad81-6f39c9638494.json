@@ -282,15 +282,16 @@
       "minecraft:pillager": "2025-11-21 07:40:09 +0000",
       "minecraft:skeleton": "2025-11-16 08:34:52 +0000",
       "minecraft:phantom": "2025-11-19 05:17:22 +0000",
+      "minecraft:wither_skeleton": "2025-11-22 08:28:19 +0000",
+      "minecraft:husk": "2025-11-25 06:51:49 +0000",
+      "minecraft:ghast": "2025-11-21 08:29:13 +0000",
+      "minecraft:shulker": "2025-11-18 06:23:03 +0000",
       "minecraft:enderman": "2025-11-17 05:14:42 +0000",
       "minecraft:spider": "2025-11-16 07:41:22 +0000",
-      "minecraft:wither_skeleton": "2025-11-22 08:28:19 +0000",
       "minecraft:zombie": "2025-11-16 07:18:10 +0000",
       "minecraft:creeper": "2025-11-16 08:46:47 +0000",
       "minecraft:drowned": "2025-11-21 22:38:53 +0000",
-      "minecraft:husk": "2025-11-25 06:51:49 +0000",
-      "minecraft:ghast": "2025-11-21 08:29:13 +0000",
-      "minecraft:shulker": "2025-11-18 06:23:03 +0000"
+      "minecraft:slime": "2025-11-28 07:29:51 +0000"
     },
     "done": false
   },
@@ -7746,6 +7747,84 @@
   "minecraft:recipes/combat/wolf_armor": {
     "criteria": {
       "has_armadillo_scute": "2025-11-27 17:42:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-11-28 07:31:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-11-28 07:31:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-11-28 07:48:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/granite_stepping_stones": {
+    "criteria": {
+      "has_minecraft:granite": "2025-11-28 07:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-11-28 07:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-11-28 07:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-11-28 07:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-11-28 07:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-11-28 07:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-11-28 07:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-11-28 07:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-11-28 07:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-11-28 07:48:00 +0000"
     },
     "done": true
   },

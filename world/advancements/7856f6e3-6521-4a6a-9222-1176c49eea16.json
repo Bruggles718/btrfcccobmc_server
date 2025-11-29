@@ -653,15 +653,16 @@
     "criteria": {
       "cooked_porkchop": "2025-11-19 00:26:20 +0000",
       "mutton": "2025-11-17 04:48:49 +0000",
-      "apple": "2025-11-18 02:10:50 +0000",
       "bread": "2025-11-25 06:41:28 +0000",
-      "cooked_chicken": "2025-11-24 05:12:48 +0000",
       "rotten_flesh": "2025-11-18 07:23:21 +0000",
       "cooked_mutton": "2025-11-18 03:16:05 +0000",
+      "sweet_berries": "2025-11-28 05:16:51 +0000",
       "cooked_beef": "2025-11-18 02:19:49 +0000",
       "chorus_fruit": "2025-11-27 06:38:21 +0000",
       "baked_potato": "2025-11-25 05:11:01 +0000",
       "melon_slice": "2025-11-27 08:27:16 +0000",
+      "apple": "2025-11-18 02:10:50 +0000",
+      "cooked_chicken": "2025-11-24 05:12:48 +0000",
       "pumpkin_pie": "2025-11-17 04:57:27 +0000"
     },
     "done": false
@@ -7342,6 +7343,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-11-28 06:25:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-11-28 06:25:09 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_chair": {
     "criteria": {
       "has_minecraft:dark_oak_planks": "2025-11-28 02:04:19 +0000"
@@ -7357,6 +7370,30 @@
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-11-28 02:04:19 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/plate": {
+    "criteria": {
+      "has_minecraft:quartz_block": "2025-11-28 05:05:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-11-28 05:05:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_chair": {
+    "criteria": {
+      "has_minecraft:mangrove_planks": "2025-11-28 07:26:13 +0000"
+    },
+    "done": true
+  },
+  "cookingforblockheads:recipes/decorations/counter": {
+    "criteria": {
+      "has_terracotta": "2025-11-28 06:25:09 +0000"
     },
     "done": true
   },
@@ -7378,6 +7415,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_mail_box": {
+    "criteria": {
+      "has_minecraft:mangrove_planks": "2025-11-28 07:26:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2025-11-28 05:05:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2025-11-28 02:24:54 +0000"
@@ -7387,6 +7436,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_crate": {
     "criteria": {
       "has_minecraft:cherry_planks": "2025-11-28 03:05:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_cabinetry": {
+    "criteria": {
+      "has_minecraft:mangrove_planks": "2025-11-28 07:26:13 +0000"
     },
     "done": true
   },
@@ -7426,6 +7481,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mangrove_stairs": {
+    "criteria": {
+      "has_planks": "2025-11-28 07:26:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-11-28 06:25:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-11-28 03:06:59 +0000"
@@ -7438,9 +7505,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_table": {
+    "criteria": {
+      "has_minecraft:mangrove_planks": "2025-11-28 07:26:13 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_mail_box": {
     "criteria": {
       "has_minecraft:cherry_planks": "2025-11-28 03:05:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-11-28 06:25:09 +0000"
     },
     "done": true
   },
@@ -7462,6 +7541,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_crate": {
+    "criteria": {
+      "has_minecraft:mangrove_planks": "2025-11-28 07:26:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-11-28 06:25:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/suspicious_stew_from_open_eyeblossom": {
     "criteria": {
       "has_open_eyeblossom": "2025-11-28 01:16:42 +0000"
@@ -7474,6 +7565,24 @@
     },
     "done": true
   },
+  "cookingforblockheads:recipes/decorations/connector": {
+    "criteria": {
+      "has_terracotta": "2025-11-28 06:25:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-11-28 05:57:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-11-28 05:05:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_trapdoor": {
     "criteria": {
       "has_planks": "2025-11-28 03:05:00 +0000"
@@ -7483,6 +7592,12 @@
   "minecraft:recipes/redstone/cherry_button": {
     "criteria": {
       "has_planks": "2025-11-28 03:05:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_door": {
+    "criteria": {
+      "has_planks": "2025-11-28 07:26:13 +0000"
     },
     "done": true
   },
@@ -7504,9 +7619,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-11-28 06:25:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-11-28 06:25:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-11-28 03:06:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-11-28 06:25:09 +0000"
     },
     "done": true
   },
@@ -7516,9 +7649,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2025-11-28 05:05:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-11-28 06:25:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-11-28 03:06:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-11-28 05:05:06 +0000"
     },
     "done": true
   },
@@ -7543,6 +7694,12 @@
   "minecraft:recipes/decorations/blue_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-11-28 03:06:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_cutting_board": {
+    "criteria": {
+      "has_minecraft:mangrove_planks": "2025-11-28 07:26:13 +0000"
     },
     "done": true
   },
@@ -7588,6 +7745,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_minecraft:mangrove_planks": "2025-11-28 07:26:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2025-11-28 02:04:19 +0000"
@@ -7612,6 +7775,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/mangrove_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-11-28 07:26:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-11-28 03:06:59 +0000"
@@ -7624,6 +7793,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-11-28 05:05:06 +0000"
+    },
+    "done": true
+  },
   "enchantplus:armor/helmet/bright_vision": {
     "criteria": {
       "requirement": "2025-11-28 03:08:34 +0000"
@@ -7633,6 +7808,12 @@
   "minecraft:recipes/decorations/gray_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-11-28 03:06:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-11-28 05:05:06 +0000"
     },
     "done": true
   },
@@ -7654,9 +7835,33 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_drawer": {
+    "criteria": {
+      "has_minecraft:mangrove_planks": "2025-11-28 07:26:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-11-28 05:05:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_desk": {
+    "criteria": {
+      "has_minecraft:mangrove_planks": "2025-11-28 07:26:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-11-28 03:06:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-11-28 05:05:06 +0000"
     },
     "done": true
   },
@@ -7672,9 +7877,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mangrove_fence": {
+    "criteria": {
+      "has_planks": "2025-11-28 07:26:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-11-28 06:25:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-11-28 03:06:59 +0000"
+    },
+    "done": true
+  },
+  "cookingforblockheads:recipes/decorations/cabinet": {
+    "criteria": {
+      "has_terracotta": "2025-11-28 06:25:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-11-28 06:25:09 +0000"
     },
     "done": true
   },
@@ -7714,6 +7943,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/mangrove_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-11-28 07:26:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-11-28 03:06:59 +0000"
@@ -7726,15 +7961,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/mangrove_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-11-28 07:26:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_sign": {
+    "criteria": {
+      "has_planks": "2025-11-28 07:26:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-11-28 06:25:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_button": {
+    "criteria": {
+      "has_planks": "2025-11-28 07:26:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2025-11-28 01:38:16 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-11-28 05:05:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-11-28 03:06:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-11-28 06:25:09 +0000"
     },
     "done": true
   },
@@ -7750,9 +8021,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-11-28 05:05:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_glazed_terracotta": {
+    "criteria": {
+      "has_black_terracotta": "2025-11-28 07:49:40 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_desk": {
     "criteria": {
       "has_minecraft:dark_oak_planks": "2025-11-28 02:04:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-11-28 06:25:09 +0000"
     },
     "done": true
   },
@@ -7771,6 +8060,30 @@
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-11-28 02:04:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_slab": {
+    "criteria": {
+      "has_planks": "2025-11-28 07:26:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-11-28 06:25:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-11-28 06:25:09 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_drawer": {
+    "criteria": {
+      "has_minecraft:mangrove_planks": "2025-11-28 07:26:13 +0000"
     },
     "done": true
   },
