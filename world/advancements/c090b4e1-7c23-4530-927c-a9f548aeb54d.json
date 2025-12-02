@@ -2857,6 +2857,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-12-01 05:23:17 +0000"
+    },
+    "done": true
+  },
   "waystones:recipes/decorations/dormant_shard": {
     "criteria": {
       "has_amethyst_shard": "2025-12-01 04:58:01 +0000"

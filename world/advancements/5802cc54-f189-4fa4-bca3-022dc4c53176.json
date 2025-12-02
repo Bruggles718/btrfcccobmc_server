@@ -6304,6 +6304,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-12-01 03:19:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-12-01 03:19:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2025-12-01 03:25:49 +0000"
@@ -6316,21 +6328,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_wart_block": {
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
-      "has_nether_wart": "2025-12-01 03:19:25 +0000"
-    },
-    "done": true
-  },
-  "enchantplus:armor/leggings/leaping": {
-    "criteria": {
-      "requirement": "2025-12-01 04:49:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_bricks": {
-    "criteria": {
-      "has_nether_wart": "2025-12-01 03:19:25 +0000"
+      "has_kelp": "2025-12-01 03:25:49 +0000"
     },
     "done": true
   },
@@ -6346,9 +6346,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
+  "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
-      "has_kelp": "2025-12-01 03:25:49 +0000"
+      "has_rail": "2025-12-01 03:48:28 +0000"
+    },
+    "done": true
+  },
+  "enchantplus:armor/leggings/leaping": {
+    "criteria": {
+      "requirement": "2025-12-01 04:49:45 +0000"
     },
     "done": true
   },
@@ -6358,9 +6364,69 @@
     },
     "done": false
   },
-  "minecraft:recipes/transportation/powered_rail": {
+  "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
-      "has_rail": "2025-12-01 03:48:28 +0000"
+      "has_poppy": "2025-12-02 04:34:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-12-02 04:34:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-12-02 04:34:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-12-02 04:34:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-12-02 04:34:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-12-02 04:34:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-12-02 04:34:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-12-02 04:34:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-12-02 04:34:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-12-02 04:34:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-12-02 04:40:48 +0000"
     },
     "done": true
   },
