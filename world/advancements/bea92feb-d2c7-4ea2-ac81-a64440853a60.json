@@ -3427,15 +3427,21 @@
     },
     "done": false
   },
-  "minecraft:recipes/food/suspicious_stew_from_allium": {
-    "criteria": {
-      "has_allium": "2025-12-02 00:31:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-12-01 23:38:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-12-01 23:38:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-12-01 23:38:51 +0000"
     },
     "done": true
   },
@@ -3451,21 +3457,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_allium": {
-    "criteria": {
-      "has_allium": "2025-12-02 00:31:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cut_copper": {
     "criteria": {
       "has_copper_block": "2025-12-02 00:03:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/tnt_minecart": {
-    "criteria": {
-      "has_minecart": "2025-12-02 00:26:36 +0000"
     },
     "done": true
   },
@@ -3475,24 +3469,11 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2025-12-02 00:26:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_copper_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-12-02 00:03:05 +0000"
     },
     "done": true
-  },
-  "farmersdelight:main/plant_all_crops": {
-    "criteria": {
-      "sugar_cane": "2025-12-02 00:31:33 +0000",
-      "wheat": "2025-12-02 00:25:26 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
     "criteria": {
@@ -3500,9 +3481,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_allium": {
+  "minecraft:recipes/misc/copper_ingot": {
     "criteria": {
-      "has_allium": "2025-12-02 00:31:23 +0000"
+      "has_copper_block": "2025-12-02 00:03:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_bulb": {
+    "criteria": {
+      "has_copper_block": "2025-12-02 00:03:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_grate": {
+    "criteria": {
+      "has_copper_block": "2025-12-02 00:03:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-12-02 00:03:05 +0000"
     },
     "done": true
   },
@@ -3518,27 +3517,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/detector_rail": {
+  "minecraft:recipes/brewing/cauldron": {
     "criteria": {
-      "has_rail": "2025-12-02 00:26:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot": {
-    "criteria": {
-      "has_copper_block": "2025-12-02 00:03:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/chest_minecart": {
-    "criteria": {
-      "has_minecart": "2025-12-02 00:26:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/copper_bulb": {
-    "criteria": {
-      "has_copper_block": "2025-12-02 00:03:05 +0000"
+      "has_water_bucket": "2025-12-02 00:08:41 +0000"
     },
     "done": true
   },
@@ -3548,35 +3529,12 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/furnace_minecart": {
+  "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "has_minecart": "2025-12-02 00:26:36 +0000"
+      "sugar_cane": "2025-12-02 00:31:33 +0000",
+      "wheat": "2025-12-02 00:25:26 +0000"
     },
-    "done": true
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-12-01 23:38:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/hopper_minecart": {
-    "criteria": {
-      "has_minecart": "2025-12-02 00:26:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/copper_grate": {
-    "criteria": {
-      "has_copper_block": "2025-12-02 00:03:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2025-12-02 00:08:41 +0000"
-    },
-    "done": true
+    "done": false
   },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
@@ -3584,15 +3542,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+  "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
-      "has_copper_block": "2025-12-02 00:03:05 +0000"
+      "has_rail": "2025-12-02 00:26:20 +0000"
     },
     "done": true
   },
-  "minecraft:nether/find_fortress": {
+  "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
-      "fortress": "2025-12-01 23:38:51 +0000"
+      "has_rail": "2025-12-02 00:26:20 +0000"
     },
     "done": true
   },
@@ -3605,6 +3563,48 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_the_recipe": "2025-12-02 00:26:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-12-02 00:26:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-12-02 00:26:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-12-02 00:26:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-12-02 00:26:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_allium": {
+    "criteria": {
+      "has_allium": "2025-12-02 00:31:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-12-02 00:31:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-12-02 00:31:23 +0000"
     },
     "done": true
   },

@@ -1,79 +1,109 @@
-[00:00:37] [Server thread/INFO]: Tacos_Meat was slain by Wither Skeleton
-[00:00:43] [Server thread/INFO]: <[Water] Tacos_Meat> this mf spawncamping me
-[00:01:11] [Server thread/INFO]: <[Water] DarnerFleye> gotta respect the strategy
-[00:01:14] [Server thread/INFO]: <[Water] DarnerFleye> there is no honor in war
-[00:01:16] [Server thread/INFO]: <[Water] Tacos_Meat> like i guess
-[00:01:22] [Server thread/INFO]: <[Water] Tacos_Meat> but like can there be a little honor
-[00:01:29] [Server thread/INFO]: <[Water] DarnerFleye> as a treat?
-[00:01:38] [Server thread/INFO]: <[Water] Tacos_Meat> as a sign of pity
-[00:01:48] [Server thread/INFO]: <[Water] Tacos_Meat> i have so much fucking copper
-[00:02:21] [Server thread/INFO]: <[Water] DarnerFleye> get some copper, bitches treat you proper
-[00:02:24] [Server thread/INFO]: Tacos_Meat tried to swim in lava to escape Wither Skeleton
-[00:02:28] [Server thread/INFO]: <[Water] DarnerFleye> thats what my dad always says
-[00:02:33] [Server thread/INFO]: <[Water] Tacos_Meat> hhow do i make the funny robot guy
-[00:02:43] [Server thread/INFO]: <[Water] DarnerFleye> one copper block + one pumpkin
-[00:02:48] [Server thread/INFO]: <[Water] DarnerFleye> short snow golem style
-[00:02:55] [Server thread/INFO]: <[Water] Tacos_Meat> i have no pumped kin..
-[00:14:15] [Server thread/INFO]: DarnerFleye was slain by Zombie
-[00:24:48] [Server thread/INFO]: DarnerFleye lost connection: Disconnected
-[00:24:48] [Server thread/INFO]: DarnerFleye left the game
-[00:24:48] [Server thread/INFO]: [voicechat] Disconnecting client DarnerFleye
-[00:25:26] [Server thread/INFO]: Tacos_Meat has made the advancement [A Seedy Place]
-[00:32:54] [Server thread/INFO]: Tacos_Meat lost connection: Disconnected
-[00:32:54] [Server thread/INFO]: Tacos_Meat left the game
-[00:32:54] [Server thread/INFO]: [voicechat] Disconnecting client Tacos_Meat
-[00:33:54] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[02:12:09] [User Authenticator #95/INFO]: UUID of player DarnerFleye is 6acfd536-c261-429a-b684-44aafa77d054
-[02:12:11] [Server thread/INFO]: DarnerFleye[/68.63.97.218:57301] logged in with entity id 1918162 at (968.1096317036101, -49.0, 1786.935818321618)
-[02:12:11] [Server thread/INFO]: DarnerFleye joined the game
-[02:12:12] [Server thread/INFO]: [voicechat] Received secret request of DarnerFleye (20)
-[02:12:12] [Server thread/INFO]: [voicechat] Sent secret to DarnerFleye
-[02:12:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 6acfd536-c261-429a-b684-44aafa77d054
-[02:12:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 6acfd536-c261-429a-b684-44aafa77d054
-[02:12:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player DarnerFleye (6acfd536-c261-429a-b684-44aafa77d054) successfully connected to voice chat
-[02:51:49] [User Authenticator #96/INFO]: UUID of player astrophantom is 0a95b1e8-40d4-46bc-826c-6c91f2b40c50
-[02:51:51] [Server thread/INFO]: astrophantom[/76.128.42.133:58272] logged in with entity id 1925239 at (-899.7966026120682, 115.0, 1190.655006721665)
-[02:51:51] [Server thread/INFO]: astrophantom joined the game
-[02:51:53] [Server thread/INFO]: [voicechat] Received secret request of astrophantom (20)
-[02:51:53] [Server thread/INFO]: [voicechat] Sent secret to astrophantom
-[02:51:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 0a95b1e8-40d4-46bc-826c-6c91f2b40c50
-[02:51:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 0a95b1e8-40d4-46bc-826c-6c91f2b40c50
-[02:51:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player astrophantom (0a95b1e8-40d4-46bc-826c-6c91f2b40c50) successfully connected to voice chat
-[03:02:58] [VoiceChatPacketProcessingThread/WARN]: [voicechat] Dropping voice chat packets! Your Server might be overloaded!
-[03:02:58] [VoiceChatPacketProcessingThread/WARN]: [voicechat] Packet queue has 1 packets
-[03:03:35] [Server thread/INFO]: DarnerFleye has made the advancement [The End?]
-[03:05:18] [Server thread/WARN]: DarnerFleye moved too quickly! 0.0,-18.022492416973677,0.0
-[03:05:20] [Server thread/INFO]: DarnerFleye fell out of the world
-[03:13:03] [Server thread/INFO]: astrophantom has reached the goal [Dinner's Served!]
-[03:16:55] [Server thread/INFO]: <[Air] astrophantom> -1398 71 566
-[03:29:21] [Server thread/INFO]: DarnerFleye lost connection: Disconnected
-[03:29:21] [Server thread/INFO]: DarnerFleye left the game
-[03:29:21] [Server thread/INFO]: [voicechat] Disconnecting client DarnerFleye
-[03:39:10] [Server thread/INFO]: astrophantom was slain by Zombified Piglin
-[04:03:56] [Server thread/INFO]: astrophantom lost connection: Disconnected
-[04:03:56] [Server thread/INFO]: astrophantom left the game
-[04:03:56] [Server thread/INFO]: [voicechat] Disconnecting client astrophantom
-[04:04:56] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[04:07:53] [User Authenticator #97/INFO]: UUID of player Bruggles is 5802cc54-f189-4fa4-bca3-022dc4c53176
-[04:07:54] [Server thread/INFO]: Bruggles[/10.0.0.245:51184] logged in with entity id 1952936 at (-1270.396710580012, 76.0, -350.45875999026407)
-[04:07:54] [Server thread/INFO]: Bruggles joined the game
-[04:07:55] [Server thread/INFO]: [voicechat] Received secret request of Bruggles (20)
-[04:07:55] [Server thread/INFO]: [voicechat] Sent secret to Bruggles
-[04:07:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5802cc54-f189-4fa4-bca3-022dc4c53176
-[04:07:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5802cc54-f189-4fa4-bca3-022dc4c53176
-[04:07:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Bruggles (5802cc54-f189-4fa4-bca3-022dc4c53176) successfully connected to voice chat
-[04:08:10] [Server thread/INFO]: Bruggles lost connection: Disconnected
-[04:08:10] [Server thread/INFO]: Bruggles left the game
-[04:08:10] [Server thread/INFO]: [voicechat] Disconnecting client Bruggles
-[04:08:25] [User Authenticator #98/INFO]: UUID of player Bruggles is 5802cc54-f189-4fa4-bca3-022dc4c53176
-[04:08:25] [Server thread/INFO]: Bruggles[/10.0.0.245:51225] logged in with entity id 1953267 at (-1262.358835349561, 76.0, -344.75205162151326)
-[04:08:25] [Server thread/INFO]: Bruggles joined the game
-[04:08:25] [Server thread/INFO]: [voicechat] Received secret request of Bruggles (20)
-[04:08:25] [Server thread/INFO]: [voicechat] Sent secret to Bruggles
-[04:08:26] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5802cc54-f189-4fa4-bca3-022dc4c53176
-[04:08:27] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5802cc54-f189-4fa4-bca3-022dc4c53176
-[04:08:27] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Bruggles (5802cc54-f189-4fa4-bca3-022dc4c53176) successfully connected to voice chat
-[04:49:30] [Server thread/WARN]: Bruggles moved too quickly! 43.99618989639612,2.5,-637.7004654119603
-[04:59:09] [Server thread/INFO]: Bruggles lost connection: Disconnected
-[04:59:09] [Server thread/INFO]: Bruggles left the game
-[04:59:09] [Server thread/INFO]: [voicechat] Disconnecting client Bruggles
+[00:02:40] [Server thread/INFO]: Bruggles lost connection: Disconnected
+[00:02:40] [Server thread/INFO]: Bruggles left the game
+[00:02:40] [Server thread/INFO]: [voicechat] Disconnecting client Bruggles
+[00:03:40] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:05:58] [User Authenticator #107/INFO]: UUID of player Bruggles is 5802cc54-f189-4fa4-bca3-022dc4c53176
+[00:05:59] [Server thread/INFO]: Bruggles[/10.0.0.245:55666] logged in with entity id 2004501 at (-1261.300000011921, 67.0, -359.5823871765886)
+[00:05:59] [Server thread/INFO]: Bruggles joined the game
+[00:05:59] [Server thread/INFO]: [voicechat] Received secret request of Bruggles (20)
+[00:05:59] [Server thread/INFO]: [voicechat] Sent secret to Bruggles
+[00:06:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5802cc54-f189-4fa4-bca3-022dc4c53176
+[00:06:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5802cc54-f189-4fa4-bca3-022dc4c53176
+[00:06:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Bruggles (5802cc54-f189-4fa4-bca3-022dc4c53176) successfully connected to voice chat
+[00:07:26] [Server thread/WARN]: Bruggles moved too quickly! -57.09371533222952,0.5,662.1524025840425
+[00:08:36] [Server thread/WARN]: Bruggles moved too quickly! 45.03545498370545,3.5,-636.1999999880791
+[00:12:58] [Server thread/WARN]: Bruggles moved too quickly! 34.823246606062185,7.5,-616.6565702425897
+[00:18:26] [Server thread/INFO]: Bruggles lost connection: Disconnected
+[00:18:26] [Server thread/INFO]: Bruggles left the game
+[00:18:26] [Server thread/INFO]: [voicechat] Disconnecting client Bruggles
+[00:19:26] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:19:47] [User Authenticator #108/INFO]: UUID of player Bruggles is 5802cc54-f189-4fa4-bca3-022dc4c53176
+[00:19:47] [Server thread/INFO]: Bruggles[/10.0.0.245:56050] logged in with entity id 2008568 at (-1257.4419330376095, 69.0, -358.70298563616086)
+[00:19:47] [Server thread/INFO]: Bruggles joined the game
+[00:19:48] [Server thread/INFO]: [voicechat] Received secret request of Bruggles (20)
+[00:19:48] [Server thread/INFO]: [voicechat] Sent secret to Bruggles
+[00:19:49] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5802cc54-f189-4fa4-bca3-022dc4c53176
+[00:19:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5802cc54-f189-4fa4-bca3-022dc4c53176
+[00:19:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Bruggles (5802cc54-f189-4fa4-bca3-022dc4c53176) successfully connected to voice chat
+[00:21:23] [Server thread/INFO]: Bruggles lost connection: Disconnected
+[00:21:23] [Server thread/INFO]: Bruggles left the game
+[00:21:23] [Server thread/INFO]: [voicechat] Disconnecting client Bruggles
+[00:22:23] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:24:13] [User Authenticator #109/INFO]: UUID of player Bruggles is 5802cc54-f189-4fa4-bca3-022dc4c53176
+[00:24:13] [Server thread/INFO]: Bruggles[/10.0.0.245:56144] logged in with entity id 2009039 at (-1262.5195115127613, 65.0, -359.7761689746993)
+[00:24:13] [Server thread/INFO]: Bruggles joined the game
+[00:24:13] [Server thread/INFO]: [voicechat] Received secret request of Bruggles (20)
+[00:24:13] [Server thread/INFO]: [voicechat] Sent secret to Bruggles
+[00:24:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5802cc54-f189-4fa4-bca3-022dc4c53176
+[00:24:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5802cc54-f189-4fa4-bca3-022dc4c53176
+[00:24:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Bruggles (5802cc54-f189-4fa4-bca3-022dc4c53176) successfully connected to voice chat
+[00:27:46] [Server thread/WARN]: Bruggles moved too quickly! 52.376752262686296,6.5,-622.6188195918321
+[00:40:59] [Server thread/WARN]: Bruggles moved too quickly! 39.20631922424286,8.5625,-618.6512990114223
+[00:41:49] [Server thread/INFO]: Bruggles lost connection: Disconnected
+[00:41:49] [Server thread/INFO]: Bruggles left the game
+[00:41:49] [Server thread/INFO]: [voicechat] Disconnecting client Bruggles
+[00:42:49] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[03:12:28] [User Authenticator #110/INFO]: UUID of player Laxidaze3 is 718fd999-d407-428c-bd79-690386a1caad
+[03:12:32] [Server thread/INFO]: Laxidaze3[/70.173.193.208:63424] logged in with entity id 2015414 at (-851.1409357518371, 66.0, 750.0135321440215)
+[03:12:32] [Server thread/INFO]: Laxidaze3 joined the game
+[03:12:34] [Server thread/INFO]: [voicechat] Received secret request of Laxidaze3 (20)
+[03:12:34] [Server thread/INFO]: [voicechat] Sent secret to Laxidaze3
+[03:12:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 718fd999-d407-428c-bd79-690386a1caad
+[03:12:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 718fd999-d407-428c-bd79-690386a1caad
+[03:12:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Laxidaze3 (718fd999-d407-428c-bd79-690386a1caad) successfully connected to voice chat
+[03:17:13] [Server thread/INFO]: Laxidaze3 tried to swim in lava
+[04:07:29] [User Authenticator #111/INFO]: UUID of player Omnilax is bcbba3ce-966c-4a95-ad81-6f39c9638494
+[04:07:31] [Server thread/INFO]: Omnilax[/73.124.223.163:50578] logged in with entity id 2028677 at (-772.9203771760922, 54.0, 313.11316893525316)
+[04:07:31] [Server thread/INFO]: Omnilax joined the game
+[04:07:31] [Server thread/INFO]: [voicechat] Received secret request of Omnilax (20)
+[04:07:31] [Server thread/INFO]: [voicechat] Sent secret to Omnilax
+[04:07:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player bcbba3ce-966c-4a95-ad81-6f39c9638494
+[04:07:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player bcbba3ce-966c-4a95-ad81-6f39c9638494
+[04:07:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Omnilax (bcbba3ce-966c-4a95-ad81-6f39c9638494) successfully connected to voice chat
+[04:10:51] [Server thread/INFO]: Omnilax lost connection: Disconnected
+[04:10:51] [Server thread/INFO]: Omnilax left the game
+[04:10:51] [Server thread/INFO]: [voicechat] Disconnecting client Omnilax
+[04:11:01] [User Authenticator #112/INFO]: UUID of player Omnilax is bcbba3ce-966c-4a95-ad81-6f39c9638494
+[04:11:03] [Server thread/INFO]: Omnilax[/73.124.223.163:50602] logged in with entity id 2030505 at (-769.4845902839667, 66.0, 311.7818513361538)
+[04:11:03] [Server thread/INFO]: Omnilax joined the game
+[04:11:03] [Server thread/INFO]: [voicechat] Received secret request of Omnilax (20)
+[04:11:03] [Server thread/INFO]: [voicechat] Sent secret to Omnilax
+[04:11:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player bcbba3ce-966c-4a95-ad81-6f39c9638494
+[04:11:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player bcbba3ce-966c-4a95-ad81-6f39c9638494
+[04:11:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Omnilax (bcbba3ce-966c-4a95-ad81-6f39c9638494) successfully connected to voice chat
+[04:27:22] [Server thread/WARN]: Laxidaze3 moved too quickly! -17.65111631353409,-1.8401353921826171,-6.305486296168965
+[04:28:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player bcbba3ce-966c-4a95-ad81-6f39c9638494 timed out
+[04:28:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Omnilax
+[04:28:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Omnilax
+[04:28:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 718fd999-d407-428c-bd79-690386a1caad timed out
+[04:28:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Laxidaze3
+[04:28:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Laxidaze3
+[04:28:19] [Server thread/INFO]: Omnilax lost connection: Timed out
+[04:28:19] [Server thread/INFO]: Omnilax left the game
+[04:28:19] [Server thread/INFO]: [voicechat] Disconnecting client Omnilax
+[04:28:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 718fd999-d407-428c-bd79-690386a1caad
+[04:28:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 718fd999-d407-428c-bd79-690386a1caad
+[04:28:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Laxidaze3 (718fd999-d407-428c-bd79-690386a1caad) successfully connected to voice chat
+[04:31:30] [User Authenticator #113/INFO]: UUID of player Omnilax is bcbba3ce-966c-4a95-ad81-6f39c9638494
+[04:31:32] [Server thread/INFO]: Omnilax[/73.124.223.163:50723] logged in with entity id 2036484 at (-770.2987244458436, 56.0, 312.30000001192093)
+[04:31:32] [Server thread/INFO]: Omnilax joined the game
+[04:31:32] [Server thread/INFO]: [voicechat] Received secret request of Omnilax (20)
+[04:31:32] [Server thread/INFO]: [voicechat] Sent secret to Omnilax
+[04:31:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player bcbba3ce-966c-4a95-ad81-6f39c9638494
+[04:31:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player bcbba3ce-966c-4a95-ad81-6f39c9638494
+[04:31:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Omnilax (bcbba3ce-966c-4a95-ad81-6f39c9638494) successfully connected to voice chat
+[04:51:30] [User Authenticator #114/INFO]: UUID of player Tacos_Meat is bea92feb-d2c7-4ea2-ac81-a64440853a60
+[04:51:33] [Server thread/INFO]: Tacos_Meat[/73.57.67.121:49543] logged in with entity id 2042210 at (-709.6494979347688, 67.0, 543.3146831495313)
+[04:51:33] [Server thread/INFO]: Tacos_Meat joined the game
+[04:51:34] [Server thread/INFO]: [voicechat] Received secret request of Tacos_Meat (20)
+[04:51:34] [Server thread/INFO]: [voicechat] Sent secret to Tacos_Meat
+[04:51:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player bea92feb-d2c7-4ea2-ac81-a64440853a60
+[04:51:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player bea92feb-d2c7-4ea2-ac81-a64440853a60
+[04:51:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Tacos_Meat (bea92feb-d2c7-4ea2-ac81-a64440853a60) successfully connected to voice chat
+[04:53:05] [Server thread/INFO]: <[Water] Tacos_Meat> hello world !
+[04:53:26] [Server thread/INFO]: <[Water] Tacos_Meat> I'm collecting iron to make a railway connecting all the bases
+[04:53:49] [Server thread/INFO]: <[Air] Laxidaze3> Me when I'm at 600,12000
+[04:53:57] [Server thread/INFO]: <[Water] Tacos_Meat> it's possible !!
+[04:54:08] [Server thread/INFO]: <[Air] Omnilax> hii
+[04:56:04] [Server thread/INFO]: <[Water] Tacos_Meat> where the FUCK IS COAL
+[04:56:05] [Server thread/INFO]: <[Water] Tacos_Meat> HIIIII

@@ -3573,6 +3573,7 @@
     "criteria": {
       "nether_wart": "2025-11-21 08:59:31 +0000",
       "rice": "2025-11-22 07:48:17 +0000",
+      "kelp": "2025-12-02 10:08:04 +0000",
       "pumpkin": "2025-11-21 08:42:16 +0000",
       "carrot": "2025-11-16 09:46:26 +0000"
     },
@@ -8314,12 +8315,6 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_glow_berries": {
-    "criteria": {
-      "has_glow_berries": "2025-12-01 07:38:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/polished_blackstone_button": {
     "criteria": {
       "has_polished_blackstone": "2025-12-01 07:32:26 +0000"
@@ -8329,18 +8324,6 @@
   "minecraft:recipes/building_blocks/polished_blackstone_slab": {
     "criteria": {
       "has_polished_blackstone": "2025-12-01 07:32:26 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/glow_berry_custard": {
-    "criteria": {
-      "has_any_ingredient": "2025-12-01 07:38:00 +0000"
-    },
-    "done": true
-  },
-  "moredelight:recipes/food/toast_with_glow_berries": {
-    "criteria": {
-      "has_glow_berries": "2025-12-01 07:38:00 +0000"
     },
     "done": true
   },
@@ -8401,6 +8384,54 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-12-01 07:32:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_glow_berries": {
+    "criteria": {
+      "has_glow_berries": "2025-12-01 07:38:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-12-01 07:38:00 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/food/toast_with_glow_berries": {
+    "criteria": {
+      "has_glow_berries": "2025-12-01 07:38:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-12-02 09:28:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-12-02 09:51:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-12-02 09:51:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crafter": {
+    "criteria": {
+      "has_dropper": "2025-12-02 09:52:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/bamboo_cabinet": {
+    "criteria": {
+      "has_bamboo_trapdoor": "2025-12-02 10:01:36 +0000"
     },
     "done": true
   },

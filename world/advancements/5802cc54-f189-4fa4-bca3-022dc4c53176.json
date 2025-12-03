@@ -6364,21 +6364,9 @@
     },
     "done": false
   },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-12-02 04:34:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/suspicious_stew_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2025-12-02 04:34:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/suspicious_stew_from_oxeye_daisy": {
-    "criteria": {
-      "has_oxeye_daisy": "2025-12-02 04:34:05 +0000"
     },
     "done": true
   },
@@ -6388,15 +6376,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/flower_banner_pattern": {
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-12-02 04:34:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-12-02 04:34:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2025-12-02 04:34:05 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+  "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
-      "has_azure_bluet": "2025-12-02 04:34:03 +0000"
+      "has_oxeye_daisy": "2025-12-02 04:34:05 +0000"
     },
     "done": true
   },
@@ -6427,6 +6427,18 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-12-02 04:40:48 +0000"
+    },
+    "done": true
+  },
+  "enchantplus:armor/chestplate/builder_arm": {
+    "criteria": {
+      "requirement": "2025-12-03 00:31:40 +0000"
+    },
+    "done": true
+  },
+  "enchantplus:armor/chestplate/base": {
+    "criteria": {
+      "got_builder_arm": "2025-12-03 00:31:40 +0000"
     },
     "done": true
   },

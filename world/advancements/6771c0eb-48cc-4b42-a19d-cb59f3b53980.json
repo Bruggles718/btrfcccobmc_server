@@ -4354,6 +4354,7 @@
   "enchantplus:weapons/sword/base": {
     "criteria": {
       "xp_boost": "2025-11-21 07:49:01 +0000",
+      "tears_of_asflors": "2025-12-02 06:50:10 +0000",
       "critical": "2025-11-22 09:42:10 +0000",
       "reach": "2025-11-22 08:19:44 +0000",
       "runic_despair": "2025-11-22 10:01:34 +0000",
@@ -9551,6 +9552,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/bamboo_mosaic": {
+    "criteria": {
+      "has_bamboo_slab": "2025-12-01 07:11:21 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/deepslate_stepping_stones": {
     "criteria": {
       "has_minecraft:deepslate": "2025-12-01 07:12:06 +0000"
@@ -9563,9 +9570,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/bamboo_mosaic": {
+  "enchantplus:weapons/sword/tears_of_asflors": {
     "criteria": {
-      "has_bamboo_slab": "2025-12-01 07:11:21 +0000"
+      "requirement": "2025-12-02 06:50:10 +0000"
     },
     "done": true
   },
