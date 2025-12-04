@@ -1687,6 +1687,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-11-16 07:26:32 +0000",
+      "minecraft:pillager": "2025-12-03 17:23:47 +0000",
       "minecraft:skeleton": "2025-11-16 04:52:31 +0000",
       "minecraft:elder_guardian": "2025-11-26 04:15:45 +0000",
       "minecraft:bogged": "2025-11-30 07:00:52 +0000",
@@ -1694,11 +1695,13 @@
       "minecraft:hoglin": "2025-11-24 05:41:30 +0000",
       "minecraft:guardian": "2025-11-26 03:55:57 +0000",
       "minecraft:breeze": "2025-11-22 01:40:29 +0000",
+      "minecraft:vindicator": "2025-12-03 07:10:32 +0000",
       "minecraft:magma_cube": "2025-11-16 17:29:06 +0000",
       "minecraft:spider": "2025-11-16 05:13:45 +0000",
       "minecraft:piglin_brute": "2025-11-21 23:18:15 +0000",
       "minecraft:creeper": "2025-11-16 04:48:20 +0000",
       "minecraft:wither": "2025-11-22 03:18:00 +0000",
+      "minecraft:evoker": "2025-12-03 07:12:36 +0000",
       "minecraft:phantom": "2025-11-19 01:57:26 +0000",
       "minecraft:zombified_piglin": "2025-11-22 02:52:16 +0000",
       "minecraft:witch": "2025-11-16 19:28:26 +0000",
@@ -1710,6 +1713,7 @@
       "minecraft:silverfish": "2025-11-16 05:22:41 +0000",
       "minecraft:enderman": "2025-11-16 17:16:00 +0000",
       "minecraft:stray": "2025-11-18 22:27:59 +0000",
+      "minecraft:vex": "2025-12-03 07:13:25 +0000",
       "minecraft:zombie": "2025-11-16 04:52:18 +0000",
       "minecraft:drowned": "2025-11-17 10:03:03 +0000",
       "minecraft:zombie_villager": "2025-11-16 18:36:10 +0000"
@@ -10754,6 +10758,114 @@
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_sunflower": "2025-11-30 23:20:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/pale_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-12-03 06:46:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pale_oak_drawer": {
+    "criteria": {
+      "has_minecraft:pale_oak_planks": "2025-12-03 06:46:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pale_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-12-03 06:46:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pale_oak_crate": {
+    "criteria": {
+      "has_minecraft:pale_oak_planks": "2025-12-03 06:46:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-12-03 06:46:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/pale_oak_door": {
+    "criteria": {
+      "has_planks": "2025-12-03 06:46:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pale_oak_chair": {
+    "criteria": {
+      "has_minecraft:pale_oak_planks": "2025-12-03 06:46:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pale_oak_mail_box": {
+    "criteria": {
+      "has_minecraft:pale_oak_planks": "2025-12-03 06:46:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/pale_oak_button": {
+    "criteria": {
+      "has_planks": "2025-12-03 06:46:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pale_oak_cutting_board": {
+    "criteria": {
+      "has_minecraft:pale_oak_planks": "2025-12-03 06:46:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/pale_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-12-03 06:46:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-12-03 06:46:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pale_oak_table": {
+    "criteria": {
+      "has_minecraft:pale_oak_planks": "2025-12-03 06:46:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pale_oak_desk": {
+    "criteria": {
+      "has_minecraft:pale_oak_planks": "2025-12-03 06:46:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/pale_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-12-03 06:46:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pale_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-12-03 06:46:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-12-03 07:15:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-12-03 17:23:50 +0000"
     },
     "done": true
   },

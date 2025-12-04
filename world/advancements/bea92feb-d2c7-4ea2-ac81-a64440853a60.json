@@ -31,8 +31,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:flower_forest": "2025-12-03 08:10:22 +0000",
       "minecraft:old_growth_birch_forest": "2025-11-30 05:04:28 +0000",
+      "minecraft:beach": "2025-12-03 07:48:38 +0000",
       "minecraft:forest": "2025-11-30 04:24:13 +0000",
+      "minecraft:sunflower_plains": "2025-12-03 08:12:21 +0000",
       "minecraft:river": "2025-11-30 04:32:09 +0000",
       "minecraft:birch_forest": "2025-11-30 05:04:35 +0000",
       "minecraft:dripstone_caves": "2025-12-01 22:45:21 +0000",
@@ -1051,6 +1054,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-12-01 23:02:12 +0000",
+      "minecraft:spider": "2025-12-03 05:04:00 +0000",
       "minecraft:zombie": "2025-11-30 05:19:08 +0000",
       "minecraft:creeper": "2025-11-30 05:41:31 +0000",
       "minecraft:drowned": "2025-11-30 05:20:19 +0000"
@@ -2553,7 +2557,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "apple": "2025-11-30 05:57:38 +0000"
+      "apple": "2025-11-30 05:57:38 +0000",
+      "golden_apple": "2025-12-03 07:00:33 +0000"
     },
     "done": false
   },
@@ -3605,6 +3610,102 @@
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_allium": "2025-12-02 00:31:23 +0000"
+    },
+    "done": true
+  },
+  "cookingforblockheads:recipes/decorations/toaster": {
+    "criteria": {
+      "has_lava_bucket": "2025-12-03 05:18:07 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/warp_plate": {
+    "criteria": {
+      "has_amethyst_shard": "2025-12-03 06:55:25 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/magic_shard_dull": {
+    "criteria": {
+      "has_amethyst_shard": "2025-12-03 06:55:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-12-03 06:55:25 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/dormant_shard": {
+    "criteria": {
+      "has_amethyst_shard": "2025-12-03 06:55:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-12-03 06:02:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-12-03 06:02:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/door_mat": {
+    "criteria": {
+      "has_minecraft:wheat": "2025-12-03 06:02:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-12-03 06:55:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-12-03 06:55:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-12-03 05:18:07 +0000"
+    },
+    "done": true
+  },
+  "betterenchanting:recipes/misc/magic_shard_full": {
+    "criteria": {
+      "has_amethyst_shard": "2025-12-03 06:55:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-12-03 05:43:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-12-03 06:55:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-12-03 06:02:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_egg": {
+    "criteria": {
+      "has_wheat": "2025-12-03 06:02:13 +0000"
     },
     "done": true
   },
