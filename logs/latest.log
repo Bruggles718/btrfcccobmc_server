@@ -1,16 +1,51 @@
-[00:11:25] [Server thread/WARN]: Bruggles moved too quickly! 52.89192637636029,6.5,-624.101990553892
-[00:18:02] [Server thread/INFO]: Bruggles lost connection: Disconnected
-[00:18:02] [Server thread/INFO]: Bruggles left the game
-[00:18:02] [Server thread/INFO]: [voicechat] Disconnecting client Bruggles
-[00:18:32] [User Authenticator #128/INFO]: UUID of player Bruggles is 5802cc54-f189-4fa4-bca3-022dc4c53176
-[00:18:32] [Server thread/INFO]: Bruggles[/10.0.0.245:60950] logged in with entity id 2252796 at (-1258.8792482873382, 69.0, -357.01182965464443)
-[00:18:32] [Server thread/INFO]: Bruggles joined the game
-[00:18:32] [Server thread/INFO]: [voicechat] Received secret request of Bruggles (20)
-[00:18:32] [Server thread/INFO]: [voicechat] Sent secret to Bruggles
-[00:18:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5802cc54-f189-4fa4-bca3-022dc4c53176
-[00:18:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5802cc54-f189-4fa4-bca3-022dc4c53176
-[00:18:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Bruggles (5802cc54-f189-4fa4-bca3-022dc4c53176) successfully connected to voice chat
-[00:25:45] [Server thread/INFO]: Bruggles lost connection: Disconnected
-[00:25:45] [Server thread/INFO]: Bruggles left the game
-[00:25:45] [Server thread/INFO]: [voicechat] Disconnecting client Bruggles
-[00:26:45] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[03:24:30] [User Authenticator #131/INFO]: UUID of player Bruggles is 5802cc54-f189-4fa4-bca3-022dc4c53176
+[03:24:31] [Server thread/INFO]: Bruggles[/10.0.0.245:17483] logged in with entity id 2360372 at (-1259.605908846267, 69.0, -350.6126787694888)
+[03:24:31] [Server thread/INFO]: Bruggles joined the game
+[03:24:31] [Server thread/INFO]: [voicechat] Received secret request of Bruggles (20)
+[03:24:31] [Server thread/INFO]: [voicechat] Sent secret to Bruggles
+[03:24:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5802cc54-f189-4fa4-bca3-022dc4c53176
+[03:24:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5802cc54-f189-4fa4-bca3-022dc4c53176
+[03:24:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Bruggles (5802cc54-f189-4fa4-bca3-022dc4c53176) successfully connected to voice chat
+[03:38:06] [VoiceChatPacketProcessingThread/WARN]: [voicechat] Dropping voice chat packets! Your Server might be overloaded!
+[03:38:06] [VoiceChatPacketProcessingThread/WARN]: [voicechat] Packet queue has 27 packets
+[03:40:12] [User Authenticator #132/INFO]: UUID of player Omnilax is bcbba3ce-966c-4a95-ad81-6f39c9638494
+[03:40:14] [Server thread/INFO]: Omnilax[/73.124.223.163:58137] logged in with entity id 2367273 at (-775.0397017600119, 66.0, 317.6625157797484)
+[03:40:14] [Server thread/INFO]: Omnilax joined the game
+[03:40:15] [Server thread/INFO]: [voicechat] Received secret request of Omnilax (20)
+[03:40:15] [Server thread/INFO]: [voicechat] Sent secret to Omnilax
+[03:40:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player bcbba3ce-966c-4a95-ad81-6f39c9638494
+[03:40:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player bcbba3ce-966c-4a95-ad81-6f39c9638494
+[03:40:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Omnilax (bcbba3ce-966c-4a95-ad81-6f39c9638494) successfully connected to voice chat
+[03:40:26] [Server thread/INFO]: <[Earth] Bruggles> o/
+[03:40:26] [Server thread/INFO]: <[Air] Omnilax> bruggy??
+[03:40:32] [Server thread/INFO]: <[Earth] Bruggles> yo
+[03:40:36] [Server thread/INFO]: <[Air] Omnilax> hioii
+[03:40:40] [Server thread/WARN]: Bruggles moved too quickly! 659.8659040165271,-3.4375,67.60689355594405
+[03:41:07] [Server thread/INFO]: <[Air] Omnilax> hry
+[03:45:41] [Server thread/WARN]: Bruggles moved too quickly! -3.8963420558895905,-6.507113152130245,16.321765789251174
+[03:48:12] [Server thread/WARN]: Bruggles moved too quickly! -71.00880945455083,8.5,275.96993692701847
+[03:58:02] [Server thread/WARN]: Bruggles moved too quickly! 122.04951838382817,-0.5,-897.7871561295817
+[03:59:42] [Server thread/WARN]: Bruggles moved too quickly! -133.6358548713415,4.5,924.2941271255647
+[04:03:58] [Server thread/WARN]: Bruggles moved too quickly! 36.077331232442475,7.5,-615.5933435547925
+[04:09:47] [Server thread/INFO]: Omnilax lost connection: Disconnected
+[04:09:47] [Server thread/INFO]: Omnilax left the game
+[04:09:47] [Server thread/INFO]: [voicechat] Disconnecting client Omnilax
+[04:13:20] [Server thread/WARN]: Bruggles moved too quickly! 21.544077371903086,17.5,20.002410717258897
+[04:18:08] [Server thread/INFO]: Bruggles lost connection: Disconnected
+[04:18:08] [Server thread/INFO]: Bruggles left the game
+[04:18:08] [Server thread/INFO]: [voicechat] Disconnecting client Bruggles
+[04:19:08] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[04:21:27] [User Authenticator #133/INFO]: UUID of player Bruggles is 5802cc54-f189-4fa4-bca3-022dc4c53176
+[04:21:27] [Server thread/INFO]: Bruggles[/10.0.0.245:27917] logged in with entity id 2386304 at (-1259.4389003106362, 69.875, -348.9347237861243)
+[04:21:27] [Server thread/INFO]: Bruggles joined the game
+[04:21:28] [Server thread/INFO]: [voicechat] Received secret request of Bruggles (20)
+[04:21:28] [Server thread/INFO]: [voicechat] Sent secret to Bruggles
+[04:21:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5802cc54-f189-4fa4-bca3-022dc4c53176
+[04:21:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5802cc54-f189-4fa4-bca3-022dc4c53176
+[04:21:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Bruggles (5802cc54-f189-4fa4-bca3-022dc4c53176) successfully connected to voice chat
+[04:22:57] [Server thread/WARN]: Bruggles moved too quickly! 37.55953248943433,7.5,-615.0908916616156
+[04:45:41] [Server thread/WARN]: Bruggles moved too quickly! 0.0,10.385527400555148,0.0
+[04:45:57] [Server thread/INFO]: Bruggles lost connection: Disconnected
+[04:45:57] [Server thread/INFO]: Bruggles left the game
+[04:45:57] [Server thread/INFO]: [voicechat] Disconnecting client Bruggles
+[04:46:57] [Server thread/INFO]: Server empty for 60 seconds, pausing
