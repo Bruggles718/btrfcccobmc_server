@@ -49,3 +49,30 @@
 [04:45:57] [Server thread/INFO]: Bruggles left the game
 [04:45:57] [Server thread/INFO]: [voicechat] Disconnecting client Bruggles
 [04:46:57] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[05:04:05] [User Authenticator #134/INFO]: UUID of player CzarsonTzarcia is 7856f6e3-6521-4a6a-9222-1176c49eea16
+[05:04:07] [Server thread/INFO]: CzarsonTzarcia[/75.40.167.175:51635] logged in with entity id 2402272 at (-1119.1707886877955, 70.0, 2271.3875668456326)
+[05:04:07] [Server thread/INFO]: CzarsonTzarcia joined the game
+[05:04:09] [Server thread/INFO]: [voicechat] Received secret request of CzarsonTzarcia (20)
+[05:04:09] [Server thread/INFO]: [voicechat] Sent secret to CzarsonTzarcia
+[05:04:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 7856f6e3-6521-4a6a-9222-1176c49eea16
+[05:04:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 7856f6e3-6521-4a6a-9222-1176c49eea16
+[05:04:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player CzarsonTzarcia (7856f6e3-6521-4a6a-9222-1176c49eea16) successfully connected to voice chat
+[05:05:53] [Server thread/INFO]: CzarsonTzarcia lost connection: Disconnected
+[05:05:53] [Server thread/INFO]: CzarsonTzarcia left the game
+[05:05:53] [Server thread/INFO]: [voicechat] Disconnecting client CzarsonTzarcia
+[05:06:53] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[06:25:25] [User Authenticator #135/INFO]: UUID of player Laxidaze3 is 718fd999-d407-428c-bd79-690386a1caad
+[06:25:28] [Server thread/INFO]: Laxidaze3[/70.173.193.208:53933] logged in with entity id 2402752 at (612.8637527203023, 70.0, 12079.656457978192)
+[06:25:28] [Server thread/INFO]: Laxidaze3 joined the game
+[06:25:29] [Server thread/INFO]: [voicechat] Received secret request of Laxidaze3 (20)
+[06:25:29] [Server thread/INFO]: [voicechat] Sent secret to Laxidaze3
+[06:25:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 718fd999-d407-428c-bd79-690386a1caad
+[06:25:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 718fd999-d407-428c-bd79-690386a1caad
+[06:25:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Laxidaze3 (718fd999-d407-428c-bd79-690386a1caad) successfully connected to voice chat
+[08:42:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 718fd999-d407-428c-bd79-690386a1caad timed out
+[08:42:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Laxidaze3
+[08:42:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Laxidaze3
+[08:43:10] [Server thread/INFO]: Laxidaze3 lost connection: Timed out
+[08:43:10] [Server thread/INFO]: Laxidaze3 left the game
+[08:43:10] [Server thread/INFO]: [voicechat] Disconnecting client Laxidaze3
+[08:44:10] [Server thread/INFO]: Server empty for 60 seconds, pausing
