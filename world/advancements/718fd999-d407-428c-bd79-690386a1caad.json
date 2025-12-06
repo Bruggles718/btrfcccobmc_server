@@ -35,6 +35,7 @@
       "minecraft:cherry_grove": "2025-11-16 04:46:03 +0000",
       "minecraft:sunflower_plains": "2025-11-16 04:40:37 +0000",
       "minecraft:birch_forest": "2025-11-16 07:13:31 +0000",
+      "minecraft:windswept_hills": "2025-12-06 01:05:37 +0000",
       "minecraft:bamboo_jungle": "2025-11-16 19:13:16 +0000",
       "minecraft:wooded_badlands": "2025-11-22 02:01:49 +0000",
       "minecraft:badlands": "2025-11-18 22:51:01 +0000",
@@ -1093,6 +1094,7 @@
       "apple": "2025-11-16 04:32:03 +0000",
       "bread": "2025-11-16 04:48:15 +0000",
       "golden_apple": "2025-11-23 05:30:31 +0000",
+      "cooked_rabbit": "2025-12-06 00:57:03 +0000",
       "cooked_chicken": "2025-11-16 05:25:12 +0000",
       "cooked_mutton": "2025-11-16 05:28:50 +0000",
       "potato": "2025-11-16 17:29:43 +0000",
@@ -10866,6 +10868,72 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-12-03 17:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-12-05 16:46:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-12-05 16:46:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-12-05 16:46:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-12-06 01:02:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-12-06 01:02:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-12-06 01:02:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2025-12-06 01:02:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-12-06 01:02:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-12-06 01:02:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-12-06 01:02:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-12-06 01:02:05 +0000"
     },
     "done": true
   },
