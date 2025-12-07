@@ -8533,12 +8533,6 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/oak_hedge": {
-    "criteria": {
-      "has_minecraft:oak_leaves": "2025-12-07 03:39:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2025-12-07 03:35:51 +0000"
@@ -8578,6 +8572,12 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-12-07 03:35:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_hedge": {
+    "criteria": {
+      "has_minecraft:oak_leaves": "2025-12-07 03:39:15 +0000"
     },
     "done": true
   },

@@ -31,3 +31,50 @@
 [04:48:33] [Server thread/INFO]: <[Air] Laxidaze3> joe called
 [04:48:40] [Server thread/INFO]: <CzarsonTzarcia> jorg
 [04:48:44] [Server thread/INFO]: <[Air] Laxidaze3> indeed
+[05:33:37] [Server thread/INFO]: <[Air] Laxidaze3> sorry Carson I got busy
+[05:33:47] [Server thread/INFO]: <[Air] Laxidaze3> I won't be able to chat :(
+[05:33:50] [Server thread/INFO]: <CzarsonTzarcia> damn
+[05:33:59] [Server thread/INFO]: CzarsonTzarcia lost connection: Disconnected
+[05:33:59] [Server thread/INFO]: CzarsonTzarcia left the game
+[05:33:59] [Server thread/INFO]: [voicechat] Disconnecting client CzarsonTzarcia
+[05:34:02] [Server thread/INFO]: <[Air] Laxidaze3> yeah, I have things to do before tomorrow :(
+[05:34:06] [Server thread/INFO]: Laxidaze3 lost connection: Disconnected
+[05:34:06] [Server thread/INFO]: Laxidaze3 left the game
+[05:34:06] [Server thread/INFO]: [voicechat] Disconnecting client Laxidaze3
+[06:15:47] [Server thread/INFO]: Omnilax lost connection: Disconnected
+[06:15:47] [Server thread/INFO]: Omnilax left the game
+[06:15:47] [Server thread/INFO]: [voicechat] Disconnecting client Omnilax
+[06:16:47] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[07:12:59] [User Authenticator #146/INFO]: UUID of player Omnilax is bcbba3ce-966c-4a95-ad81-6f39c9638494
+[07:13:01] [Server thread/INFO]: Omnilax[/73.124.223.163:52241] logged in with entity id 2675931 at (-759.4803157332981, 67.0625, 313.7381316072249)
+[07:13:01] [Server thread/INFO]: Omnilax joined the game
+[07:13:01] [Server thread/INFO]: [voicechat] Received secret request of Omnilax (20)
+[07:13:01] [Server thread/INFO]: [voicechat] Sent secret to Omnilax
+[07:13:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player bcbba3ce-966c-4a95-ad81-6f39c9638494
+[07:13:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player bcbba3ce-966c-4a95-ad81-6f39c9638494
+[07:13:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Omnilax (bcbba3ce-966c-4a95-ad81-6f39c9638494) successfully connected to voice chat
+[07:43:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player bcbba3ce-966c-4a95-ad81-6f39c9638494 timed out
+[07:43:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Omnilax
+[07:43:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Omnilax
+[07:44:04] [Server thread/INFO]: Omnilax lost connection: Timed out
+[07:44:04] [Server thread/INFO]: Omnilax left the game
+[07:44:04] [Server thread/INFO]: [voicechat] Disconnecting client Omnilax
+[07:45:04] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[15:22:21] [Server thread/INFO]: /176.65.134.12:61086 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet login/serverbound/minecraft:hello (class_2915) was larger than I expected, found 1 bytes extra whilst reading packet serverbound/minecraft:hello
+[15:24:03] [Server thread/INFO]: /176.65.134.6:64257 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet login/serverbound/minecraft:hello (class_2915) was larger than I expected, found 1 bytes extra whilst reading packet serverbound/minecraft:hello
+[15:27:47] [Server thread/INFO]: /176.65.134.12:61086 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet login/serverbound/minecraft:hello (class_2915) was larger than I expected, found 1 bytes extra whilst reading packet serverbound/minecraft:hello
+[15:29:29] [Server thread/INFO]: /176.65.134.6:64257 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet login/serverbound/minecraft:hello (class_2915) was larger than I expected, found 1 bytes extra whilst reading packet serverbound/minecraft:hello
+[16:55:44] [Server thread/INFO]: MCScans (/45.148.10.134:43980) lost connection: Disconnected
+[20:18:16] [User Authenticator #147/INFO]: UUID of player Laxidaze3 is 718fd999-d407-428c-bd79-690386a1caad
+[20:18:20] [Server thread/INFO]: Laxidaze3[/70.173.193.208:55664] logged in with entity id 2680210 at (-859.4466311754785, 68.0, 750.6212195986095)
+[20:18:20] [Server thread/INFO]: Laxidaze3 joined the game
+[20:18:21] [Server thread/INFO]: [voicechat] Received secret request of Laxidaze3 (20)
+[20:18:21] [Server thread/INFO]: [voicechat] Sent secret to Laxidaze3
+[20:18:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 718fd999-d407-428c-bd79-690386a1caad
+[20:18:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 718fd999-d407-428c-bd79-690386a1caad
+[20:18:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Laxidaze3 (718fd999-d407-428c-bd79-690386a1caad) successfully connected to voice chat
+[21:06:42] [Server thread/INFO]: There are 1 of a max of 64 players online: Laxidaze3
+[21:06:54] [Server thread/INFO]: Laxidaze3's bound abilities:
+[21:06:54] [Server thread/INFO]: 
+[21:07:01] [Server thread/INFO]: [Bending] Invalid command argument: Could not find user bruggles.
+[21:07:09] [Server thread/INFO]: [Bending] Invalid command argument: Could not find user Bruggles.
