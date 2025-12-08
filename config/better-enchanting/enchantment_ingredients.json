@@ -354,5 +354,142 @@
   ],
   "enchantplus:sword/fear": [
     "betterenchanting:essence_of_fear"
+  ],
+  "enchantplus:mounted/steel_fang": [
+    "minecraft:barrier",
+    "minecraft:barrier",
+    "minecraft:barrier"
+  ],
+  "enchantplus:sword/death_touch": [
+    "minecraft:barrier"
+  ],
+  "minecraft:binding_curse": [
+    "minecraft:barrier"
+  ],
+  "enchantplus:midas_touch": [
+    "minecraft:barrier"
+  ],
+  "enchantplus:pickaxe/bedrock_breaker": [
+    "minecraft:barrier"
+  ],
+  "enchantplus:sword/dimensional_hit": [
+    "minecraft:barrier",
+    "minecraft:barrier",
+    "minecraft:barrier",
+    "minecraft:barrier",
+    "minecraft:barrier"
+  ],
+  "enchantplus:mounted/happy_boost": [
+    "minecraft:barrier",
+    "minecraft:barrier",
+    "minecraft:barrier",
+    "minecraft:barrier"
+  ],
+  "minecraft:vanishing_curse": [
+    "minecraft:barrier"
+  ],
+  "enchantplus:bow/rebound": [
+    "minecraft:barrier",
+    "minecraft:barrier",
+    "minecraft:barrier"
+  ],
+  "enchantplus:mounted/velocity": [
+    "minecraft:barrier",
+    "minecraft:barrier",
+    "minecraft:barrier",
+    "minecraft:barrier"
+  ],
+  "enchantplus:bow/eternal_frost": [
+    "minecraft:barrier"
+  ],
+  "enchantplus:sword/tears_of_asflors": [
+    "minecraft:barrier",
+    "minecraft:barrier",
+    "minecraft:barrier"
+  ],
+  "enchantplus:sword/runic_despair": [
+    "minecraft:barrier",
+    "minecraft:barrier",
+    "minecraft:barrier",
+    "minecraft:barrier",
+    "minecraft:barrier"
+  ],
+  "enchantplus:mounted/cavalier_egis": [
+    "minecraft:barrier",
+    "minecraft:barrier",
+    "minecraft:barrier",
+    "minecraft:barrier",
+    "minecraft:barrier"
+  ],
+  "enchantplus:mounted/ethereal_leap": [
+    "minecraft:barrier",
+    "minecraft:barrier",
+    "minecraft:barrier",
+    "minecraft:barrier",
+    "minecraft:barrier",
+    "minecraft:barrier",
+    "minecraft:barrier"
+  ],
+  "enchantplus:leggings/dwarfed": [
+    "minecraft:barrier",
+    "minecraft:barrier",
+    "minecraft:barrier",
+    "minecraft:barrier",
+    "minecraft:barrier"
+  ],
+  "enchantplus:leggings/oversize": [
+    "minecraft:barrier",
+    "minecraft:barrier",
+    "minecraft:barrier",
+    "minecraft:barrier"
+  ],
+  "enchantplus:sword/critical": [
+    "minecraft:barrier",
+    "minecraft:barrier",
+    "minecraft:barrier",
+    "minecraft:barrier"
+  ],
+  "enchantplus:elytra/kinetic_protection": [
+    "minecraft:barrier",
+    "minecraft:barrier",
+    "minecraft:barrier",
+    "minecraft:barrier",
+    "minecraft:barrier"
+  ],
+  "enchantplus:mace/teluric_wave": [
+    "minecraft:barrier"
+  ],
+  "enchantplus:hoe/harvest": [
+    "minecraft:barrier",
+    "minecraft:barrier",
+    "minecraft:barrier"
+  ],
+  "farmersdelight:backstabbing": [
+    "minecraft:barrier",
+    "minecraft:barrier",
+    "minecraft:barrier"
+  ],
+  "enchantplus:trident/gungnir_breath": [
+    "minecraft:barrier",
+    "minecraft:barrier",
+    "minecraft:barrier"
+  ],
+  "enchantplus:durability/curse_of_enchant": [
+    "minecraft:barrier"
+  ],
+  "enchantplus:sword/last_hope": [
+    "minecraft:barrier"
+  ],
+  "enchantplus:durability/curse_of_breaking": [
+    "minecraft:barrier",
+    "minecraft:barrier",
+    "minecraft:barrier",
+    "minecraft:barrier",
+    "minecraft:barrier"
+  ],
+  "enchantplus:sword/curse_of_clumsiness": [
+    "minecraft:barrier",
+    "minecraft:barrier",
+    "minecraft:barrier"
   ]
 }
