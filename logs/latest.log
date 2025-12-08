@@ -78,3 +78,16 @@
 [21:06:54] [Server thread/INFO]: 
 [21:07:01] [Server thread/INFO]: [Bending] Invalid command argument: Could not find user bruggles.
 [21:07:09] [Server thread/INFO]: [Bending] Invalid command argument: Could not find user Bruggles.
+[21:26:00] [Server thread/INFO]: Laxidaze3's bound abilities:
+[21:26:00] [Server thread/INFO]: 
+[21:26:11] [Server thread/INFO]: [Bending] Invalid command argument: Could not find user 6771c0eb-48cc-4b42-a19d-cb59f3b53980.
+[21:31:31] [/INFO]: [Bending] Discovering users to export...
+[21:31:31] [/INFO]: [Bending] Found 15 users to export.
+[21:31:31] [/INFO]: [Bending] Exporting user data... 0% complete
+[21:31:31] [/INFO]: [Bending] Exported user data to ./config/bending/bending_data.json.json.gz in 0.07s
+[21:32:33] [Server thread/INFO]: There are 1 of a max of 64 players online: Laxidaze3
+[22:43:28] [Server thread/WARN]: Laxidaze3 moved too quickly! -0.42794169491651246,-2.141863107027987,-18.635800180087244
+[22:43:48] [Server thread/INFO]: Laxidaze3 lost connection: Disconnected
+[22:43:48] [Server thread/INFO]: Laxidaze3 left the game
+[22:43:48] [Server thread/INFO]: [voicechat] Disconnecting client Laxidaze3
+[22:44:48] [Server thread/INFO]: Server empty for 60 seconds, pausing
