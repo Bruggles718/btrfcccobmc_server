@@ -6513,27 +6513,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
-    "criteria": {
-      "has_pumpkin": "2025-12-05 04:27:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2025-12-05 04:23:18 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/mushroom_stew": {
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
     "criteria": {
-      "has_any_ingredient": "2025-12-05 04:27:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_brown_mushroom": "2025-12-05 04:27:50 +0000"
+      "has_pumpkin": "2025-12-05 04:27:18 +0000"
     },
     "done": true
   },
@@ -6555,9 +6543,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-12-05 04:27:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-12-05 04:27:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2025-12-05 04:27:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/deepslate_stepping_stones": {
+    "criteria": {
+      "has_minecraft:deepslate": "2025-12-09 00:49:53 +0000"
     },
     "done": true
   },

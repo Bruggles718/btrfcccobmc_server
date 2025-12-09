@@ -8581,5 +8581,23 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_sweet_berries": {
+    "criteria": {
+      "has_sweet_berries": "2025-12-09 04:06:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-12-09 04:06:00 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/food/toast_with_sweet_berries": {
+    "criteria": {
+      "has_sweet_berries": "2025-12-09 04:06:00 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4556
 }
