@@ -1,12 +1,23 @@
-[00:07:28] [User Authenticator #3/INFO]: UUID of player Bruggles is 5802cc54-f189-4fa4-bca3-022dc4c53176
-[00:07:29] [Server thread/INFO]: Bruggles[/10.0.0.245:63274] logged in with entity id 10320 at (-1255.7669866568806, 69.0, -350.2210848106442)
-[00:07:29] [Server thread/INFO]: Bruggles joined the game
-[00:07:30] [Server thread/INFO]: [voicechat] Received secret request of Bruggles (20)
-[00:07:30] [Server thread/INFO]: [voicechat] Sent secret to Bruggles
-[00:07:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5802cc54-f189-4fa4-bca3-022dc4c53176
-[00:07:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5802cc54-f189-4fa4-bca3-022dc4c53176
-[00:07:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Bruggles (5802cc54-f189-4fa4-bca3-022dc4c53176) successfully connected to voice chat
-[01:09:50] [Server thread/INFO]: Bruggles lost connection: Disconnected
-[01:09:50] [Server thread/INFO]: Bruggles left the game
-[01:09:50] [Server thread/INFO]: [voicechat] Disconnecting client Bruggles
-[01:10:50] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:00:00] [Server thread/INFO]: <[Air] astrophantom> i muted myself on discord
+[00:00:11] [Server thread/INFO]: <[Air] astrophantom> ok just leave vc we will just discord
+[00:12:26] [Server thread/INFO]: astrophantom lost connection: Disconnected
+[00:12:26] [Server thread/INFO]: astrophantom left the game
+[00:12:26] [Server thread/INFO]: [voicechat] Disconnecting client astrophantom
+[00:12:33] [Server thread/INFO]: <[Air] BolterNight> oppa penis style
+[00:12:35] [Server thread/INFO]: BolterNight lost connection: Disconnected
+[00:12:35] [Server thread/INFO]: BolterNight left the game
+[00:12:35] [Server thread/INFO]: [voicechat] Disconnecting client BolterNight
+[00:13:35] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[04:18:48] [User Authenticator #8/INFO]: UUID of player Omnilax is bcbba3ce-966c-4a95-ad81-6f39c9638494
+[04:18:50] [Server thread/INFO]: Omnilax[/73.124.223.163:50620] logged in with entity id 26322 at (-788.8110291972637, 74.0, 319.43161558160665)
+[04:18:50] [Server thread/INFO]: Omnilax joined the game
+[04:18:51] [Server thread/INFO]: [voicechat] Received secret request of Omnilax (20)
+[04:18:51] [Server thread/INFO]: [voicechat] Sent secret to Omnilax
+[04:18:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player bcbba3ce-966c-4a95-ad81-6f39c9638494
+[04:18:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player bcbba3ce-966c-4a95-ad81-6f39c9638494
+[04:18:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Omnilax (bcbba3ce-966c-4a95-ad81-6f39c9638494) successfully connected to voice chat
+[04:36:38] [Server thread/INFO]: Omnilax tried to swim in lava
+[04:39:02] [Server thread/INFO]: Omnilax lost connection: Disconnected
+[04:39:02] [Server thread/INFO]: Omnilax left the game
+[04:39:02] [Server thread/INFO]: [voicechat] Disconnecting client Omnilax
+[04:40:02] [Server thread/INFO]: Server empty for 60 seconds, pausing
