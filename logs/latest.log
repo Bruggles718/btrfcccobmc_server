@@ -21,3 +21,26 @@
 [04:39:02] [Server thread/INFO]: Omnilax left the game
 [04:39:02] [Server thread/INFO]: [voicechat] Disconnecting client Omnilax
 [04:40:02] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[06:48:05] [User Authenticator #9/INFO]: UUID of player Omnilax is bcbba3ce-966c-4a95-ad81-6f39c9638494
+[06:48:07] [Server thread/INFO]: Omnilax[/73.124.223.163:52512] logged in with entity id 32333 at (1321.4617165025638, 71.0, 580.805676321637)
+[06:48:07] [Server thread/INFO]: Omnilax joined the game
+[06:48:08] [Server thread/INFO]: [voicechat] Received secret request of Omnilax (20)
+[06:48:08] [Server thread/INFO]: [voicechat] Sent secret to Omnilax
+[06:48:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player bcbba3ce-966c-4a95-ad81-6f39c9638494
+[06:48:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player bcbba3ce-966c-4a95-ad81-6f39c9638494
+[06:48:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Omnilax (bcbba3ce-966c-4a95-ad81-6f39c9638494) successfully connected to voice chat
+[06:55:09] [User Authenticator #10/INFO]: UUID of player FlameWear is 6771c0eb-48cc-4b42-a19d-cb59f3b53980
+[06:55:12] [Server thread/INFO]: FlameWear[/70.131.184.145:51417] logged in with entity id 34786 at (1205.3343251043275, 95.09218898780114, 1265.398850846618)
+[06:55:12] [Server thread/INFO]: FlameWear joined the game
+[06:55:12] [Server thread/INFO]: [voicechat] Received secret request of FlameWear (20)
+[06:55:12] [Server thread/INFO]: [voicechat] Sent secret to FlameWear
+[06:55:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 6771c0eb-48cc-4b42-a19d-cb59f3b53980
+[06:55:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 6771c0eb-48cc-4b42-a19d-cb59f3b53980
+[06:55:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player FlameWear (6771c0eb-48cc-4b42-a19d-cb59f3b53980) successfully connected to voice chat
+[07:40:18] [Server thread/INFO]: FlameWear lost connection: Disconnected
+[07:40:18] [Server thread/INFO]: FlameWear left the game
+[07:40:18] [Server thread/INFO]: [voicechat] Disconnecting client FlameWear
+[07:40:30] [Server thread/INFO]: Omnilax lost connection: Disconnected
+[07:40:30] [Server thread/INFO]: Omnilax left the game
+[07:40:30] [Server thread/INFO]: [voicechat] Disconnecting client Omnilax
+[07:41:30] [Server thread/INFO]: Server empty for 60 seconds, pausing
