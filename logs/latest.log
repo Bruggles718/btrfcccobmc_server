@@ -266,3 +266,16 @@
 [16:43:45] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
 [16:43:45] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
 [16:44:45] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[16:47:38] [User Authenticator #1/INFO]: UUID of player Bruggles is 5802cc54-f189-4fa4-bca3-022dc4c53176
+[16:47:40] [Server thread/INFO]: Bruggles[/10.0.0.245:43267] logged in with entity id 64 at (-1260.7423731709039, 69.0, -357.67725521346273)
+[16:47:40] [Server thread/INFO]: [voicechat] Using Fabric Permissions API
+[16:47:40] [Server thread/INFO]: Bruggles joined the game
+[16:47:40] [Server thread/INFO]: [voicechat] Received secret request of Bruggles (20)
+[16:47:40] [Server thread/INFO]: [voicechat] Sent secret to Bruggles
+[16:47:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5802cc54-f189-4fa4-bca3-022dc4c53176
+[16:47:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5802cc54-f189-4fa4-bca3-022dc4c53176
+[16:47:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Bruggles (5802cc54-f189-4fa4-bca3-022dc4c53176) successfully connected to voice chat
+[16:54:07] [Server thread/INFO]: Bruggles lost connection: Disconnected
+[16:54:07] [Server thread/INFO]: Bruggles left the game
+[16:54:07] [Server thread/INFO]: [voicechat] Disconnecting client Bruggles
+[16:55:07] [Server thread/INFO]: Server empty for 60 seconds, pausing
