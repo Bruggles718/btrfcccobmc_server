@@ -9848,5 +9848,59 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_shelf": {
+    "criteria": {
+      "has_stripped_acacia_log": "2025-12-16 04:12:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-12-16 04:12:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_acacia_wood": {
+    "criteria": {
+      "has_log": "2025-12-16 04:12:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/acacia_cabinet": {
+    "criteria": {
+      "has_acacia_trapdoor": "2025-12-16 04:15:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-12-16 19:47:08 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/cooking/potato_salad": {
+    "criteria": {
+      "has_any_ingredient": "2025-12-16 19:47:08 +0000"
+    },
+    "done": true
+  },
+  "cookingforblockheads:recipes/decorations/milk_jar": {
+    "criteria": {
+      "has_milk_bucket": "2025-12-16 19:47:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/cheese": {
+    "criteria": {
+      "has_milk": "2025-12-16 19:47:08 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/cooking/mashed_potatoes": {
+    "criteria": {
+      "has_any_ingredient": "2025-12-16 19:47:08 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4556
 }
