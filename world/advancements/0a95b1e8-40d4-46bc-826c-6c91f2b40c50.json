@@ -7724,12 +7724,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/birch_cabinet": {
-    "criteria": {
-      "has_birch_trapdoor": "2025-12-11 00:09:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/crimson_fence": {
     "criteria": {
       "has_planks": "2025-12-11 00:02:06 +0000"
@@ -7757,6 +7751,12 @@
   "refurbished_furniture:recipes/misc/constructing/crimson_desk": {
     "criteria": {
       "has_minecraft:crimson_planks": "2025-12-11 00:02:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/birch_cabinet": {
+    "criteria": {
+      "has_birch_trapdoor": "2025-12-11 00:09:04 +0000"
     },
     "done": true
   },

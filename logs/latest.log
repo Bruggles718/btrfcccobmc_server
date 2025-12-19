@@ -1,47 +1,29 @@
-[03:56:18] [User Authenticator #5/INFO]: UUID of player FlameWear is 6771c0eb-48cc-4b42-a19d-cb59f3b53980
-[03:56:20] [Server thread/INFO]: FlameWear[/70.131.184.145:61794] logged in with entity id 29711 at (-714.3170358778201, 66.0, 375.0763465972382)
-[03:56:20] [Server thread/INFO]: FlameWear joined the game
-[03:56:21] [Server thread/INFO]: [voicechat] Received secret request of FlameWear (20)
-[03:56:21] [Server thread/INFO]: [voicechat] Sent secret to FlameWear
-[03:56:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 6771c0eb-48cc-4b42-a19d-cb59f3b53980
-[03:56:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 6771c0eb-48cc-4b42-a19d-cb59f3b53980
-[03:56:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player FlameWear (6771c0eb-48cc-4b42-a19d-cb59f3b53980) successfully connected to voice chat
-[05:04:31] [User Authenticator #6/INFO]: UUID of player Omnilax is bcbba3ce-966c-4a95-ad81-6f39c9638494
-[05:04:33] [Server thread/INFO]: Omnilax[/73.124.223.163:61160] logged in with entity id 42493 at (-773.1984834783834, 54.0, 315.8044616265258)
-[05:04:33] [Server thread/INFO]: Omnilax joined the game
-[05:04:34] [Server thread/INFO]: [voicechat] Received secret request of Omnilax (20)
-[05:04:34] [Server thread/INFO]: [voicechat] Sent secret to Omnilax
-[05:04:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player bcbba3ce-966c-4a95-ad81-6f39c9638494
-[05:04:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player bcbba3ce-966c-4a95-ad81-6f39c9638494
-[05:04:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Omnilax (bcbba3ce-966c-4a95-ad81-6f39c9638494) successfully connected to voice chat
-[05:04:56] [Server thread/INFO]: <[Air] Omnilax> i forgot to update anything
-[05:05:32] [Server thread/INFO]: <[Air] FlameWear> ayo
-[05:07:54] [Server thread/INFO]: <[Air] Omnilax> oof these nerfs are rough
-[05:08:03] [Server thread/INFO]: <[Air] FlameWear> yea fr
-[05:08:28] [Server thread/INFO]: <[Air] Omnilax> and no earth bending buff.. so i will stay air but i dont think ill be using anything in particular
-[05:08:40] [Server thread/INFO]: <[Air] Omnilax> tbh i dont like the balance they made, feels kinda negative
-[05:09:14] [Server thread/INFO]: <[Air] FlameWear> yea i was hoping to be able to still get speed 2 with a full set of leather/chain armor
-[05:20:37] [Server thread/INFO]: Omnilax tried to swim in lava
-[05:20:44] [Server thread/INFO]: <[Air] FlameWear> oop
-[05:20:47] [Server thread/INFO]: <[Air] Omnilax> bruug
-[05:23:26] [Server thread/INFO]: <[Air] Omnilax> brb
-[05:27:03] [Server thread/INFO]: FlameWear lost connection: Disconnected
-[05:27:03] [Server thread/INFO]: FlameWear left the game
-[05:27:03] [Server thread/INFO]: [voicechat] Disconnecting client FlameWear
-[05:39:50] [Server thread/INFO]: Omnilax lost connection: Disconnected
-[05:39:50] [Server thread/INFO]: Omnilax left the game
-[05:39:50] [Server thread/INFO]: [voicechat] Disconnecting client Omnilax
-[05:40:50] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[14:33:14] [Server thread/INFO]: MCScans (/45.148.10.134:35712) lost connection: Disconnected
-[19:44:55] [User Authenticator #7/INFO]: UUID of player FlameWear is 6771c0eb-48cc-4b42-a19d-cb59f3b53980
-[19:44:57] [Server thread/INFO]: FlameWear[/70.131.184.145:57317] logged in with entity id 61574 at (1308.5256089212965, 70.0, 572.5423382599562)
-[19:44:57] [Server thread/INFO]: FlameWear joined the game
-[19:44:58] [Server thread/INFO]: [voicechat] Received secret request of FlameWear (20)
-[19:44:58] [Server thread/INFO]: [voicechat] Sent secret to FlameWear
-[19:45:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 6771c0eb-48cc-4b42-a19d-cb59f3b53980
-[19:45:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 6771c0eb-48cc-4b42-a19d-cb59f3b53980
-[19:45:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player FlameWear (6771c0eb-48cc-4b42-a19d-cb59f3b53980) successfully connected to voice chat
-[20:02:39] [Server thread/INFO]: FlameWear lost connection: Disconnected
-[20:02:39] [Server thread/INFO]: FlameWear left the game
-[20:02:39] [Server thread/INFO]: [voicechat] Disconnecting client FlameWear
-[20:03:39] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:30:14] [Server thread/INFO]: sirloudlos was slain by Zombie
+[00:38:08] [Server thread/INFO]: sirloudlos was slain by Zombie
+[00:38:35] [Server thread/INFO]: sirloudlos has made the advancement [Monster Hunter]
+[00:41:00] [Server thread/INFO]: sirloudlos lost connection: Disconnected
+[00:41:00] [Server thread/INFO]: sirloudlos left the game
+[00:41:00] [Server thread/INFO]: [voicechat] Disconnecting client sirloudlos
+[00:42:00] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[01:31:20] [User Authenticator #21/INFO]: UUID of player sirloudlos is fe20d6bc-c76b-4eb6-b0c5-65798ee566a9
+[01:31:21] [Server thread/INFO]: sirloudlos (fe20d6bc-c76b-4eb6-b0c5-65798ee566a9) lost connection: Disconnected
+[01:34:53] [User Authenticator #22/INFO]: UUID of player sirloudlos is fe20d6bc-c76b-4eb6-b0c5-65798ee566a9
+[01:34:55] [Server thread/INFO]: sirloudlos[/75.40.167.159:62578] logged in with entity id 82548 at (-651.1087996819458, 65.0, 374.9183125957118)
+[01:34:55] [Server thread/INFO]: sirloudlos joined the game
+[01:34:56] [Server thread/INFO]: [voicechat] Received secret request of sirloudlos (20)
+[01:34:56] [Server thread/INFO]: [voicechat] Sent secret to sirloudlos
+[01:34:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player fe20d6bc-c76b-4eb6-b0c5-65798ee566a9
+[01:34:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player fe20d6bc-c76b-4eb6-b0c5-65798ee566a9
+[01:34:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player sirloudlos (fe20d6bc-c76b-4eb6-b0c5-65798ee566a9) successfully connected to voice chat
+[01:44:20] [Server thread/INFO]: sirloudlos fell from a high place
+[01:44:39] [Server thread/INFO]: sirloudlos has made the advancement [Stone Age]
+[01:48:00] [Server thread/INFO]: sirloudlos was blown up by Creeper
+[01:48:26] [Server thread/INFO]: sirloudlos has made the advancement [We Need to Go Deeper]
+[01:49:00] [Server thread/INFO]: sirloudlos tried to swim in lava
+[02:01:58] [Server thread/INFO]: sirloudlos was shot by Skeleton
+[02:02:29] [Server thread/INFO]: sirloudlos has made the advancement [Sweet Dreams]
+[02:03:33] [Server thread/INFO]: sirloudlos hit the ground too hard
+[02:04:23] [Server thread/INFO]: sirloudlos has made the advancement [The End?]
+[02:11:04] [Server thread/INFO]: sirloudlos hit the ground too hard
+[02:11:20] [Server thread/INFO]: sirloudlos hit the ground too hard
+[02:15:18] [Server thread/INFO]: sirloudlos was impaled by Drowned
