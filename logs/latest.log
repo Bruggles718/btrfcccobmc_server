@@ -27,3 +27,23 @@
 [02:11:04] [Server thread/INFO]: sirloudlos hit the ground too hard
 [02:11:20] [Server thread/INFO]: sirloudlos hit the ground too hard
 [02:15:18] [Server thread/INFO]: sirloudlos was impaled by Drowned
+[13:06:44] [Server thread/INFO]: MCScans (/45.148.10.134:55230) lost connection: Disconnected
+[15:18:11] [Server thread/INFO]: sirloudlos lost connection: Disconnected
+[15:18:11] [Server thread/INFO]: sirloudlos left the game
+[15:18:11] [Server thread/INFO]: [voicechat] Disconnecting client sirloudlos
+[15:19:11] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[18:59:02] [User Authenticator #23/INFO]: UUID of player Laxidaze3 is 718fd999-d407-428c-bd79-690386a1caad
+[18:59:05] [Server thread/INFO]: Laxidaze3[/70.173.193.208:63278] logged in with entity id 99235 at (-799.6999999880791, 15.0, 820.317132245499)
+[18:59:05] [Server thread/INFO]: Laxidaze3 joined the game
+[18:59:05] [Server thread/INFO]: Laxidaze3 has reached the goal [Beaconator]
+[18:59:06] [Server thread/INFO]: [voicechat] Received secret request of Laxidaze3 (20)
+[18:59:06] [Server thread/INFO]: [voicechat] Sent secret to Laxidaze3
+[18:59:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 718fd999-d407-428c-bd79-690386a1caad
+[18:59:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 718fd999-d407-428c-bd79-690386a1caad
+[18:59:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Laxidaze3 (718fd999-d407-428c-bd79-690386a1caad) successfully connected to voice chat
+[19:34:03] [Server thread/INFO]: Laxidaze3 was blown up by Wither
+[20:53:38] [Server thread/WARN]: Laxidaze3 moved too quickly! 13213.800000011921,110.5,-3708.800000011921
+[23:13:59] [Server thread/INFO]: Laxidaze3 lost connection: Disconnected
+[23:13:59] [Server thread/INFO]: Laxidaze3 left the game
+[23:13:59] [Server thread/INFO]: [voicechat] Disconnecting client Laxidaze3
+[23:14:59] [Server thread/INFO]: Server empty for 60 seconds, pausing
