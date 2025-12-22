@@ -1,1 +1,5 @@
 [03:33:06] [User Authenticator #25/INFO]: UUID of player KittyScanNya is 0235ffa8-ad25-4537-a3fd-535afff0987c
+[09:18:32] [Server thread/WARN]: handleDisconnection() called twice
+[14:24:30] [Server thread/INFO]: MCScans (/45.148.10.134:52080) lost connection: Disconnected
+[16:45:36] [Server thread/INFO]: /176.65.134.12:62511 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet login/serverbound/minecraft:hello (class_2915) was larger than I expected, found 1 bytes extra whilst reading packet serverbound/minecraft:hello
+[16:51:01] [Server thread/INFO]: /176.65.134.12:62511 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet login/serverbound/minecraft:hello (class_2915) was larger than I expected, found 1 bytes extra whilst reading packet serverbound/minecraft:hello
