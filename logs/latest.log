@@ -1,77 +1,29 @@
-[23:56:30] [Yggdrasil Key Fetcher/ERROR]: Got an error with a html body connecting to https://api.minecraftservices.com/publickeys: <!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
-<html xmlns='http://www.w3.org/1999/xhtml'>
-
-<head>
-    <meta content='text/html; charset=utf-8' http-equiv='content-type' />
-    <style type='text/css'>
-        body {
-            font-family: Arial;
-            margin-left: 40px;
-        }
-
-        img {
-            border: 0 none;
-        }
-
-        #content {
-            margin-left: auto;
-            margin-right: auto
-        }
-
-        #message h1 {
-            font-size: 24px;
-            font-weight: normal;
-            color: #000000;
-            margin: 34px 0px 0px 0px
-        }
-
-        #message h2 {
-            font-size: 20px;
-            font-weight: normal;
-            color: #000000;
-            margin: 34px 0px 0px 0px
-        }
-
-        #message p {
-            font-size: 16px;
-            color: #000000;
-            margin: 8px 0px 0px 0px
-        }
-
-        #message hr {
-            margin: 15px 0px
-        }
-
-        #errorref {
-            font-size: 11px;
-            color: #737373;
-            margin-top: 41px
-        }
-    </style>
-    <title>Service unavailable</title>
-</head>
-
-<body>
-    <div id='content'>
-        <div id='message'>
-            <h2>The request is blocked.</h2>
-        </div>
-        <div id='errorref'>
-            <span>20260111T235630Z-17d8d8554f45cj8lhC1TEBzc80000000030g00000000kmah            </span>
-        </div>
-    </div>
-</body>
-</html>
-
-[23:56:30] [Yggdrasil Key Fetcher/ERROR]: Failed to request yggdrasil public key
-com.mojang.authlib.exceptions.MinecraftClientHttpException: Status: 429
-	at knot/com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:100) ~[authlib-7.0.61.jar:?]
-	at knot/com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:56) ~[authlib-7.0.61.jar:?]
-	at knot/com.mojang.authlib.yggdrasil.YggdrasilServicesKeyInfo.fetch(YggdrasilServicesKeyInfo.java:114) ~[authlib-7.0.61.jar:?]
-	at knot/com.mojang.authlib.yggdrasil.YggdrasilServicesKeyInfo$1.run(YggdrasilServicesKeyInfo.java:89) ~[authlib-7.0.61.jar:?]
-	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
-	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
-	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[00:01:17] [User Authenticator #1/INFO]: UUID of player UniqueAndClever is 07e37ea1-a741-4700-980b-631d86b9966a
+[00:01:23] [Server thread/INFO]: UniqueAndClever[/99.33.195.107:54818] logged in with entity id 24 at (-978.1225394915986, 72.0, 1231.4171747336231)
+[00:01:23] [Server thread/INFO]: [voicechat] Using Fabric Permissions API
+[00:01:23] [Server thread/INFO]: UniqueAndClever joined the game
+[00:01:25] [Server thread/INFO]: [voicechat] Received secret request of UniqueAndClever (20)
+[00:01:25] [Server thread/INFO]: [voicechat] Sent secret to UniqueAndClever
+[00:01:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 07e37ea1-a741-4700-980b-631d86b9966a
+[00:01:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 07e37ea1-a741-4700-980b-631d86b9966a
+[00:01:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player UniqueAndClever (07e37ea1-a741-4700-980b-631d86b9966a) successfully connected to voice chat
+[00:01:56] [Server thread/INFO]: UniqueAndClever lost connection: Disconnected
+[00:01:56] [Server thread/INFO]: UniqueAndClever left the game
+[00:01:57] [Server thread/INFO]: [voicechat] Disconnecting client UniqueAndClever
+[00:01:57] [Server thread/WARN]: handleDisconnection() called twice
+[00:02:56] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:44:13] [User Authenticator #2/INFO]: UUID of player UniqueAndClever is 07e37ea1-a741-4700-980b-631d86b9966a
+[00:44:16] [Server thread/INFO]: UniqueAndClever[/99.33.195.107:61140] logged in with entity id 399 at (-969.2440760508947, 72.0, 1239.9057271510812)
+[00:44:16] [Server thread/INFO]: UniqueAndClever joined the game
+[00:44:17] [Server thread/INFO]: [voicechat] Received secret request of UniqueAndClever (20)
+[00:44:17] [Server thread/INFO]: [voicechat] Sent secret to UniqueAndClever
+[00:44:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 07e37ea1-a741-4700-980b-631d86b9966a
+[00:44:22] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 07e37ea1-a741-4700-980b-631d86b9966a
+[00:44:22] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player UniqueAndClever (07e37ea1-a741-4700-980b-631d86b9966a) successfully connected to voice chat
+[00:49:52] [Server thread/INFO]: UniqueAndClever has completed the challenge [Subspace Bubble]
+[00:51:02] [Server thread/INFO]: UniqueAndClever fell from a high place
+[00:55:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2624ms or 52 ticks behind
+[01:30:49] [Server thread/INFO]: UniqueAndClever lost connection: Disconnected
+[01:30:49] [Server thread/INFO]: UniqueAndClever left the game
+[01:30:49] [Server thread/INFO]: [voicechat] Disconnecting client UniqueAndClever
+[01:31:49] [Server thread/INFO]: Server empty for 60 seconds, pausing
