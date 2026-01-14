@@ -27,3 +27,5 @@
 [01:30:49] [Server thread/INFO]: UniqueAndClever left the game
 [01:30:49] [Server thread/INFO]: [voicechat] Disconnecting client UniqueAndClever
 [01:31:49] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[11:22:07] [Server thread/WARN]: handleDisconnection() called twice
+[12:44:07] [Server thread/INFO]: MCScans (/45.148.10.134:39008) lost connection: Disconnected
