@@ -1,4 +1,3 @@
-[12:11:48] [Server thread/INFO]: MCScans (/45.148.10.134:40062) lost connection: Disconnected
 [23:56:34] [Yggdrasil Key Fetcher/ERROR]: Got an error with a html body connecting to https://api.minecraftservices.com/publickeys: <!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
 <html xmlns='http://www.w3.org/1999/xhtml'>
 
@@ -58,7 +57,7 @@
             <h2>The request is blocked.</h2>
         </div>
         <div id='errorref'>
-            <span>20260201T235634Z-r17d45d946fkzrb2hC1TEBp3n400000018pg000000002k2s            </span>
+            <span>20260202T235634Z-164d49d8c8fkgjkwhC1MNZ44940000000nug000000001p3c            </span>
         </div>
     </div>
 </body>
