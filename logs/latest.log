@@ -1,2 +1,13 @@
-[09:43:49] [Server thread/INFO]: MCScanner (/117.140.175.8:42692) lost connection: Disconnected
-[13:48:47] [Server thread/INFO]: MCScanner (/111.59.124.238:45222) lost connection: Disconnected
+[05:16:09] [User Authenticator #11/INFO]: UUID of player ProstheticHead25 is e2baa2db-5218-41f2-93e6-37221104026e
+[05:16:09] [Server thread/INFO]: ProstheticHead25 (e2baa2db-5218-41f2-93e6-37221104026e) lost connection: This server requires Fabric Loader and Fabric API installed on your client!
+The following registry entry namespaces may be related:
+
+balm
+betterenchanting
+chisel
+comforts
+And 9 more...
+
+Contact the server's administrator for more information!
+[05:16:09] [Server thread/WARN]: handleDisconnection() called twice
+[14:27:34] [Server thread/INFO]: MCScans (/45.148.10.134:41284) lost connection: Disconnected
