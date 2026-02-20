@@ -1,13 +1,1 @@
-[02:24:20] [User Authenticator #12/INFO]: UUID of player KittyScanArchive is 062756ef-bf83-4f39-9b52-c73f767c6b5b
-[02:24:21] [Server thread/INFO]: KittyScanArchive (062756ef-bf83-4f39-9b52-c73f767c6b5b) lost connection: This server requires Fabric Loader and Fabric API installed on your client!
-The following registry entry namespaces may be related:
-
-balm
-betterenchanting
-chisel
-comforts
-And 9 more...
-
-Contact the server's administrator for more information!
-[02:24:21] [Server thread/WARN]: handleDisconnection() called twice
-[04:10:29] [User Authenticator #13/INFO]: UUID of player KittyScanArchive is 062756ef-bf83-4f39-9b52-c73f767c6b5b
+[15:56:15] [Server thread/INFO]: MCScans (/45.148.10.134:58542) lost connection: Disconnected
