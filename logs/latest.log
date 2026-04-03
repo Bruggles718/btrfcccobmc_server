@@ -1,2 +1,2 @@
-[19:09:34] [Server thread/INFO]: MCScans (/87.121.84.28:55824) lost connection: Disconnected
-[19:12:58] [Server thread/INFO]: MCScans (/87.121.84.28:48498) lost connection: Disconnected
+[20:27:24] [Server thread/WARN]: handleDisconnection() called twice
+[21:22:32] [Server thread/INFO]: MCScans (/87.121.84.28:58656) lost connection: Disconnected
