@@ -1,5 +1,5 @@
-[02:47:36] [User Authenticator #21/INFO]: UUID of player KittyScan01 is 80f8e86a-f1ef-4f29-9dde-6663b6211049
-[02:47:37] [Server thread/INFO]: KittyScan01 (80f8e86a-f1ef-4f29-9dde-6663b6211049) lost connection: This server requires Fabric Loader and Fabric API installed on your client!
+[15:25:07] [User Authenticator #22/INFO]: UUID of player KittyScanArchive is 062756ef-bf83-4f39-9b52-c73f767c6b5b
+[15:25:07] [Server thread/INFO]: KittyScanArchive (062756ef-bf83-4f39-9b52-c73f767c6b5b) lost connection: This server requires Fabric Loader and Fabric API installed on your client!
 The following registry entry namespaces may be related:
 
 balm
@@ -9,5 +9,4 @@ comforts
 And 9 more...
 
 Contact the server's administrator for more information!
-[02:47:37] [Server thread/WARN]: handleDisconnection() called twice
-[14:01:20] [Server thread/INFO]: MCScans (/87.121.84.28:47364) lost connection: Disconnected
+[15:25:07] [Server thread/WARN]: handleDisconnection() called twice
