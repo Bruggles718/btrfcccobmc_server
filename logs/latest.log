@@ -13,3 +13,8 @@
 [03:15:06] [Server thread/INFO]: /15.237.177.126:45562 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
 [03:30:09] [Server thread/INFO]: /15.237.177.126:49086 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
 [03:45:14] [Server thread/INFO]: /15.237.177.126:41326 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
+[04:00:18] [Server thread/INFO]: /15.237.177.126:54630 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
+[04:15:21] [Server thread/INFO]: /15.237.177.126:60130 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
+[07:49:10] [Server thread/INFO]: AceSoft362 (/87.49.44.94:33112) lost connection: Disconnected
+[10:07:52] [Server thread/INFO]: AceSoft362 (/87.49.44.94:45680) lost connection: Disconnected
+[12:31:15] [Server thread/INFO]: MCScans (/87.121.84.28:39712) lost connection: Disconnected
